@@ -1,1 +1,18 @@
 const search=document.querySelector('#search'),verdict=document.querySelector('#verdict'),cards=document.querySelector('#cards'),count=document.querySelector('#count');let items=[],year="";const years=document.querySelector("#years"),coverage=document.querySelector("#coverage");function render(){const q=search.value.trim().toLowerCase(),v=verdict.value;const filtered=items.filter(x=>(!v||x.verdict===v)&&(!year||x.date.startsWith(year))&&[x.title,x.claim,x.topic,x.date].join(' ').toLowerCase().includes(q));cards.replaceChildren();count.textContent=filtered.length+' documented checks';if(!filtered.length){const p=document.createElement('p');p.textContent=items.length?'No matches for these filters.':'Verified articles are being prepared. Check back soon.';cards.append(p);return}for(const x of filtered){const el=document.createElement('article');el.className='card';const tag=document.createElement('span');tag.className='verdict '+x.verdict.toLowerCase().replaceAll(' ','-');tag.textContent=x.verdict;const h=document.createElement('h3');h.textContent=x.title;const meta=document.createElement('p');meta.className='meta';meta.textContent=x.date+' · '+x.topic;const p=document.createElement('p');p.textContent=x.summary;el.append(tag,h,meta,p);if(x.sources?.length){const a=document.createElement('a');a.href=x.sources[0].url;a.textContent='Read the evidence ↗';a.target='_blank';a.rel='noopener noreferrer';el.append(a)}cards.append(el)}}search.addEventListener('input',render);verdict.addEventListener('change',render);fetch('data/claims.json').then(r=>{if(!r.ok)throw Error('Cannot load claims');return r.json()}).then(d=>{items=d.filter(x=>x.reviewed===true&&x.sources?.length&&x.title&&x.verdict);for(const y of ['All',...Array.from({length:12},(_,i)=>String(2015+i))]){const b=document.createElement('button');b.textContent=y;b.className='yearbutton'+(y==='All'?' active':'');b.addEventListener('click',()=>{year=y==='All'?'':y;for(const el of years.children)el.classList.toggle('active',el===b);render()});years.append(b)}for(let y=2015;y<=2026;y++){const n=items.filter(x=>x.date.startsWith(String(y))).length;const el=document.createElement('div');el.textContent=y+' · '+n+' checks';el.className='coverageitem';coverage.append(el)}render()}).catch(()=>{count.textContent='Archive unavailable';cards.textContent='Please try again later.'});
+const pairRoot=document.querySelector('#pairs');
+fetch('data/contradictions.json').then(r=>r.json()).then(pairs=>{
+ const approved=pairs.filter(p=>p.reviewed===true&&p.before?.url&&p.after?.url&&p.before?.quote&&p.after?.quote);
+ if(!approved.length){pairRoot.textContent='The contradiction timeline is being documented. No unsourced gotchas here.';return;}
+ for(const p of approved.sort((a,b)=>a.before.date.localeCompare(b.before.date))){
+  const article=document.createElement('article');article.className='pair';
+  const heading=document.createElement('h3');heading.textContent=p.title;article.append(heading);
+  for(const [label,item] of [['THEN',p.before],['AND THEN',p.after]]){
+   const panel=document.createElement('div');panel.className='quote-panel';
+   const date=document.createElement('strong');date.textContent=label+' · '+item.date;
+   const quote=document.createElement('blockquote');quote.textContent='“'+item.quote+'”';
+   const link=document.createElement('a');link.href=item.url;link.target='_blank';link.rel='noopener noreferrer';link.textContent='Original source ↗';
+   panel.append(date,quote,link);article.append(panel);
+  }
+  const note=document.createElement('p');note.textContent=p.context||'';article.append(note);pairRoot.append(article);
+ }
+}).catch(()=>{pairRoot.textContent='Comparison timeline temporarily unavailable.';});
