@@ -51,6 +51,91 @@
     "context": "Trump publicly reversed his characterization of NATO, citing changes in the alliance's focus on counterterrorism. This is an acknowledged policy assessment change, not necessarily evidence of deception."
   },
   {
+    "title": "Health care first or tax reform first?",
+    "before": {
+      "date": "2017-03-24",
+      "quote": "So now we're going to go for tax reform.",
+      "where": "Remarks after House Republican health-care bill was withdrawn",
+      "url": "https://www.washingtonpost.com/news/fact-checker/wp/2017/04/13/president-trump-king-of-flip-flops-continued/"
+    },
+    "after": {
+      "date": "2017-04-11",
+      "quote": "We have a great health care plan that I think will happen, and if it happens, then I go immediately to tax reform.",
+      "where": "Fox Business Network interview",
+      "url": "https://www.washingtonpost.com/news/fact-checker/wp/2017/04/13/president-trump-king-of-flip-flops-continued/"
+    },
+    "context": "Trump reversed the order of his announced legislative priorities within weeks, putting health care ahead of taxes again.",
+    "reviewed": true
+  },
+  {
+    "title": "Syria: 'do not attack' vs ordering missile strikes",
+    "before": {
+      "date": "2013-09-05",
+      "quote": "Do NOT attack Syria,fix U.S.A.",
+      "where": "Twitter post urging President Obama not to intervene militarily",
+      "url": "https://www.factcheck.org/2017/04/trumps-line-syria/"
+    },
+    "after": {
+      "date": "2017-04-06",
+      "quote": "Tonight, I ordered a targeted military strike on the airfield in Syria.",
+      "where": "White House address announcing strikes on Shayrat air base",
+      "url": "https://rollcall.com/factbase/trump/transcript/donald-trump-statement-syria-april-6-2017/"
+    },
+    "context": "The original statement predates the requested 2015 archive start but is necessary to document a 2017 reversal. The chemical attack and Trump's responsibility as president were different circumstances.",
+    "reviewed": true
+  },
+  {
+    "title": "Unemployment statistics: 'hoax' before inauguration, embraced afterward",
+    "before": {
+      "date": "2016-08-08",
+      "quote": "One of the biggest hoaxes in modern American politics.",
+      "where": "Economic Club of Detroit speech, referring to the official unemployment rate",
+      "url": "https://www.washingtonpost.com/news/fact-checker/wp/2017/03/13/president-trump-the-king-of-flip-flops/"
+    },
+    "after": {
+      "date": "2017-03-10",
+      "quote": "They may have been phony in the past, but it's very real now.",
+      "where": "White House press briefing; Sean Spicer quoting Trump's response to the new jobs report",
+      "url": "https://www.washingtonpost.com/news/fact-checker/wp/2017/03/13/president-trump-the-king-of-flip-flops/"
+    },
+    "context": "Trump questioned the credibility of official unemployment figures before taking office, then celebrated the same statistical series. The second quotation was relayed by his press secretary rather than spoken directly on camera.",
+    "reviewed": true
+  },
+  {
+    "title": "Medicaid: 'without cuts' vs backing reduced federal spending",
+    "before": {
+      "date": "2015-06-16",
+      "quote": "Save Medicare, Medicaid and Social Security without cuts.",
+      "where": "Presidential campaign announcement, Trump Tower, New York City",
+      "url": "https://www.washingtonpost.com/news/fact-checker/wp/2017/03/13/president-trump-the-king-of-flip-flops/"
+    },
+    "after": {
+      "date": "2017-03-07",
+      "quote": "Backed the House Republican American Health Care Act, which proposed major reductions to projected federal Medicaid spending.",
+      "where": "White House support for House Republican health-care proposal (action, not verbatim quote)",
+      "url": "https://www.washingtonpost.com/news/fact-checker/wp/2017/03/13/president-trump-the-king-of-flip-flops/"
+    },
+    "context": "This is a promise-versus-policy comparison. The later item is a documented action, not a direct Trump quotation; the proposal capped federal Medicaid growth. It does not mean all Medicaid beneficiaries would immediately lose coverage.",
+    "reviewed": true
+  },
+  {
+    "title": "Stock market: 'big, fat, ugly bubble' vs celebrating gains",
+    "before": {
+      "date": "2016-09-26",
+      "quote": "We are in a big, fat, ugly bubble.",
+      "where": "First presidential debate, Hofstra University, New York",
+      "url": "https://www.washingtonpost.com/news/fact-checker/wp/2017/03/13/president-trump-the-king-of-flip-flops/"
+    },
+    "after": {
+      "date": "2017-02-28",
+      "quote": "Trillions of dollars of value have been created since I won the election.",
+      "where": "Fox & Friends interview",
+      "url": "https://www.washingtonpost.com/news/fact-checker/wp/2017/03/13/president-trump-the-king-of-flip-flops/"
+    },
+    "context": "Trump criticized stock-market gains under Obama as an artificial bubble but cited stock-market gains after his election as a positive economic indicator. A changed market assessment is not by itself a factual contradiction.",
+    "reviewed": true
+  },
+  {
     "title": "Tax returns: 'it'll be released' versus continued refusal",
     "reviewed": true,
     "before": {
@@ -66,6 +151,23 @@
       "url": "https://www.factcheck.org/2017/01/factchecking-trumps-press-conference-2/"
     },
     "context": "The 2016 statement suggested release after an audit; in 2017 Trump continued withholding the returns on audit grounds. An audit does not legally prevent voluntary publication. This is a change in stated willingness, not evidence of a legal obligation."
+  },
+  {
+    "title": "Putin: 'got to know him very well' vs 'no relationship'",
+    "before": {
+      "date": "2015-11-10",
+      "quote": "I got to know him very well because we were both on 60 Minutes.",
+      "where": "Republican presidential debate",
+      "url": "https://politifact.com/factchecks/2016/aug/01/donald-trump/donald-trump-gets-full-flop-whether-hes-had-relati/"
+    },
+    "after": {
+      "date": "2016-07-31",
+      "quote": "I have no relationship with Putin.",
+      "where": "ABC This Week interview with George Stephanopoulos",
+      "url": "https://rollcall.com/factbase/trump/transcript/donald-trump-interview-abc-july-31-2016/"
+    },
+    "context": "Trump described a personal connection to Putin in 2015, then denied any relationship in 2016. The 60 Minutes interviews were recorded separately, a relevant distinction. PolitiFact rated the change a Full Flop.",
+    "reviewed": true
   },
   {
     "title": "Abortion: punish women — then not women",
