@@ -1,1 +1,36 @@
-[]
+[
+  {
+    "title": "WikiLeaks: from 'I love' to 'I know nothing'",
+    "reviewed": true,
+    "before": {
+      "date": "2016-10-10",
+      "quote": "I love WikiLeaks!",
+      "where": "Campaign rally, Wilkes-Barre, Pennsylvania",
+      "url": "https://www.factcheck.org/2016/10/trump-twists-facts-on-wikileaks/"
+    },
+    "after": {
+      "date": "2019-04-11",
+      "quote": "I know nothing about WikiLeaks. It's not my thing.",
+      "where": "Oval Office, White House, Washington, D.C.",
+      "url": "https://www.govinfo.gov/content/pkg/DCPD-201900221/pdf/DCPD-201900221.pdf"
+    },
+    "context": "Trump enthusiastically praised WikiLeaks during the 2016 campaign, then distanced himself from the organization following Julian Assange's arrest in 2019. The contrast is documented in contemporaneous reporting and an official presidential transcript."
+  },
+  {
+    "title": "Tax returns: 'it'll be released' versus continued refusal",
+    "reviewed": true,
+    "before": {
+      "date": "2016-09-26",
+      "quote": "I don't mind releasing. I'm under a routine audit, and it'll be released.",
+      "where": "First presidential debate, Hofstra University, Hempstead, New York",
+      "url": "https://www.washingtonpost.com/politics/2016/live-updates/general-election/real-time-fact-checking-and-analysis-of-the-first-presidential-debate/fact-checker-trump-on-releasing-his-tax-returns-after-irs-audit/"
+    },
+    "after": {
+      "date": "2017-01-11",
+      "quote": "I'm not releasing the tax returns because, as you know, they're under audit.",
+      "where": "Press conference, Trump Tower, New York City",
+      "url": "https://www.factcheck.org/2017/01/factchecking-trumps-press-conference-2/"
+    },
+    "context": "The 2016 statement suggested release after an audit; in 2017 Trump continued withholding the returns on audit grounds. An audit does not legally prevent voluntary publication. This is a change in stated willingness, not evidence of a legal obligation."
+  }
+]
