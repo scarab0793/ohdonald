@@ -1,5 +1,22 @@
 [
   {
+    "title": "Iran war: Trump sought allied help, then said 'WE NEVER DID' need it",
+    "reviewed": true,
+    "before": {
+      "date": "2026-03-14",
+      "quote": "Many countries ... will be sending warships ... to keep the Strait of Hormuz open and safe.",
+      "where": "Truth Social statement calling for international assistance securing the Strait of Hormuz",
+      "url": "https://www.stripes.com/theaters/us/2026-03-17/trump-nato-comments-iran-hormuz-21098705.html"
+    },
+    "after": {
+      "date": "2026-03-17",
+      "quote": "We no longer 'need,' or desire, the NATO Countries' assistance — WE NEVER DID!",
+      "where": "Truth Social post after NATO allies declined to join the operation",
+      "url": "https://www.aa.com.tr/en/americas/trump-issues-broadside-against-nato-allies-for-iran-war-refusal/3868390"
+    },
+    "context": "During the March 2026 Iran war, Trump publicly called for other countries to help protect shipping through the Strait of Hormuz. After NATO allies declined involvement, he claimed the United States never needed their help. On March 17 he also said in the Oval Office, 'we don't need them, but they should have been there.' This is a documented reversal in his public description of whether allied help was needed; asking for help and later saying it was not strictly necessary are not inherently logically incompatible. Sources: https://www.reutersconnect.com/item/trump-says-natos-refusal-to-help-on-iran-is-very-foolish-mistake/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1ZBNDg5NDE3MDMyMDI2UlAx and https://abcnews.com/amp/Politics/trump-blasts-nato-after-allies-rebuff-call-reopen/story?id=131113988"
+  },
+  {
     "title": "WikiLeaks: from 'I love' to 'I know nothing'",
     "reviewed": true,
     "before": {
