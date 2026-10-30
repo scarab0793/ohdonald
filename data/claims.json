@@ -165,6 +165,25 @@
     ]
   },
   {
+    "date": "2026-05-31",
+    "title": "A perfect cognitive-screening score is not an IQ score",
+    "claim": "I scored a perfect 30 out of 30, considered ‘extreme intelligence.’",
+    "topic": "Cognitive tests",
+    "verdict": "False",
+    "summary": "Trump reported a 30/30 score on the Montreal Cognitive Assessment. Its creator and medical experts explain that MoCA screens for cognitive impairment; it does not measure IQ or establish 'extreme intelligence'. Trump described this as his fourth perfect test, so it is inaccurate to say he had taken only one test.",
+    "reviewed": true,
+    "sources": [
+      {
+        "label": "PolitiFact — June 3, 2026",
+        "url": "https://api.politifact.com/factchecks/2026/jun/03/donald-trump/cognitive-test-montreal-intelligence/"
+      },
+      {
+        "label": "BMJ — June 4, 2026",
+        "url": "https://www.bmj.com/content/393/bmj-2026-618561.short"
+      }
+    ]
+  },
+  {
     "date": "2025-12-17",
     "title": "Inflation had 'stopped'? Prices kept rising.",
     "claim": "Inflation was the worst in history when he took office, and had now stopped",
@@ -315,6 +334,25 @@
     ]
   },
   {
+    "date": "2020-07-09",
+    "title": "Acing a cognitive screen isn't acing an intelligence test",
+    "claim": "I proved I was all there, because I aced it. I aced the test.",
+    "topic": "Cognitive tests",
+    "verdict": "Needs context",
+    "summary": "Trump said he aced a cognitive assessment. Such screening assesses cognitive functioning rather than IQ; a high score alone cannot establish exceptional intelligence.",
+    "reviewed": true,
+    "sources": [
+      {
+        "label": "CBS News — July 10, 2020",
+        "url": "https://www.cbsnews.com/news/trump-cognitive-test-joe-biden/"
+      },
+      {
+        "label": "ABC News — July 2020",
+        "url": "https://abcnews.com/Politics/trump-bragging-acing-simple-test-detect-mental-impairment/story?id=71945342"
+      }
+    ]
+  },
+  {
     "date": "2019-04-02",
     "title": "Wind turbine noise causes cancer? Evidence says no.",
     "claim": "They say the noise causes cancer",
@@ -341,6 +379,25 @@
       {
         "label": "FactCheck.org — full analysis",
         "url": "https://www.factcheck.org/2018/04/factchecking-trumps-immigration-tweets/"
+      }
+    ]
+  },
+  {
+    "date": "2018-01-06",
+    "title": "The 'very stable genius' declaration",
+    "claim": "I think that would qualify as not smart, but genius....and a very stable genius at that!",
+    "topic": "Intelligence claims",
+    "verdict": "Needs context",
+    "summary": "Trump publicly described himself as a 'very stable genius'. The phrase is an opinion about himself, not a measurable factual finding. His later MoCA screening results cannot validate a claim about IQ.",
+    "reviewed": true,
+    "sources": [
+      {
+        "label": "PolitiFact — IQ claim and test context",
+        "url": "https://api.politifact.com/factchecks/2026/jun/03/donald-trump/cognitive-test-montreal-intelligence/"
+      },
+      {
+        "label": "PolitiFact — no documented IQ score",
+        "url": "https://api.politifact.com/factchecks/2019/may/14/viral-image/social-media-post-sharing-newspaper-story-trump-ha/"
       }
     ]
   },
