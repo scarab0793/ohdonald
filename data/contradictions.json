@@ -17,6 +17,23 @@
     "context": "Trump enthusiastically praised WikiLeaks during the 2016 campaign, then distanced himself from the organization following Julian Assange's arrest in 2019. The contrast is documented in contemporaneous reporting and an official presidential transcript."
   },
   {
+    "title": "NATO: 'obsolete' in 2016, 'no longer obsolete' in 2017",
+    "reviewed": true,
+    "before": {
+      "date": "2016-03-27",
+      "quote": "I think NATO's obsolete.",
+      "where": "ABC This Week interview",
+      "url": "https://politifact.com/article/2016/may/11/trying-pin-down-what-donald-trump-thinks-about-abo/"
+    },
+    "after": {
+      "date": "2017-04-12",
+      "quote": "I said it was obsolete. It's no longer obsolete.",
+      "where": "White House joint press conference with NATO Secretary General Jens Stoltenberg",
+      "url": "https://www.reuters.com/article/world/trump-says-nato-no-longer-obsolete-idUSKBN17E2Q8/"
+    },
+    "context": "Trump publicly reversed his characterization of NATO, citing changes in the alliance's focus on counterterrorism. This is an acknowledged policy assessment change, not necessarily evidence of deception."
+  },
+  {
     "title": "Tax returns: 'it'll be released' versus continued refusal",
     "reviewed": true,
     "before": {
@@ -32,5 +49,73 @@
       "url": "https://www.factcheck.org/2017/01/factchecking-trumps-press-conference-2/"
     },
     "context": "The 2016 statement suggested release after an audit; in 2017 Trump continued withholding the returns on audit grounds. An audit does not legally prevent voluntary publication. This is a change in stated willingness, not evidence of a legal obligation."
+  },
+  {
+    "title": "Abortion: punish women — then not women",
+    "reviewed": true,
+    "before": {
+      "date": "2016-03-30",
+      "quote": "There has to be some form of punishment.",
+      "where": "MSNBC town hall with Chris Matthews, Green Bay, Wisconsin",
+      "url": "https://www.washingtonpost.com/politics/2024/04/08/trump-abortion-stances/"
+    },
+    "after": {
+      "date": "2016-03-30",
+      "quote": "The doctor or any other person performing this illegal act upon a woman would be held legally responsible, not the woman.",
+      "where": "Written campaign statement issued after the town hall",
+      "url": "https://www.washingtonpost.com/politics/2024/04/08/trump-abortion-stances/"
+    },
+    "context": "In the town hall, Trump answered yes when pressed on punishment for women; later the same day, his campaign stated that women would not be punished. This is a same-day reversal, not a claim about current law."
+  },
+  {
+    "title": "Protester legal fees: a promise followed by a denial",
+    "reviewed": true,
+    "before": {
+      "date": "2016-02-01",
+      "quote": "I promise you, I will pay for the legal fees. I promise. I promise.",
+      "where": "Campaign rally, Cedar Rapids, Iowa",
+      "url": "https://api.politifact.com/article/2016/jul/06/17-things-donald-trump-said-and-then-denied-saying/"
+    },
+    "after": {
+      "date": "2016-03-15",
+      "quote": "I never said I was going to pay for fees.",
+      "where": "ABC News interview",
+      "url": "https://api.politifact.com/article/2016/jul/06/17-things-donald-trump-said-and-then-denied-saying/"
+    },
+    "context": "The earlier promise concerned a supporter confronting someone throwing tomatoes; the later statement denied having made a legal-fees promise. The original remarks and denial were compared by PolitiFact."
+  },
+  {
+    "title": "David Duke: denounced, then 'I don't know anything'",
+    "reviewed": true,
+    "before": {
+      "date": "2016-02-26",
+      "quote": "I disavow.",
+      "where": "Press conference, Fort Worth, Texas, answering a question about David Duke",
+      "url": "https://api.politifact.com/article/2016/jul/06/17-things-donald-trump-said-and-then-denied-saying/"
+    },
+    "after": {
+      "date": "2016-02-28",
+      "quote": "I don't know anything about David Duke.",
+      "where": "CNN State of the Union interview with Jake Tapper",
+      "url": "https://api.politifact.com/article/2016/jul/06/17-things-donald-trump-said-and-then-denied-saying/"
+    },
+    "context": "Trump rejected Duke's endorsement two days before claiming unfamiliarity with him in a CNN interview. PolitiFact also documented earlier public comments about Duke."
+  },
+  {
+    "title": "Planned Parenthood: defund it, then keep some funding",
+    "reviewed": true,
+    "before": {
+      "date": "2015-07-28",
+      "quote": "Absolutely, they should be defunded.",
+      "where": "Blaze TV interview",
+      "url": "https://www.washingtonpost.com/news/the-fix/wp/2015/10/06/donald-trumps-many-campaign-180s-in-his-own-words/"
+    },
+    "after": {
+      "date": "2015-08-11",
+      "quote": "I'd look at the good aspects of it, and I would also look because I'm against abortion.",
+      "where": "CNN interview",
+      "url": "https://www.washingtonpost.com/news/the-fix/wp/2015/10/06/donald-trumps-many-campaign-180s-in-his-own-words/"
+    },
+    "context": "Trump first called for defunding Planned Parenthood, then discussed preserving support for its non-abortion health services. His position changed again in September. The precise distinction between funding the organization and specific services matters."
   }
 ]
