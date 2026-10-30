@@ -1,0 +1,21 @@
+name: Monitor public Truth Social posts
+on:
+  schedule:
+    - cron: '37 */6 * * *'
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - name: Collect public posts as unreviewed research leads
+        run: python3 scripts/collect_truth_social.py
+      - name: Upload research artifact (not website content)
+        uses: actions/upload-artifact@v4
+        with:
+          name: truth-social-unreviewed-posts
+          path: research/truth-social-leads.json
+          retention-days: 14
