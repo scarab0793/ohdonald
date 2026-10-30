@@ -1,150 +1,135 @@
 [
   {
-    "date": "2026-10-27",
-    "title": "Trump's October rally claims: what the evidence says",
-    "claim": "A series of claims at October 2026 campaign rallies",
-    "topic": "Campaign",
-    "verdict": "Needs context",
-    "summary": "FactCheck.org reviewed more than a dozen false, misleading or exaggerated claims across multiple rallies. This is a sourced roundup, not a single-claim verdict.",
-    "reviewed": true,
-    "sources": [
-      {
-        "label": "FactCheck.org — sourced analysis",
-        "url": "https://www.factcheck.org/2026/10/factchecking-claims-from-trumps-midterm-rallies/"
-      }
-    ]
-  },
-  {
     "date": "2026-10-25",
-    "title": "Record number of Americans working — with a catch",
-    "claim": "More Americans are working than ever before",
+    "title": "A record number of workers — but what about the rate?",
+    "claim": "More Americans are working today than at any time in the history of our country",
     "topic": "Jobs",
     "verdict": "Needs context",
-    "summary": "FactCheck.org says the raw employment count was at a high, but so was the population. The employment-to-population ratio was below its January 2025 level.",
+    "summary": "The number employed reached a record as the population grew; the employment-to-population ratio was below its January 2025 level.",
     "reviewed": true,
     "sources": [
       {
-        "label": "FactCheck.org — sourced analysis",
+        "label": "FactCheck.org — full analysis",
         "url": "https://www.factcheck.org/2026/10/factchecking-claims-from-trumps-midterm-rallies/"
       }
     ]
   },
   {
     "date": "2026-10-24",
-    "title": "Zero illegal immigrants admitted? The missing distinction",
+    "title": "Zero illegal entries? That is not what the data show.",
     "claim": "In the past 17 months, zero illegal aliens have been admitted to the United States",
     "topic": "Immigration",
     "verdict": "Misleading",
-    "summary": "The claim appears to refer to releases at the southern border, not to all unauthorized entries or successful crossings.",
+    "summary": "The administration reported zero releases at the southern border, not zero attempts or successful unauthorized crossings.",
     "reviewed": true,
     "sources": [
       {
-        "label": "FactCheck.org — sourced analysis",
+        "label": "FactCheck.org — full analysis",
         "url": "https://www.factcheck.org/2026/10/factchecking-claims-from-trumps-midterm-rallies/"
       }
     ]
   },
   {
     "date": "2026-10-22",
-    "title": "A 97% fall in drugs smuggled by sea? Not established",
+    "title": "A 97% drop in ocean drug trafficking? Show the data.",
     "claim": "We brought the flow of deadly drugs coming in by ocean down by 97%",
     "topic": "Drugs",
     "verdict": "Unsupported",
-    "summary": "No comprehensive dataset measures all illicit drugs entering by sea, including drugs not seized. The cited seizure comparison is selective.",
+    "summary": "There is no comprehensive measure of all drugs trafficked by sea, including shipments that were not seized.",
     "reviewed": true,
     "sources": [
       {
-        "label": "FactCheck.org — sourced analysis",
+        "label": "FactCheck.org — full analysis",
         "url": "https://www.factcheck.org/2026/10/factchecking-claims-from-trumps-midterm-rallies/"
       }
     ]
   },
   {
     "date": "2026-10-20",
-    "title": "No tax on tips, overtime or Social Security? Read the fine print",
+    "title": "No tax on tips, overtime or Social Security? Terms apply.",
     "claim": "No tax on tips, no tax on overtime, no tax on Social Security",
     "topic": "Taxes",
     "verdict": "Misleading",
-    "summary": "The provisions are limited by caps, income thresholds and expiration dates. The Social Security-related provision is a deduction for eligible older taxpayers, not elimination of all benefit taxation.",
+    "summary": "The deductions have caps and income restrictions; the Social Security provision does not eliminate all taxes on benefits.",
     "reviewed": true,
     "sources": [
       {
-        "label": "FactCheck.org — sourced analysis",
+        "label": "FactCheck.org — full analysis",
         "url": "https://www.factcheck.org/2026/10/factchecking-claims-from-trumps-midterm-rallies/"
       }
     ]
   },
   {
     "date": "2026-10-19",
-    "title": "Can tariffs fund $5,000 checks for every adult?",
-    "claim": "Tariff revenue could fund $5,000 payments to all adult citizens",
+    "title": "Five-thousand-dollar checks and tariff arithmetic",
+    "claim": "Tariff revenue would help pay $5,000 to every adult citizen",
     "topic": "Economy",
     "verdict": "Unsupported",
-    "summary": "FactCheck.org cites estimates that the proposed payments would cost around $1.2 trillion, many years of tariff receipts at current levels.",
+    "summary": "Paying eligible adults would cost around $1.2 trillion, far above a year's tariff receipts.",
     "reviewed": true,
     "sources": [
       {
-        "label": "FactCheck.org — sourced analysis",
+        "label": "FactCheck.org — full analysis",
         "url": "https://www.factcheck.org/2026/10/factchecking-claims-from-trumps-midterm-rallies/"
       }
     ]
   },
   {
     "date": "2026-10-12",
-    "title": "The 'greatest economy' claim meets GDP data",
+    "title": "Greatest economy in history? GDP tells a different story.",
     "claim": "We had the greatest economy in the history of our country",
     "topic": "Economy",
     "verdict": "Misleading",
-    "summary": "FactCheck.org reports that real GDP growth in Trump's first term did not exceed many earlier years' growth rates.",
+    "summary": "Real GDP growth during Trump's first term was exceeded in many earlier years.",
     "reviewed": true,
     "sources": [
       {
-        "label": "FactCheck.org — sourced analysis",
+        "label": "FactCheck.org — full analysis",
         "url": "https://www.factcheck.org/2026/10/factchecking-claims-from-trumps-midterm-rallies/"
       }
     ]
   },
   {
     "date": "2026-10-10",
-    "title": "$21 trillion in investment? The accounting is missing",
+    "title": "The $21 trillion investment claim",
     "claim": "We have $21 trillion being invested in our country",
     "topic": "Economy",
     "verdict": "Unsupported",
-    "summary": "FactCheck.org reports that no full accounting supports this figure; announced commitments include speculative plans.",
+    "summary": "No full accounting substantiates the figure, and announced commitments are not equivalent to completed investment.",
     "reviewed": true,
     "sources": [
       {
-        "label": "FactCheck.org — sourced analysis",
+        "label": "FactCheck.org — full analysis",
         "url": "https://www.factcheck.org/2026/10/factchecking-claims-from-trumps-midterm-rallies/"
       }
     ]
   },
   {
     "date": "2026-10-09",
-    "title": "Worst inflation ever inherited? Historical figures disagree",
+    "title": "Worst inflation in U.S. history? No.",
     "claim": "I inherited the worst inflation in American history",
     "topic": "Economy",
     "verdict": "False",
-    "summary": "FactCheck.org notes much higher historical inflation and reports annual inflation at 3.0% when Trump took office in January 2025.",
+    "summary": "Inflation was 3.0% when Trump took office in January 2025; historical peaks were much higher.",
     "reviewed": true,
     "sources": [
       {
-        "label": "FactCheck.org — sourced analysis",
+        "label": "FactCheck.org — full analysis",
         "url": "https://www.factcheck.org/2026/10/factchecking-claims-from-trumps-midterm-rallies/"
       }
     ]
   },
   {
     "date": "2026-10-07",
-    "title": "Record-low poverty? Depends on the measure",
+    "title": "Record-low poverty — which measure?",
     "claim": "The poverty rate has just reached its lowest level",
     "topic": "Economy",
     "verdict": "Needs context",
-    "summary": "The official poverty rate reached a record low in 2025, but the supplemental poverty measure was higher than in some previous years.",
+    "summary": "The official poverty rate reached a low in 2025, but the supplemental poverty measure did not.",
     "reviewed": true,
     "sources": [
       {
-        "label": "FactCheck.org — sourced analysis",
+        "label": "FactCheck.org — full analysis",
         "url": "https://www.factcheck.org/2026/10/factchecking-claims-from-trumps-midterm-rallies/"
       }
     ]
@@ -155,31 +140,267 @@
     "claim": "An unprecedented $20 trillion has been invested in the U.S. from outside countries and companies",
     "topic": "Economy",
     "verdict": "Unsupported",
-    "summary": "FactCheck.org found the $20 trillion figure unsupported.",
+    "summary": "FactCheck.org found no evidence substantiating this total.",
     "reviewed": true,
     "sources": [
       {
-        "label": "FactCheck.org — sourced analysis",
+        "label": "FactCheck.org — full analysis",
         "url": "https://www.factcheck.org/2026/09/factchecking-trumps-midterm-convention-speech/"
       }
     ]
   },
   {
-    "title": "Did thousands cheer in New Jersey on 9/11?",
-    "claim": "I watched in Jersey City, N.J., where thousands and thousands of people were cheering",
+    "date": "2026-07-16",
+    "title": "Election security speech: insinuation is not evidence",
+    "claim": "References to a 'stolen election' and supposed hidden vulnerabilities",
+    "topic": "Elections",
+    "verdict": "Unsupported",
+    "summary": "FactCheck.org found that Trump's speech provided no evidence of widespread fraud and offered little new information about election vulnerabilities.",
+    "reviewed": true,
+    "sources": [
+      {
+        "label": "FactCheck.org — full analysis",
+        "url": "https://www.factcheck.org/2026/07/factchecking-trumps-election-security-speech/"
+      }
+    ]
+  },
+  {
+    "date": "2025-12-17",
+    "title": "Inflation had 'stopped'? Prices kept rising.",
+    "claim": "Inflation was the worst in history when he took office, and had now stopped",
+    "topic": "Economy",
+    "verdict": "False",
+    "summary": "FactCheck.org found both the historical comparison and the suggestion that inflation had stopped inaccurate.",
+    "reviewed": true,
+    "sources": [
+      {
+        "label": "FactCheck.org — full analysis",
+        "url": "https://www.factcheck.org/2025/12/factchecking-trumps-rapid-fire-prime-time-address/"
+      }
+    ]
+  },
+  {
+    "date": "2024-09-10",
+    "title": "Claims at the Harris–Trump debate",
+    "claim": "False and misleading statements about the 2020 election and January 6",
+    "topic": "Elections",
+    "verdict": "Needs context",
+    "summary": "FactCheck.org examined multiple disputed claims about the Capitol attack and election results in the debate. This entry is a topic overview.",
+    "reviewed": true,
+    "sources": [
+      {
+        "label": "FactCheck.org — full analysis",
+        "url": "https://www.factcheck.org/2024/09/factchecking-the-harris-trump-debate/"
+      }
+    ]
+  },
+  {
+    "date": "2024-06-27",
+    "title": "Abortions 'after birth'? That would be homicide.",
+    "claim": "Some states allow abortions after birth",
+    "topic": "Health",
+    "verdict": "False",
+    "summary": "FactCheck.org notes that killing a baby after birth is homicide and illegal; the claim misrepresents abortion law.",
+    "reviewed": true,
+    "sources": [
+      {
+        "label": "FactCheck.org — full analysis",
+        "url": "https://www.factcheck.org/2024/06/factchecking-the-biden-trump-debate/"
+      }
+    ]
+  },
+  {
+    "date": "2024-01-10",
+    "title": "The debt payoff that never had a budget",
+    "claim": "We would have started paying down the debt by selling energy abroad",
+    "topic": "Economy",
+    "verdict": "Unsupported",
+    "summary": "FactCheck.org found the claim unsupported; public debt rose during Trump's first term.",
+    "reviewed": true,
+    "sources": [
+      {
+        "label": "FactCheck.org — full analysis",
+        "url": "https://www.factcheck.org/2024/01/factchecking-trumps-iowa-town-hall/"
+      }
+    ]
+  },
+  {
+    "date": "2023-08-23",
+    "title": "Wind turbines 'don't work'? The grid disagrees.",
+    "claim": "Windmills don't work",
+    "topic": "Climate",
+    "verdict": "False",
+    "summary": "FactCheck.org found the assertion about wind energy false and also examined Trump's claims about manufacturing origins.",
+    "reviewed": true,
+    "sources": [
+      {
+        "label": "FactCheck.org — full analysis",
+        "url": "https://www.factcheck.org/2023/08/factchecking-trumps-interview-with-carlson/"
+      }
+    ]
+  },
+  {
+    "date": "2023-05-10",
+    "title": "The Georgia call, remembered differently",
+    "claim": "I didn't ask Georgia's secretary of state to find me more votes",
+    "topic": "Elections",
+    "verdict": "False",
+    "summary": "A recorded 2021 call documents Trump asking Brad Raffensperger to find 11,780 votes.",
+    "reviewed": true,
+    "sources": [
+      {
+        "label": "FactCheck.org — full analysis",
+        "url": "https://www.factcheck.org/2023/05/factchecking-trumps-cnn-town-hall/"
+      }
+    ]
+  },
+  {
+    "date": "2022-09-03",
+    "title": "The FBI 'staged' the Mar-a-Lago photograph?",
+    "claim": "The FBI staged a photo of seized classified documents",
+    "topic": "Justice",
+    "verdict": "False",
+    "summary": "Agents arranged seized materials for an evidentiary photograph; that did not mean the documents were fabricated.",
+    "reviewed": true,
+    "sources": [
+      {
+        "label": "FactCheck.org — full analysis",
+        "url": "https://www.factcheck.org/2022/09/trump-distorts-facts-in-pennsylvania-rally/"
+      }
+    ]
+  },
+  {
+    "date": "2022-06-13",
+    "title": "Election fraud claims despite aides' warnings",
+    "claim": "Assertions of widespread 2020 election fraud",
+    "topic": "Elections",
+    "verdict": "False",
+    "summary": "Testimony at the Jan. 6 committee documented that aides told Trump his election fraud allegations were baseless.",
+    "reviewed": true,
+    "sources": [
+      {
+        "label": "FactCheck.org — full analysis",
+        "url": "https://www.factcheck.org/2022/06/trump-ignored-aides-repeated-false-fraud-claims/"
+      }
+    ]
+  },
+  {
+    "date": "2021-01-06",
+    "title": "Georgia's 66,000 underage voters? Officials said zero.",
+    "claim": "66,000 votes in Georgia were cast by individuals under the legal voting age",
+    "topic": "Elections",
+    "verdict": "False",
+    "summary": "Georgia's Republican election officials said the actual number was zero.",
+    "reviewed": true,
+    "sources": [
+      {
+        "label": "FactCheck.org — full analysis",
+        "url": "https://www.factcheck.org/2021/01/trumps-falsehood-filled-save-america-rally/"
+      }
+    ]
+  },
+  {
+    "date": "2020-11-04",
+    "title": "Declaring victory before votes were counted",
+    "claim": "Frankly, we did win this election",
+    "topic": "Elections",
+    "verdict": "False",
+    "summary": "Trump declared victory before all ballots had been counted; later certified results showed Biden won.",
+    "reviewed": true,
+    "sources": [
+      {
+        "label": "FactCheck.org — full analysis",
+        "url": "https://www.factcheck.org/2021/01/road-to-a-second-impeachment/"
+      }
+    ]
+  },
+  {
+    "date": "2019-04-02",
+    "title": "Wind turbine noise causes cancer? Evidence says no.",
+    "claim": "They say the noise causes cancer",
+    "topic": "Climate",
+    "verdict": "False",
+    "summary": "FactCheck.org and the American Cancer Society found no credible evidence that wind turbine noise causes cancer.",
+    "reviewed": true,
+    "sources": [
+      {
+        "label": "FactCheck.org — full analysis",
+        "url": "https://www.factcheck.org/2019/04/trumps-faulty-wind-power-claims/"
+      }
+    ]
+  },
+  {
+    "date": "2018-04-01",
+    "title": "DACA for new border arrivals? That's not how it works.",
+    "claim": "Big flows of people are coming to take advantage of DACA",
+    "topic": "Immigration",
+    "verdict": "False",
+    "summary": "DACA eligibility does not extend to people newly crossing the border.",
+    "reviewed": true,
+    "sources": [
+      {
+        "label": "FactCheck.org — full analysis",
+        "url": "https://www.factcheck.org/2018/04/factchecking-trumps-immigration-tweets/"
+      }
+    ]
+  },
+  {
+    "date": "2017-01-21",
+    "title": "Inauguration crowds: photos versus the claim",
+    "claim": "The crowd looked like a million-and-a-half people",
+    "topic": "Public safety",
+    "verdict": "Misleading",
+    "summary": "Contemporaneous photographs and transit figures contradict claims that the crowd reached the Washington Monument or exceeded the 2009 inauguration.",
+    "reviewed": true,
+    "sources": [
+      {
+        "label": "FactCheck.org — full analysis",
+        "url": "https://www.factcheck.org/2017/01/the-facts-on-crowd-size/"
+      }
+    ]
+  },
+  {
+    "date": "2016-10-09",
+    "title": "The 'sex tape' tweet he said he never sent",
+    "claim": "There wasn't 'check out a sex tape'",
+    "topic": "Campaign",
+    "verdict": "False",
+    "summary": "FactCheck.org documented Trump's September 30 tweet using the very phrase he denied during the October 9 debate.",
+    "reviewed": true,
+    "sources": [
+      {
+        "label": "FactCheck.org — full analysis",
+        "url": "https://www.factcheck.org/2016/10/factchecking-the-second-presidential-debate/"
+      }
+    ]
+  },
+  {
+    "date": "2016-02-25",
+    "title": "Tax returns: from 'certainly' to audit excuses",
+    "claim": "He couldn't release tax returns while being audited",
+    "topic": "Taxes",
+    "verdict": "Misleading",
+    "summary": "FactCheck.org documented Trump's reversal on releasing returns and explained that an audit did not prevent publication.",
+    "reviewed": true,
+    "sources": [
+      {
+        "label": "FactCheck.org — full analysis",
+        "url": "https://www.factcheck.org/2016/02/factchecking-the-10th-gop-debate/"
+      }
+    ]
+  },
+  {
     "date": "2015-11-21",
+    "title": "Thousands cheering in New Jersey on 9/11?",
+    "claim": "I watched in Jersey City, N.J., where thousands and thousands of people were cheering",
     "topic": "Public safety",
     "verdict": "False",
     "summary": "Independent investigations found no evidence for the thousands-strong celebrations in New Jersey described by Trump.",
     "reviewed": true,
     "sources": [
       {
-        "label": "FactCheck.org",
+        "label": "FactCheck.org — full analysis",
         "url": "https://www.factcheck.org/2015/11/trump-carson-on-911-celebrations/"
-      },
-      {
-        "label": "PolitiFact",
-        "url": "https://www.politifact.com/factchecks/2015/nov/22/donald-trump/fact-checking-trumps-claim-thousands-new-jersey-ch/"
       }
     ]
   }
