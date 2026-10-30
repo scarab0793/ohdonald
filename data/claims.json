@@ -199,6 +199,111 @@
     ]
   },
   {
+    "date": "2025-09-22",
+    "title": "Tylenol and autism: causation was not established",
+    "claim": "Trump suggested a link between acetaminophen use in pregnancy and autism",
+    "topic": "Health",
+    "verdict": "Unsupported",
+    "summary": "A causal link has not been established.",
+    "reviewed": true,
+    "sources": [
+      {
+        "label": "Independent fact-check analysis",
+        "url": "https://www.factcheck.org/2025/12/the-whoppers-of-2025/"
+      }
+    ]
+  },
+  {
+    "date": "2025-08-01",
+    "title": "Were U.S. jobs numbers 'rigged'?",
+    "claim": "The Bureau of Labor Statistics employment figures were phony or rigged",
+    "topic": "Jobs",
+    "verdict": "Unsupported",
+    "summary": "No evidence of political manipulation was found; routine revisions are normal.",
+    "reviewed": true,
+    "sources": [
+      {
+        "label": "Independent fact-check analysis",
+        "url": "https://www.factcheck.org/2025/12/the-whoppers-of-2025/"
+      }
+    ]
+  },
+  {
+    "date": "2025-04-02",
+    "title": "The 'reciprocal tariffs' chart wasn't showing foreign tariff rates",
+    "claim": "The chart showed the tariffs other countries charge the United States",
+    "topic": "Trade",
+    "verdict": "False",
+    "summary": "The displayed figures were based on trade deficits, not actual foreign tariff rates.",
+    "reviewed": true,
+    "sources": [
+      {
+        "label": "Independent fact-check analysis",
+        "url": "https://www.factcheck.org/2025/12/the-whoppers-of-2025/"
+      }
+    ]
+  },
+  {
+    "date": "2025-03-04",
+    "title": "DOGE found hundreds of billions in fraud?",
+    "claim": "DOGE has found hundreds of billions of dollars of fraud",
+    "topic": "Government",
+    "verdict": "Unsupported",
+    "summary": "DOGE claimed much less in savings and documented only a fraction; savings are not proven fraud.",
+    "reviewed": true,
+    "sources": [
+      {
+        "label": "Independent fact-check analysis",
+        "url": "https://www.factcheck.org/2025/03/factchecking-trumps-address-to-congress-2/"
+      }
+    ]
+  },
+  {
+    "date": "2025-01-20",
+    "title": "Panama, not China, controls the canal",
+    "claim": "China is operating the Panama Canal",
+    "topic": "Foreign policy",
+    "verdict": "False",
+    "summary": "Panama operates the canal; Hong Kong-based firms managed some nearby ports.",
+    "reviewed": true,
+    "sources": [
+      {
+        "label": "Independent fact-check analysis",
+        "url": "https://apnews.com/article/b920161868e192d0430df534a42ea5ce"
+      }
+    ]
+  },
+  {
+    "date": "2025-01-20",
+    "title": "Did Pelosi reject 10,000 National Guard troops?",
+    "claim": "Nancy Pelosi rejected 10,000 National Guard troops before January 6",
+    "topic": "January 6",
+    "verdict": "False",
+    "summary": "Pelosi did not control the Guard, and no presidential order for 10,000 troops was issued.",
+    "reviewed": true,
+    "sources": [
+      {
+        "label": "Independent fact-check analysis",
+        "url": "https://apnews.com/article/b920161868e192d0430df534a42ea5ce"
+      }
+    ]
+  },
+  {
+    "date": "2025-01-20",
+    "title": "A pardon and a commutation are not the same",
+    "claim": "Biden pardoned 33 murderers",
+    "topic": "Justice",
+    "verdict": "False",
+    "summary": "Biden commuted 37 death sentences, not pardoned 33 people.",
+    "reviewed": true,
+    "sources": [
+      {
+        "label": "Independent fact-check analysis",
+        "url": "https://apnews.com/article/b920161868e192d0430df534a42ea5ce"
+      }
+    ]
+  },
+  {
     "date": "2024-09-10",
     "title": "Claims at the Harris–Trump debate",
     "claim": "False and misleading statements about the 2020 election and January 6",
@@ -304,6 +409,36 @@
     ]
   },
   {
+    "date": "2021-11-01",
+    "title": "Gasoline wasn't $1.86 nationally when Trump left office",
+    "claim": "Gas prices were $1.86 when I left the White House",
+    "topic": "Economy",
+    "verdict": "False",
+    "summary": "PolitiFact reported a national average of roughly $2.38 per gallon.",
+    "reviewed": true,
+    "sources": [
+      {
+        "label": "Independent fact-check analysis",
+        "url": "https://api.politifact.com/article/2024/feb/01/politifact-top-10-fact-checks-of-donald-trump/"
+      }
+    ]
+  },
+  {
+    "date": "2021-06-12",
+    "title": "Was Trump 'right about everything'?",
+    "claim": "I was right about everything",
+    "topic": "Self-assessment",
+    "verdict": "Needs context",
+    "summary": "PolitiFact found accurate claims, unsupported assertions and opinion, not a uniformly correct record.",
+    "reviewed": true,
+    "sources": [
+      {
+        "label": "Independent fact-check analysis",
+        "url": "https://politifact.com/article/2021/jun/14/donald-trumps-i-was-right-about-everything-fact-ch/"
+      }
+    ]
+  },
+  {
     "date": "2021-01-06",
     "title": "Georgia's 66,000 underage voters? Officials said zero.",
     "claim": "66,000 votes in Georgia were cast by individuals under the legal voting age",
@@ -398,6 +533,21 @@
       {
         "label": "PolitiFact — no documented IQ score",
         "url": "https://api.politifact.com/factchecks/2019/may/14/viral-image/social-media-post-sharing-newspaper-story-trump-ha/"
+      }
+    ]
+  },
+  {
+    "date": "2017-02-25",
+    "title": "The first-month national-debt drop: true number, wrong implication",
+    "claim": "The national debt in my first month went down by $12 billion",
+    "topic": "Economy",
+    "verdict": "Misleading",
+    "summary": "The temporary drop reflected federal cash flows, not a lasting debt reduction.",
+    "reviewed": true,
+    "sources": [
+      {
+        "label": "Independent fact-check analysis",
+        "url": "https://api.politifact.com/article/2024/feb/01/politifact-top-10-fact-checks-of-donald-trump/"
       }
     ]
   },
