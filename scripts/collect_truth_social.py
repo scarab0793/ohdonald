@@ -1,19 +1,27 @@
 #!/usr/bin/env python3
-"""Collect public Truth Social post candidates. No verdicts are generated."""
+"""Collect public Truth Social post candidates. No verdicts are generated.
+
+The output is a research lead list only. It is never published automatically.
+Exits non-zero when nothing could be collected, so a broken collector turns the
+workflow run red (and GitHub emails the repository owner) instead of failing silently.
+"""
 import datetime as dt
 import json
 import os
+import sys
 import urllib.request
 from pathlib import Path
 
 ACCOUNT = os.environ.get("TRUTH_SOCIAL_ACCOUNT", "realDonaldTrump")
 BASE = "https://truthsocial.com/api/v1"
-HEADERS = {"User-Agent": "OhDonaldResearchBot/0.1 (public-source research)", "Accept": "application/json"}
+HEADERS = {"User-Agent": "OhDonaldResearchBot/0.2 (public-source research)", "Accept": "application/json"}
+
 
 def get_json(url):
     request = urllib.request.Request(url, headers=HEADERS)
     with urllib.request.urlopen(request, timeout=25) as response:
         return json.load(response)
+
 
 def main():
     out = Path("research/truth-social-leads.json")
@@ -32,18 +40,25 @@ def main():
                 "url": post.get("url") or f"https://truthsocial.com/@{ACCOUNT}/posts/{post.get('id')}",
                 "content_html": post.get("content", ""),
                 "status": "UNREVIEWED",
-                "note": "Not independently fact-checked. Do not publish as a verdict."
+                "note": "Not independently fact-checked. Do not publish as a verdict.",
             })
-    except Exception as exc:
+    except Exception as exc:  # network errors, HTTP 4xx/5xx, bad JSON
         errors.append(f"Public API unavailable: {type(exc).__name__}: {exc}")
+
     out.write_text(json.dumps({
         "collected_at": dt.datetime.now(dt.timezone.utc).isoformat(),
         "account": ACCOUNT,
         "posts": results,
         "errors": errors,
-        "editorial_status": "RESEARCH ONLY — NOT APPROVED FOR PUBLICATION"
+        "editorial_status": "RESEARCH ONLY — NOT APPROVED FOR PUBLICATION",
     }, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+
     print(f"Collected {len(results)} candidate posts; errors: {len(errors)}")
+    for e in errors:
+        print("  ", e, file=sys.stderr)
+    if errors and not results:
+        sys.exit(1)
+
 
 if __name__ == "__main__":
     main()

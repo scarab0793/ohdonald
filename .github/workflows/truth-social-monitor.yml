@@ -14,8 +14,10 @@ jobs:
       - name: Collect public posts as unreviewed research leads
         run: python3 scripts/collect_truth_social.py
       - name: Upload research artifact (not website content)
+        if: always()
         uses: actions/upload-artifact@v4
         with:
           name: truth-social-unreviewed-posts
           path: research/truth-social-leads.json
-          retention-days: 14
+          retention-days: 30
+          if-no-files-found: ignore

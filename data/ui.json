@@ -1,0 +1,357 @@
+{
+  "en": {
+    "htmlLang": "en",
+    "locale": "en_US",
+    "langName": "English",
+    "metaTitle": "OhDonald. Not again.",
+    "metaDescription": "A sourced, chronological record of public claims and contradictions. Receipts included, jokes extra. Satire is commentary, not evidence.",
+    "skip": "Skip to the receipts",
+    "topline1": "THE PUBLIC RECORD · SINCE 2015",
+    "topline2": "RECEIPTS OVER RHETORIC",
+    "langNav": "Language",
+    "tagline": "Oh, Donald. Not again.",
+    "strap": "What was said. What the evidence shows. What changed. Popcorn not included.",
+    "captions": [
+      "2017 · SEASON ONE",
+      "JAN 2025 · THE SEQUEL",
+      "2025 · THE SEQUEL, AGAIN"
+    ],
+    "altImages": [
+      "Donald Trump official presidential portrait, 2017",
+      "Donald Trump official inaugural portrait, January 2025",
+      "Donald Trump official presidential portrait, 2025"
+    ],
+    "photoLead": "Illustration photographs:",
+    "photoTail": "Wikimedia Commons; public-domain portraits. Illustrative, not images of the fact-checked events.",
+    "sideTitle": "Fresh receipts",
+    "sideDesc": "The newest documented claims. The fact-checkers did the sweating.",
+    "method": "Our methodology ↗",
+    "tabsLabel": "Sections",
+    "tabChecks": "Fact checks",
+    "tabPairs": "He Said WHAT Yesterday?",
+    "yearsLabel": "Filter by year",
+    "searchLabel": "Search the record",
+    "searchPlaceholder": "Search the record (it is long)",
+    "verdictLabel": "Filter by verdict",
+    "allVerdicts": "All findings (brace yourself)",
+    "allYears": "All",
+    "archiveLabel": "THE ARCHIVE",
+    "count": "{n} documented checks and counting",
+    "coverageTitle": "Year-by-year coverage",
+    "coverageNote": "An empty year means we have not published a reviewed entry for it yet. It does not mean nothing was said. Trust us, things were said.",
+    "empty": "Nothing matches. For once, there is no claim for that.",
+    "emptyPairs": "No contradictions published yet. Relax, the record has plenty of material.",
+    "loadError": "The archive tripped over its own shoelaces. Please try again in a moment.",
+    "retry": "Try again",
+    "noscript": "The interactive archive needs JavaScript. Here are all the receipts as plain links:",
+    "pairsLabel": "THE CONTRADICTION TRACKER",
+    "pairsTitle": "He Said WHAT Yesterday?",
+    "pairsDesc": "Two dated statements, two original sources, and the context in between. No guesswork about anyone’s memory. We only quote what is on the record.",
+    "then": "THEN",
+    "andThen": "AND THEN",
+    "original": "Original (English)",
+    "said": "Said",
+    "archived": "Archived",
+    "where": "Where",
+    "whereUnknown": "Where said: still being tracked down",
+    "readSource": "Read source ↗",
+    "moreSources": "More sources",
+    "footer": "Independent, evidence-led editorial project. Satire is commentary, not evidence. The jokes are ours, the receipts are not.",
+    "verdicts": {
+      "False": {
+        "label": "False",
+        "quip": "Bold. Wrong, but bold."
+      },
+      "Misleading": {
+        "label": "Misleading",
+        "quip": "Technically words. Technically."
+      },
+      "Needs context": {
+        "label": "Needs context",
+        "quip": "Some assembly (of facts) required."
+      },
+      "Supported": {
+        "label": "Supported",
+        "quip": "Plot twist: it checks out."
+      },
+      "Unsupported": {
+        "label": "Unsupported",
+        "quip": "Source: trust me."
+      }
+    },
+    "topics": {},
+    "article": {
+      "back": "← All fact checks",
+      "claimEyebrow": "THE CLAIM (BRACE YOURSELF)",
+      "factsEyebrow": "THE FACTS (SORRY)",
+      "provTitle": "WHEN & WHERE WAS IT SAID?",
+      "when": "When",
+      "where": "Where",
+      "unverified": "Not yet independently verified",
+      "originalContext": "Original context / reporting ↗",
+      "archiveNote": "The archive date is not necessarily the date the statement was made.",
+      "finding": "Finding",
+      "sourcesTitle": "Sources & further reading",
+      "editorialNote": "Editorial note: this is a concise fact-check summary, not a full investigation. Read the linked reporting for the detailed evidence. Dates and quotation wording may need additional editorial verification.",
+      "translationNote": "",
+      "asideTitle": "THE RECEIPTS",
+      "asideText": "We separate original claims, independent evidence and editorial commentary. The jokes live in the headers. The facts live below them.",
+      "asideLink": "How we check claims ↗",
+      "moreLabel": "Keep digging",
+      "moreText": "More receipts:"
+    },
+    "methodology": {
+      "metaTitle": "Methodology · OhDonald",
+      "metaDescription": "How OhDonald checks claims: standards, verdicts, sources, known limits, corrections, and where the jokes end.",
+      "eyebrow": "OUR STANDARDS (YES, WE HAVE THEM)",
+      "title": "Methodology",
+      "lead": "Evidence before punchlines.",
+      "sections": [
+        {
+          "h": "What we check",
+          "p": "We separate checkable factual claims from opinion, prediction and satire. Every published verdict needs dated evidence and source links. Primary sources come first; reputable independent fact-checkers supply context. If a statement cannot be checked, it gets a shrug, not a verdict."
+        },
+        {
+          "h": "Verdicts",
+          "list": [
+            [
+              "False",
+              "contradicted by reliable evidence."
+            ],
+            [
+              "Misleading",
+              "technically selective, or missing material context."
+            ],
+            [
+              "Needs context",
+              "the claim has to be qualified to be understood correctly."
+            ],
+            [
+              "Unsupported",
+              "we found no reliable evidence that backs it up. That is not the same as proven false."
+            ],
+            [
+              "Supported",
+              "substantiated by the available evidence. Yes, it exists. We will use it the moment it applies."
+            ]
+          ]
+        },
+        {
+          "h": "Where entries come from",
+          "p": "Entries build on reporting by independent fact-checkers (mainly FactCheck.org and PolitiFact) and on primary records such as transcripts and recordings. Each entry links to its sources so you can check our homework."
+        },
+        {
+          "h": "Known limits (we like transparency)",
+          "p": "The archive is a curated sample, not a census of everything ever said. Most entries rely on one or two sources, and a few outlets supply most of them. Statement dates and venues are not always verified, and those entries say so. An archive date is not a statement date. We would rather admit gaps than paper over them."
+        },
+        {
+          "h": "Corrections",
+          "p": "New evidence may change a verdict. Updates and corrections are logged with dates and explanations. Unreviewed items are never published as fact checks. Spotted a mistake? Open an issue on GitHub and we will look.",
+          "link": "issues"
+        },
+        {
+          "h": "Contradiction tracker",
+          "p": "Every comparison needs two attributable statements, dates and direct source links. We keep the context and separate genuine factual conflict from changes in circumstances, policy or emphasis. We do not speculate about intent or memory."
+        },
+        {
+          "h": "Satire",
+          "p": "The jokes are aimed at claims, positions and public conduct on the record. We do not invent quotes, diagnose anyone, or guess at anyone’s health. A joke is never a source, and a verdict is never a joke."
+        }
+      ],
+      "issueLink": "Open an issue ↗"
+    },
+    "notFound": {
+      "metaTitle": "Page not found · OhDonald",
+      "title": "404. This page was never said.",
+      "text": "Unlike some claims, we checked: it does not exist.",
+      "home": "Back to the receipts ↗"
+    }
+  },
+  "es": {
+    "htmlLang": "es",
+    "locale": "es_ES",
+    "langName": "Español",
+    "metaTitle": "OhDonald. Otra vez no.",
+    "metaDescription": "Un registro cronológico y con fuentes de declaraciones públicas y contradicciones. Con pruebas, y con chistes. La sátira es comentario, no evidencia.",
+    "skip": "Saltar a las pruebas",
+    "topline1": "EL REGISTRO PÚBLICO · DESDE 2015",
+    "topline2": "PRUEBAS ANTES QUE RETÓRICA",
+    "langNav": "Idioma",
+    "tagline": "Oh, Donald. Otra vez no.",
+    "strap": "Lo que dijo. Lo que muestran las pruebas. Lo que cambió. Las palomitas van aparte.",
+    "captions": [
+      "2017 · PRIMERA TEMPORADA",
+      "ENE 2025 · LA SECUELA",
+      "2025 · LA SECUELA, OTRA VEZ"
+    ],
+    "altImages": [
+      "Retrato presidencial oficial de Donald Trump, 2017",
+      "Retrato oficial de investidura de Donald Trump, enero de 2025",
+      "Retrato presidencial oficial de Donald Trump, 2025"
+    ],
+    "photoLead": "Fotografías ilustrativas:",
+    "photoTail": "Wikimedia Commons; retratos de dominio público. Son ilustrativas, no imágenes de los hechos verificados.",
+    "sideTitle": "Pruebas frescas",
+    "sideDesc": "Las declaraciones documentadas más recientes. Los verificadores hicieron el trabajo sudado.",
+    "method": "Nuestra metodología ↗",
+    "tabsLabel": "Secciones",
+    "tabChecks": "Verificaciones",
+    "tabPairs": "¿Qué dijo AYER?",
+    "yearsLabel": "Filtrar por año",
+    "searchLabel": "Buscar en el registro",
+    "searchPlaceholder": "Buscar en el registro (es largo)",
+    "verdictLabel": "Filtrar por veredicto",
+    "allVerdicts": "Todos los veredictos (agárrense)",
+    "allYears": "Todos",
+    "archiveLabel": "EL ARCHIVO",
+    "count": "{n} verificaciones documentadas y sumando",
+    "coverageTitle": "Cobertura año por año",
+    "coverageNote": "Un año vacío significa que aún no hemos publicado una entrada revisada de ese año. No significa que no se dijera nada. Créannos, se dijeron cosas.",
+    "empty": "Nada coincide. Por una vez, no hay declaración para eso.",
+    "emptyPairs": "Aún no hay contradicciones publicadas. Tranquilos, el registro tiene material de sobra.",
+    "loadError": "El archivo se tropezó con sus propios cordones. Inténtalo de nuevo en un momento.",
+    "retry": "Reintentar",
+    "noscript": "El archivo interactivo necesita JavaScript. Aquí están todas las pruebas como enlaces simples:",
+    "pairsLabel": "EL RASTREADOR DE CONTRADICCIONES",
+    "pairsTitle": "¿Qué dijo AYER?",
+    "pairsDesc": "Dos declaraciones con fecha, dos fuentes originales y el contexto entre ambas. Sin conjeturas sobre la memoria de nadie. Solo citamos lo que consta en el registro.",
+    "then": "ENTONCES",
+    "andThen": "Y LUEGO",
+    "original": "Original (inglés)",
+    "said": "Dicho el",
+    "archived": "Archivado el",
+    "where": "Dónde",
+    "whereUnknown": "Dónde lo dijo: seguimos rastreándolo",
+    "readSource": "Ver fuente ↗",
+    "moreSources": "Más fuentes",
+    "footer": "Proyecto editorial independiente basado en pruebas. La sátira es comentario, no evidencia. Los chistes son nuestros; las pruebas, no.",
+    "verdicts": {
+      "False": {
+        "label": "Falso",
+        "quip": "Audaz. Falso, pero audaz."
+      },
+      "Misleading": {
+        "label": "Engañoso",
+        "quip": "Técnicamente son palabras. Técnicamente."
+      },
+      "Needs context": {
+        "label": "Falta contexto",
+        "quip": "Faltan piezas (de hechos)."
+      },
+      "Supported": {
+        "label": "Respaldado",
+        "quip": "Giro inesperado: es verdad."
+      },
+      "Unsupported": {
+        "label": "Sin respaldo",
+        "quip": "Fuente: confíen en mí."
+      }
+    },
+    "topics": {
+      "Jobs": "Empleo",
+      "Immigration": "Inmigración",
+      "Drugs": "Drogas",
+      "Taxes": "Impuestos",
+      "Economy": "Economía",
+      "Elections": "Elecciones",
+      "Cognitive tests": "Pruebas cognitivas",
+      "Health": "Salud",
+      "Trade": "Comercio",
+      "Government": "Gobierno",
+      "Foreign policy": "Política exterior",
+      "January 6": "6 de enero",
+      "Justice": "Justicia",
+      "Climate": "Clima",
+      "Self-assessment": "Autoevaluación",
+      "Intelligence claims": "Afirmaciones sobre inteligencia",
+      "Public safety": "Seguridad pública",
+      "Campaign": "Campaña"
+    },
+    "article": {
+      "back": "← Todas las verificaciones",
+      "claimEyebrow": "LA AFIRMACIÓN (AGÁRRENSE)",
+      "factsEyebrow": "LOS HECHOS (PERDÓN)",
+      "provTitle": "¿CUÁNDO Y DÓNDE LO DIJO?",
+      "when": "Cuándo",
+      "where": "Dónde",
+      "unverified": "Aún sin verificar de forma independiente",
+      "originalContext": "Contexto original / cobertura ↗",
+      "archiveNote": "La fecha del archivo no es necesariamente la fecha en que se hizo la declaración.",
+      "finding": "Veredicto",
+      "sourcesTitle": "Fuentes y lecturas adicionales",
+      "editorialNote": "Nota editorial: esto es un resumen breve de verificación, no una investigación completa. Lee la cobertura enlazada para ver las pruebas en detalle. Las fechas y la redacción de las citas pueden requerir verificación editorial adicional.",
+      "translationNote": "El texto en español es nuestra traducción. La cita original en inglés se muestra debajo.",
+      "asideTitle": "LAS PRUEBAS",
+      "asideText": "Separamos las afirmaciones originales, la evidencia independiente y el comentario editorial. Los chistes viven en los titulares. Los hechos viven debajo.",
+      "asideLink": "Cómo verificamos ↗",
+      "moreLabel": "Sigue investigando",
+      "moreText": "Más pruebas:"
+    },
+    "methodology": {
+      "metaTitle": "Metodología · OhDonald",
+      "metaDescription": "Cómo verifica OhDonald: estándares, veredictos, fuentes, límites conocidos, correcciones y dónde terminan los chistes.",
+      "eyebrow": "NUESTROS ESTÁNDARES (SÍ, TENEMOS)",
+      "title": "Metodología",
+      "lead": "Evidencia antes que chistes.",
+      "sections": [
+        {
+          "h": "Qué verificamos",
+          "p": "Separamos las afirmaciones factuales comprobables de la opinión, la predicción y la sátira. Todo veredicto publicado necesita pruebas fechadas y enlaces a las fuentes. Primero van las fuentes primarias; los verificadores independientes de prestigio aportan contexto. Si algo no se puede comprobar, recibe un encogimiento de hombros, no un veredicto."
+        },
+        {
+          "h": "Veredictos",
+          "list": [
+            [
+              "Falso",
+              "contradicho por evidencia fiable."
+            ],
+            [
+              "Engañoso",
+              "técnicamente selectivo, o sin contexto relevante."
+            ],
+            [
+              "Falta contexto",
+              "la afirmación necesita matices para entenderse bien."
+            ],
+            [
+              "Sin respaldo",
+              "no encontramos evidencia fiable que la sostenga. Eso no equivale a demostrar que es falsa."
+            ],
+            [
+              "Respaldado",
+              "confirmado por la evidencia disponible. Sí, existe. Lo usaremos en cuanto corresponda."
+            ]
+          ]
+        },
+        {
+          "h": "De dónde salen las entradas",
+          "p": "Las entradas se apoyan en la cobertura de verificadores independientes (sobre todo FactCheck.org y PolitiFact) y en registros primarios como transcripciones y grabaciones. Cada entrada enlaza sus fuentes para que puedas revisar nuestra tarea."
+        },
+        {
+          "h": "Límites conocidos (nos gusta la transparencia)",
+          "p": "El archivo es una muestra curada, no un censo de todo lo que se ha dicho. La mayoría de las entradas dependen de una o dos fuentes, y unos pocos medios aportan la mayoría. Las fechas y los lugares de las declaraciones no siempre están verificados, y esas entradas lo indican. Una fecha de archivo no es una fecha de declaración. Preferimos admitir lagunas a taparlas."
+        },
+        {
+          "h": "Correcciones",
+          "p": "Una prueba nueva puede cambiar un veredicto. Las actualizaciones y correcciones se registran con fecha y explicación. Lo que no ha sido revisado nunca se publica como verificación. ¿Viste un error? Abre una incidencia en GitHub y lo revisamos.",
+          "link": "issues"
+        },
+        {
+          "h": "Rastreador de contradicciones",
+          "p": "Cada comparación exige dos declaraciones atribuibles, con fechas y enlaces directos a las fuentes. Conservamos el contexto y separamos el conflicto factual genuino de los cambios de circunstancias, política o énfasis. No especulamos sobre intenciones ni sobre la memoria de nadie."
+        },
+        {
+          "h": "Sátira",
+          "p": "Los chistes apuntan a declaraciones, posturas y conducta pública que constan en el registro. No inventamos citas, no diagnosticamos a nadie ni adivinamos la salud de nadie. Un chiste nunca es una fuente, y un veredicto nunca es un chiste."
+        }
+      ],
+      "issueLink": "Abrir una incidencia ↗"
+    },
+    "notFound": {
+      "metaTitle": "Página no encontrada · OhDonald",
+      "title": "404. Esta página nunca se dijo.",
+      "text": "A diferencia de otras afirmaciones, la verificamos: no existe.",
+      "home": "Volver a las pruebas ↗"
+    }
+  }
+}

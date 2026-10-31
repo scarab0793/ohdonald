@@ -1,5 +1,6 @@
 [
   {
+    "id": "2026-03-17-iran-war-trump-sought-allied-help-then-said-we-never-did-need-it",
     "title": "Iran war: Trump sought allied help, then said 'WE NEVER DID' need it",
     "reviewed": true,
     "before": {
@@ -14,9 +15,20 @@
       "where": "Truth Social post after NATO allies declined to join the operation",
       "url": "https://www.aa.com.tr/en/americas/trump-issues-broadside-against-nato-allies-for-iran-war-refusal/3868390"
     },
-    "context": "During the March 2026 Iran war, Trump publicly called for other countries to help protect shipping through the Strait of Hormuz. After NATO allies declined involvement, he claimed the United States never needed their help. On March 17 he also said in the Oval Office, 'we don't need them, but they should have been there.' This is a documented reversal in his public description of whether allied help was needed; asking for help and later saying it was not strictly necessary are not inherently logically incompatible. Sources: https://www.reutersconnect.com/item/trump-says-natos-refusal-to-help-on-iran-is-very-foolish-mistake/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1ZBNDg5NDE3MDMyMDI2UlAx and https://abcnews.com/amp/Politics/trump-blasts-nato-after-allies-rebuff-call-reopen/story?id=131113988"
+    "context": "During the March 2026 Iran war, Trump publicly called for other countries to help protect shipping through the Strait of Hormuz. After NATO allies declined involvement, he claimed the United States never needed their help. On March 17 he also said in the Oval Office, 'we don't need them, but they should have been there.' This is a documented reversal in his public description of whether allied help was needed; asking for help and later saying it was not strictly necessary are not inherently logically incompatible.",
+    "moreSources": [
+      {
+        "label": "Reuters — NATO refusal 'very foolish mistake'",
+        "url": "https://www.reutersconnect.com/item/trump-says-natos-refusal-to-help-on-iran-is-very-foolish-mistake/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1ZBNDg5NDE3MDMyMDI2UlAx"
+      },
+      {
+        "label": "ABC News — Trump blasts NATO",
+        "url": "https://abcnews.com/amp/Politics/trump-blasts-nato-after-allies-rebuff-call-reopen/story?id=131113988"
+      }
+    ]
   },
   {
+    "id": "2019-04-11-wikileaks-from-i-love-to-i-know-nothing",
     "title": "WikiLeaks: from 'I love' to 'I know nothing'",
     "reviewed": true,
     "before": {
@@ -34,6 +46,7 @@
     "context": "Trump enthusiastically praised WikiLeaks during the 2016 campaign, then distanced himself from the organization following Julian Assange's arrest in 2019. The contrast is documented in contemporaneous reporting and an official presidential transcript."
   },
   {
+    "id": "2017-04-12-nato-obsolete-in-2016-no-longer-obsolete-in-2017",
     "title": "NATO: 'obsolete' in 2016, 'no longer obsolete' in 2017",
     "reviewed": true,
     "before": {
@@ -51,6 +64,7 @@
     "context": "Trump publicly reversed his characterization of NATO, citing changes in the alliance's focus on counterterrorism. This is an acknowledged policy assessment change, not necessarily evidence of deception."
   },
   {
+    "id": "2017-04-11-health-care-first-or-tax-reform-first",
     "title": "Health care first or tax reform first?",
     "before": {
       "date": "2017-03-24",
@@ -68,6 +82,7 @@
     "reviewed": true
   },
   {
+    "id": "2017-04-06-syria-do-not-attack-vs-ordering-missile-strikes",
     "title": "Syria: 'do not attack' vs ordering missile strikes",
     "before": {
       "date": "2013-09-05",
@@ -81,10 +96,11 @@
       "where": "White House address announcing strikes on Shayrat air base",
       "url": "https://rollcall.com/factbase/trump/transcript/donald-trump-statement-syria-april-6-2017/"
     },
-    "context": "The original statement predates the requested 2015 archive start but is necessary to document a 2017 reversal. The chemical attack and Trump's responsibility as president were different circumstances.",
+    "context": "The original statement predates the archive's 2015 start date but is needed to document a 2017 reversal. The chemical attack and Trump's responsibility as president were different circumstances.",
     "reviewed": true
   },
   {
+    "id": "2017-03-10-unemployment-statistics-hoax-before-inauguration-embraced",
     "title": "Unemployment statistics: 'hoax' before inauguration, embraced afterward",
     "before": {
       "date": "2016-08-08",
@@ -102,6 +118,7 @@
     "reviewed": true
   },
   {
+    "id": "2017-03-07-medicaid-without-cuts-vs-backing-reduced-federal-spending",
     "title": "Medicaid: 'without cuts' vs backing reduced federal spending",
     "before": {
       "date": "2015-06-16",
@@ -119,6 +136,7 @@
     "reviewed": true
   },
   {
+    "id": "2017-02-28-stock-market-big-fat-ugly-bubble-vs-celebrating-gains",
     "title": "Stock market: 'big, fat, ugly bubble' vs celebrating gains",
     "before": {
       "date": "2016-09-26",
@@ -136,6 +154,7 @@
     "reviewed": true
   },
   {
+    "id": "2017-01-11-tax-returns-itll-be-released-versus-continued-refusal",
     "title": "Tax returns: 'it'll be released' versus continued refusal",
     "reviewed": true,
     "before": {
@@ -153,6 +172,7 @@
     "context": "The 2016 statement suggested release after an audit; in 2017 Trump continued withholding the returns on audit grounds. An audit does not legally prevent voluntary publication. This is a change in stated willingness, not evidence of a legal obligation."
   },
   {
+    "id": "2016-07-31-putin-got-to-know-him-very-well-vs-no-relationship",
     "title": "Putin: 'got to know him very well' vs 'no relationship'",
     "before": {
       "date": "2015-11-10",
@@ -170,6 +190,7 @@
     "reviewed": true
   },
   {
+    "id": "2016-03-30-abortion-punish-women-then-not-women",
     "title": "Abortion: punish women — then not women",
     "reviewed": true,
     "before": {
@@ -187,6 +208,7 @@
     "context": "In the town hall, Trump answered yes when pressed on punishment for women; later the same day, his campaign stated that women would not be punished. This is a same-day reversal, not a claim about current law."
   },
   {
+    "id": "2016-03-15-protester-legal-fees-a-promise-followed-by-a-denial",
     "title": "Protester legal fees: a promise followed by a denial",
     "reviewed": true,
     "before": {
@@ -204,6 +226,7 @@
     "context": "The earlier promise concerned a supporter confronting someone throwing tomatoes; the later statement denied having made a legal-fees promise. The original remarks and denial were compared by PolitiFact."
   },
   {
+    "id": "2016-02-28-david-duke-denounced-then-i-dont-know-anything",
     "title": "David Duke: denounced, then 'I don't know anything'",
     "reviewed": true,
     "before": {
@@ -221,6 +244,7 @@
     "context": "Trump rejected Duke's endorsement two days before claiming unfamiliarity with him in a CNN interview. PolitiFact also documented earlier public comments about Duke."
   },
   {
+    "id": "2015-08-11-planned-parenthood-defund-it-then-keep-some-funding",
     "title": "Planned Parenthood: defund it, then keep some funding",
     "reviewed": true,
     "before": {
