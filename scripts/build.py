@@ -124,6 +124,9 @@ def load_all():
     pairs = load_json("contradictions.json")
     claims_es = load_json("claims.es.json")
     pairs_es = load_json("contradictions.es.json")
+    global ARTICLES, ARTICLES_ES
+    ARTICLES = load_json("articles.json")
+    ARTICLES_ES = load_json("articles.es.json")
 
     # Slugs / ids are permanent URLs. New entries get one automatically (and it is saved).
     changed = False
@@ -176,6 +179,14 @@ def load_all():
     for slug in claims_es:
         if slug not in seen:
             warnings.append(f"data/claims.es.json has an unknown key: {slug}")
+    for c in published:
+        if c["slug"] not in ARTICLES:
+            warnings.append(f"no long-form article for claim {c['slug']}")
+        elif c["slug"] not in ARTICLES_ES:
+            warnings.append(f"no Spanish long-form article for claim {c['slug']}")
+    for key in list(ARTICLES) + list(ARTICLES_ES):
+        if key not in seen:
+            warnings.append(f"articles data has an unknown key: {key}")
     ids = {p["id"] for p in pairs}
     for p in pairs:
         if p["id"] not in pairs_es:
@@ -335,6 +346,8 @@ def build_index(lang, t, published, has_og):
 
 
 CLAIMS_ES: dict = {}
+ARTICLES: dict = {}
+ARTICLES_ES: dict = {}
 
 
 def tr(lang, claim) -> dict:
@@ -403,12 +416,27 @@ def build_article(lang, t, claim, published, ui_all, has_og):
         + "</ul>"
     )
 
+    art = (ARTICLES_ES.get(slug) if lang == "es" else None) or ARTICLES.get(slug)
+    art_attr = ' lang="en"' if (lang == "es" and slug not in ARTICLES_ES) else ""
+    long_html = ""
+    if art:
+        ev = "".join(f"<li>{esc(x)}</li>" for x in art.get("evidence", []))
+        long_html = (
+            f'<section class="long-article"{art_attr}>'
+            f'<h2 class="long-h">{esc(a["saidTitle"])}</h2><p>{esc(art["said"])}</p>'
+            f'<h2 class="long-h">{esc(a["whenWhereTitle"])}</h2><p>{esc(art["whenWhere"])}</p>'
+            f'<h2 class="long-h">{esc(a["evidenceTitle"])}</h2><ul class="long-evidence">{ev}</ul>'
+            f'<h2 class="long-h">{esc(a["contextTitle"])}</h2><p>{esc(art["context"])}</p>'
+            f'</section>'
+        )
+
     article = (
         f'<article class="full-article">'
         f'<div class="article-meta">{esc(topic)} · {esc(fmt_date(claim["date"], lang))} · {esc(verdict["label"])}</div>'
         f'<h1 class="article-title"{lang_attr}>{esc(title)}</h1>'
         f'<section class="statement-provenance">{"".join(prov)}</section>'
         f'<div class="article-eyebrow">{esc(a["claimEyebrow"])}</div>{claim_html}'
+        f'{long_html}'
         f'<div class="article-eyebrow">{esc(a["factsEyebrow"])}</div>'
         f'<p class="article-summary"{lang_attr}>{esc(summary)}</p>'
         f'<p class="article-finding">{esc(a["finding"])}: <span class="verdict" data-verdict="{esc(claim["verdict"])}">{esc(verdict["label"])}</span>'

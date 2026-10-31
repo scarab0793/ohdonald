@@ -1,0 +1,476 @@
+{
+  "2026-10-25-a-record-number-of-workers-but-what-about-the-rate": {
+    "said": "La redacción archivada dice que hoy trabajan más estadounidenses que en ningún otro momento de la historia del país. Una frase casi idéntica, \"More Americans are working today by far than ever before\", figura en el registro de PolitiFact del mismo periodo.",
+    "whenWhere": "PolitiFact sitúa la frase en el discurso de Trump ante la Asamblea General de la ONU el 22 de septiembre de 2026. FactCheck.org examinó la afirmación en su repaso de octubre de 2026 de los mítines de campaña; en el texto que pudimos leer no fija esa redacción a un mitin concreto.",
+    "evidence": [
+      "El empleo sí marcó un récord: más de 159 millones de trabajadores en agosto de 2026, según PolitiFact. Casi todo se debe a que creció la población.",
+      "La participación y la proporción empleo/población de 25 a 54 años son altas en términos históricos, pero bajaron levemente durante el mandato de Trump y eran mayores en la última parte del de Biden.",
+      "FactCheck.org señala que la proporción empleo/población general estaba por debajo de su nivel de enero de 2025. PolitiFact calificó la versión de la ONU como Half True (a medias)."
+    ],
+    "context": "Un país más grande tiene más trabajadores. La pregunta honesta es qué proporción de la gente trabaja, y esa cifra no marcó un récord."
+  },
+  "2026-10-24-zero-illegal-entries-that-is-not-what-the-data-show": {
+    "said": "La redacción archivada dice que en los últimos 17 meses no se admitió a ningún extranjero ilegal en Estados Unidos. En otra aparición lo dijo así: \"zero people came in\" (entró cero gente).",
+    "whenWhere": "La frase \"zero people came in\" se dijo en un discurso en Irlanda el 12 de septiembre de 2026, según PolitiFact. La versión de los 17 meses viene del repaso de FactCheck.org de octubre de 2026 sobre sus mítines.",
+    "evidence": [
+      "Los cruces ilegales están en mínimos históricos, pero la gente sigue intentando cruzar.",
+      "La Patrulla Fronteriza y Aduanas (CBP) registró 8.870 detenciones en la frontera suroeste en agosto de 2026.",
+      "La administración dice que ya no libera a las personas detenidas. Eso habla de liberaciones, no de intentos ni de entradas no autorizadas exitosas. PolitiFact la calificó de exacta pero necesitada de contexto; el repaso de FactCheck.org calificó la redacción de engañosa."
+    ],
+    "context": "\"Cero liberados en la frontera\" es una frase defendible. \"Cero entraron\" es otra frase, y los datos no la respaldan."
+  },
+  "2026-10-22-a-97-drop-in-ocean-drug-trafficking-show-the-data": {
+    "said": "Dijo que su administración estaba \"destroying 97 percent of the drugs coming into the ocean and sea\" (destruyendo el 97 % de las drogas que llegan por el océano y el mar). La redacción del archivo: el flujo de drogas mortales por vía marítima se redujo un 97 %.",
+    "whenWhere": "Discurso ante la Asamblea General de la ONU, 22 de septiembre de 2026, según PolitiFact. FactCheck.org examinó la misma afirmación en su repaso de octubre de 2026.",
+    "evidence": [
+      "Los decomisos bajaron después de que comenzaran los ataques militares a embarcaciones en septiembre de 2025, pero la administración no ha demostrado un vínculo claro entre ambas cosas.",
+      "La Guardia Costera registró un aumento del 200 % en decomisos en el año fiscal 2025 frente a otros promedios anuales.",
+      "Los decomisos miden lo detenido, no lo enviado ni lo entregado. Como el comercio es ilegal, el volumen real es imposible de conocer, así que no se puede sostener un porcentaje preciso. PolitiFact la calificó de False (falsa)."
+    ],
+    "context": "No se puede informar de una caída del 97 % en algo que nadie puede medir. El porcentaje es la parte sin respaldo."
+  },
+  "2026-10-20-no-tax-on-tips-overtime-or-social-security-terms-apply": {
+    "said": "Dijo que habría \"no tax\" (ningún impuesto) sobre propinas, horas extra y Seguro Social. La redacción archivada: sin impuestos a las propinas, sin impuestos a las horas extra, sin impuestos al Seguro Social.",
+    "whenWhere": "Una rueda de prensa en el Irish Open el 13 de septiembre de 2026, según PolitiFact. El repaso de FactCheck.org de octubre de 2026 sobre sus mítines también abordó la afirmación.",
+    "evidence": [
+      "La deducción por propinas se reduce progresivamente por encima de 150.000 dólares para solteros y 300.000 para declaraciones conjuntas.",
+      "La de horas extra cubre solo las exigidas por la ley federal de normas laborales (FLSA), y solo la parte \"extra\" del pago de tiempo y medio.",
+      "La disposición sobre el Seguro Social es una deducción de 6.000 dólares para mayores de 65, no la eliminación del impuesto sobre las prestaciones.",
+      "Las tres desgravaciones vencen en 2028 salvo que el Congreso las prorrogue."
+    ],
+    "context": "Son desgravaciones reales, con topes, límites de ingresos y fecha de caducidad. \"Sin impuestos\" es el eslogan; la letra pequeña es la ley."
+  },
+  "2026-10-19-five-thousand-dollar-checks-and-tariff-arithmetic": {
+    "said": "En un mitin dijo: \"We're gonna get you $5,000, so that's it. Very simple\" (Les vamos a dar 5.000 dólares, y ya está; muy simple). La afirmación archivada vincula el dinero con los aranceles, y en el mismo discurso dijo que los aranceles \"nos han hecho ricos\".",
+    "whenWhere": "Mitin en Gastonia, Carolina del Norte, 16 de septiembre de 2026, según PolitiFact. En agosto Trump había dicho que cada adulto ciudadano recibiría el pago si los republicanos conservan el Congreso.",
+    "evidence": [
+      "Pagar 5.000 dólares a cada adulto ciudadano costaría unos 1,2 billones de dólares, más de lo que EE. UU. gasta en un año en Medicare, intereses de la deuda o defensa.",
+      "La Tax Foundation estima que el gobierno recaudó unos 363.000 millones de dólares en aranceles entre enero de 2025 y abril de 2026, y gran parte se está devolviendo a empresas tras anular la Corte Suprema los aranceles.",
+      "El pago necesitaría aprobación del Congreso. PolitiFact recuerda que una promesa anterior de reparto de ingresos por aranceles no se cumplió."
+    ],
+    "context": "363.000 millones recaudados (y en parte devueltos) no pagan una factura de 1,2 billones. Es aritmética, no política."
+  },
+  "2026-10-12-greatest-economy-in-history-gdp-tells-a-different-story": {
+    "said": "Dijo que el país tenía \"la mejor economía de la historia de nuestro país\".",
+    "whenWhere": "FactCheck.org examinó la afirmación en su repaso de octubre de 2026 sobre sus discursos de campaña. La fuente no indica el lugar ni la hora exactos, y no los inventamos.",
+    "evidence": [
+      "FactCheck.org halló que el crecimiento del PIB real durante el primer mandato de Trump fue superado en muchos años anteriores.",
+      "\"La mejor\" es un superlativo, y por tanto una comparación; en las cifras de crecimiento que cita FactCheck.org, la comparación no se sostiene."
+    ],
+    "context": "Los superlativos son opiniones hasta que alguien los pone junto a una serie histórica. Entonces son afirmaciones, y esta perdió la comparación."
+  },
+  "2026-10-10-the-21-trillion-investment-claim": {
+    "said": "Dijo que \"tenemos 21 billones de dólares invirtiéndose en nuestro país\". La cifra cambia entre discursos: la hoja de referencia de PolitiFact registra \"$22 trillion coming into this country\" (22 billones entrando al país).",
+    "whenWhere": "La redacción de 21 billones viene del repaso de FactCheck.org de octubre de 2026 sobre sus mítines. PolitiFact registra la versión de 22 billones en el discurso de la convención de mitad de mandato en Dallas, el 10 de septiembre de 2026.",
+    "evidence": [
+      "La propia web de la Casa Blanca enumera 11,2 billones de dólares, aproximadamente la mitad de la cifra de Trump.",
+      "Esa suma incluye metas ambiciosas a varios años y algunas compras o ventas futuras, no inversión de capital.",
+      "Algunos compromisos de Oriente Medio son inverosímiles respecto a esas economías; el de Emiratos equivale a unos tres años de toda su producción económica. PolitiFact calificó de False la versión de 22 billones; FactCheck.org no halló ninguna contabilidad que respalde los 21 billones."
+    ],
+    "context": "Un compromiso anunciado no es dinero en el suelo. Y la cifra crece un billón según la sala."
+  },
+  "2026-10-09-worst-inflation-in-u-s-history-no": {
+    "said": "Dijo que heredó \"la peor inflación de la historia de Estados Unidos\".",
+    "whenWhere": "FactCheck.org examinó la afirmación en su repaso de octubre de 2026 sobre sus mítines. La fuente no indica el lugar ni la hora exactos, y no los inventamos.",
+    "evidence": [
+      "La inflación era del 3,0 % cuando Trump asumió en enero de 2025, según FactCheck.org.",
+      "La inflación estadounidense fue mucho mayor en otras épocas: el índice de precios al consumidor subió cerca del 14,8 % interanual en su pico de marzo de 1980 (datos de la Oficina de Estadísticas Laborales).",
+      "Incluso el pico más reciente, el 9,1 % de junio de 2022, estuvo muy por encima del 3,0 %."
+    ],
+    "context": "\"La peor de la historia\" admite una sola prueba: comparar la cifra con el resto de la historia. La que heredó no se acerca."
+  },
+  "2026-10-07-record-low-poverty-which-measure": {
+    "said": "Dijo que la tasa de pobreza acaba de alcanzar su nivel más bajo. En el discurso de Gastonia lo expresó así: \"We lifted 1.5 million people out of poverty last year\" (sacamos a 1,5 millones de personas de la pobreza el año pasado).",
+    "whenWhere": "La versión de 1,5 millones se dijo en el mitin de Gastonia, Carolina del Norte, el 16 de septiembre de 2026, según PolitiFact. FactCheck.org examinó la redacción de \"nivel más bajo\" en su repaso de octubre de 2026.",
+    "evidence": [
+      "Los datos del Censo muestran 1,5 millones menos de personas por debajo del umbral oficial de pobreza en 2025 que en 2024.",
+      "La medida suplementaria de pobreza, que tiene en cuenta el coste de vida regional y las prestaciones, no mostró una caída significativa en el mismo periodo.",
+      "PolitiFact calificó la frase de 1,5 millones de exacta pero necesitada de contexto; FactCheck.org halló que la tasa oficial llegó a un mínimo mientras que la medida suplementaria no."
+    ],
+    "context": "Según la regla que elijas, cambia la respuesta. Citó la que le favorece."
+  },
+  "2026-09-10-the-20-trillion-foreign-investment-assertion": {
+    "said": "Dijo que \"se han invertido sin precedentes 20 billones de dólares en EE. UU. desde países y empresas del exterior\".",
+    "whenWhere": "FactCheck.org revisó su discurso de la convención de mitad de mandato en septiembre de 2026. PolitiFact sitúa ese discurso en Dallas el 10 de septiembre de 2026 y cita allí la cifra como 22 billones.",
+    "evidence": [
+      "FactCheck.org no halló pruebas que respalden el total de 20 billones.",
+      "La lista de la propia Casa Blanca suma 11,2 billones, según PolitiFact, e incluye compromisos ambiciosos y a varios años."
+    ],
+    "context": "Mismo discurso, dos medios, dos cifras citadas: ambas muy por encima de la lista de la propia Casa Blanca."
+  },
+  "2026-07-16-election-security-speech-insinuation-is-not-evidence": {
+    "said": "Dio un discurso sobre seguridad electoral que hacía referencia a unas \"elecciones robadas\" y a supuestas vulnerabilidades ocultas en el sistema de votación.",
+    "whenWhere": "FactCheck.org publicó su revisión en julio de 2026. La fuente no indica el lugar ni la hora exactos, y no los inventamos.",
+    "evidence": [
+      "FactCheck.org halló que el discurso no aportó pruebas de fraude generalizado.",
+      "También halló que ofreció poca información nueva sobre vulnerabilidades reales del sistema electoral."
+    ],
+    "context": "Insinuar que algo anda mal no es lo mismo que demostrarlo. La regla del archivo: enseña el recibo."
+  },
+  "2026-05-31-a-perfect-cognitive-screening-score-is-not-an-iq-score": {
+    "said": "Dijo que obtuvo \"un 30 perfecto sobre 30\", lo que calificó de \"inteligencia extrema\". Lo describió como su cuarta prueba perfecta.",
+    "whenWhere": "Informado a finales de mayo de 2026; la calificación de PolitiFact es del 3 de junio de 2026. La fuente no indica el lugar ni la hora exactos, y no los inventamos.",
+    "evidence": [
+      "La Evaluación Cognitiva de Montreal (MoCA) es una herramienta de cribado de deterioro cognitivo. Su creadora y especialistas médicos señalan que no mide el coeficiente intelectual.",
+      "Una puntuación máxima significa que no se detectó deterioro en esa prueba. No establece \"inteligencia extrema\".",
+      "Trump la llamó su cuarta prueba perfecta, así que es inexacto decir que solo se había hecho una.",
+      "El archivo no toma postura sobre la salud de nadie. La afirmación comprobada trata de lo que mide la prueba."
+    ],
+    "context": "Un termómetro que marca 36,6 no demuestra que puedas correr un maratón. Misma lógica, con una prueba de memoria."
+  },
+  "2025-12-17-inflation-had-stopped-prices-kept-rising": {
+    "said": "En un discurso en horario estelar dijo que la inflación era la peor de la historia cuando asumió, y que ahora se había detenido.",
+    "whenWhere": "Discurso en horario estelar, 17 de diciembre de 2025. FactCheck.org lo revisó en un artículo sobre el discurso \"a ritmo vertiginoso\".",
+    "evidence": [
+      "FactCheck.org halló inexacta la comparación histórica: la inflación era del 3,0 % en enero de 2025, muy por debajo de picos anteriores.",
+      "También halló inexacta la sugerencia de que la inflación se había detenido. Los precios seguían subiendo."
+    ],
+    "context": "Más lenta no es detenida. Los precios no bajan solo porque baje el ritmo al que suben."
+  },
+  "2025-09-22-tylenol-and-autism-causation-was-not-established": {
+    "said": "Sugirió que tomar paracetamol (Tylenol) durante el embarazo está vinculado al autismo. Dijo que las embarazadas deben \"aguantarse\", repitió \"don't take Tylenol\" (no tomen Tylenol) una docena de veces y dijo que no se le dé al bebé después de nacer.",
+    "whenWhere": "Una rueda de prensa de aproximadamente una hora sobre el autismo el 22 de septiembre de 2025. El texto de FactCheck.org apunta a un acto en la Casa Blanca pero no nombra la sala.",
+    "evidence": [
+      "El aviso de la FDA a los médicos que acompañó el anuncio dice que no se ha establecido una relación causal y reconoce estudios en sentido contrario.",
+      "Un gran estudio en JAMA halló que las asociaciones desaparecían al comparar hermanos; una revisión de finales de 2024 concluyó que es improbable que el paracetamol en el embarazo suponga un riesgo clínicamente importante de TDAH o autismo.",
+      "Una revisión de Harvard del 14 de agosto calificó la causalidad de \"plausible\" y pidió más investigación; no presentó investigación nueva.",
+      "El Colegio Americano de Obstetras y Ginecólogos dijo que el anuncio \"no está respaldado por todo el conjunto de la evidencia científica\". Especialistas en medicina materno-fetal advirtieron de que la fiebre sin tratar aumenta el riesgo de aborto espontáneo, defectos congénitos y parto prematuro."
+    ],
+    "context": "\"Posible\" y \"establecido\" son palabras distintas. La rueda de prensa usó el tono de la segunda para el estado de la primera."
+  },
+  "2025-08-01-were-u-s-jobs-numbers-rigged": {
+    "said": "Tras un informe de empleo débil acusó a la Oficina de Estadísticas Laborales (BLS) de producir cifras manipuladas y despidió a su comisionada.",
+    "whenWhere": "1 de agosto de 2025, el día del informe de empleo de julio, anunciado en su cuenta de redes sociales. La comisionada, Erika McEntarfer, había sido nominada por Biden y asumió en enero de 2024; el subcomisionado, William Wiatrowski, quedó como director en funciones.",
+    "evidence": [
+      "El informe mostró 73.000 empleos creados en julio y un desempleo del 4,2 %, frente al 4,1 %.",
+      "También revisó mayo de 125.000 a 19.000 empleos y junio de 147.000 a 14.000. Revisiones así son rutinarias al llegar más respuestas de la encuesta.",
+      "Economistas e inversores llevan tiempo considerando que las estadísticas económicas de EE. UU. están libres de interferencia partidista; FactCheck.org no halló pruebas de manipulación política. Los índices bursátiles cayeron cerca de un 1,5 % ese día."
+    ],
+    "context": "Cuando los datos decepcionan, puedes mejorar la economía o despedir al termómetro. Aquí solo una de las dos opciones está documentada."
+  },
+  "2025-04-02-the-reciprocal-tariffs-chart-wasnt-showing-foreign-tariff-rates": {
+    "said": "Presentó un gráfico de aranceles \"recíprocos\", titulado \"Tariffs Charged to the U.S.A.\" (aranceles cobrados a EE. UU.), y dijo que mostraba lo que otros países cobran a Estados Unidos.",
+    "whenWhere": "Jardín de las Rosas, 2 de abril de 2025, en el anuncio de los aranceles \"recíprocos\".",
+    "evidence": [
+      "Según la Oficina del Representante Comercial (USTR), cada tasa se calculó dividiendo el déficit comercial de bienes de un país con EE. UU. entre las importaciones de bienes de EE. UU. desde ese país; la tasa \"rebajada\" de EE. UU. es la mitad.",
+      "Para la UE el gráfico indica 39 % (unos 235.600 millones divididos entre 605.800 millones en 2024). La Organización Mundial del Comercio sitúa el arancel medio ponderado de la UE en el 2,7 %.",
+      "Países con los que EE. UU. tiene superávit, como el Reino Unido y Singapur, recibieron igualmente una tasa del 10 %.",
+      "Economistas señalaron que la fórmula ignora el comercio de servicios y factores no arancelarios, por lo que no mide barreras comerciales."
+    ],
+    "context": "Un déficit comercial no es un arancel. Llamar a uno con el nombre del otro es un problema de etiquetas, no una política."
+  },
+  "2025-03-04-doge-found-hundreds-of-billions-in-fraud": {
+    "said": "Dijo que DOGE ha encontrado cientos de miles de millones de dólares de fraude.",
+    "whenWhere": "Su discurso ante el Congreso, 4 de marzo de 2025, revisado por FactCheck.org.",
+    "evidence": [
+      "FactCheck.org halló que el propio DOGE reclamó ahorros mucho menores que la cifra sugerida, y documentó solo una fracción.",
+      "Ahorro no es fraude: recortar un contrato o un programa es una decisión de gasto, no una prueba de que se robara algo."
+    ],
+    "context": "Recortar costes y atrapar delincuentes son trabajos distintos. Solo el segundo es \"fraude\"."
+  },
+  "2025-01-20-panama-not-china-controls-the-canal": {
+    "said": "En su discurso de investidura dijo: \"And, above all, China is operating the Panama Canal\" (y, sobre todo, China está operando el Canal de Panamá).",
+    "whenWhere": "Discurso de investidura, 20 de enero de 2025, verificado por la Associated Press.",
+    "evidence": [
+      "El administrador del canal, Ricaurte Vásquez, dijo a AP que no hay discriminación en las tarifas.",
+      "Empresas vinculadas a China operan puertos en ambos extremos del canal a través de un consorcio de Hong Kong que ganó una licitación en 1997; empresas estadounidenses y taiwanesas operan otros puertos.",
+      "Un tratado de neutralidad prohíbe el trato especial a los buques con bandera de EE. UU.; la única excepción es el paso expedito de buques de guerra estadounidenses."
+    ],
+    "context": "Operar un puerto cercano no es operar el canal. Panamá opera el canal."
+  },
+  "2025-01-20-did-pelosi-reject-10-000-national-guard-troops": {
+    "said": "Dijo que Nancy Pelosi había \"rechazado la oferta de 10.000 soldados\" antes del 6 de enero.",
+    "whenWhere": "Declaraciones en el Salón de la Emancipación del Capitolio el 20 de enero de 2025, verificadas por AP.",
+    "evidence": [
+      "Trump no dio ninguna orden ni solicitud formal de la Guardia antes ni durante el asalto; su llegada se retrasó horas mientras el Pentágono deliberaba.",
+      "El secretario de Defensa en funciones, Christopher Miller, dijo al comité de la Cámara en 2022 que no hubo orden del presidente.",
+      "La Junta de la Policía del Capitolio decide si se llama a la Guardia. El entonces portavoz de Pelosi dijo que nunca se le informó de tal solicitud. AP no halló pruebas de que ella o Mitch McConnell dijeran a los responsables de seguridad que no llamaran a la Guardia."
+    ],
+    "context": "Quien podía ordenar tropas era Trump. Pelosi nunca tuvo ese botón."
+  },
+  "2025-01-20-a-pardon-and-a-commutation-are-not-the-same": {
+    "said": "Dijo que Biden indultó a \"what is it, 33 murderers, absolute murderers, the worst murderers\" (¿cuántos son?, 33 asesinos, asesinos de verdad, los peores asesinos).",
+    "whenWhere": "Declaraciones en el Salón de la Emancipación del Capitolio el 20 de enero de 2025, verificadas por AP.",
+    "evidence": [
+      "El 23 de diciembre de 2024 Biden conmutó las condenas de 37 de las 40 personas en el corredor de la muerte federal por cadena perpetua.",
+      "Una conmutación cambia la pena; no exonera a nadie. Indulto y conmutación son actos distintos.",
+      "Tres presos federales siguen afrontando la ejecución: Dylann Roof, Dzhokhar Tsarnaev y Robert Bowers."
+    ],
+    "context": "Dijo \"¿cuántos son, 33?\". Eran 37, y la palabra era otra."
+  },
+  "2024-09-10-claims-at-the-harris-trump-debate": {
+    "said": "En el debate repitió afirmaciones discutidas sobre las elecciones de 2020 y el 6 de enero. Esta entrada es un resumen temático, no una cita única.",
+    "whenWhere": "Debate presidencial Harris–Trump, 10 de septiembre de 2024, revisado por FactCheck.org.",
+    "evidence": [
+      "FactCheck.org examinó varias afirmaciones discutidas sobre el ataque al Capitolio y los resultados electorales.",
+      "Enlazamos su revisión completa en lugar de fallar de nuevo cada frase aquí."
+    ],
+    "context": "Un debate va rápido. Los recibos tardan más."
+  },
+  "2024-06-27-abortions-after-birth-that-would-be-homicide": {
+    "said": "Dijo que algunos estados permiten abortos después del nacimiento.",
+    "whenWhere": "Debate presidencial Biden–Trump, 27 de junio de 2024, revisado por FactCheck.org.",
+    "evidence": [
+      "FactCheck.org señala que matar a un bebé después de nacer es homicidio e ilegal en todos los estados.",
+      "La afirmación tergiversa la ley del aborto."
+    ],
+    "context": "\"Después del nacimiento\" no es aborto. Tiene otro nombre, y es un delito."
+  },
+  "2024-01-10-the-debt-payoff-that-never-had-a-budget": {
+    "said": "Dijo que, vendiendo energía al exterior, su administración habría empezado a pagar la deuda nacional.",
+    "whenWhere": "Asamblea con votantes en Iowa, enero de 2024, revisada por FactCheck.org.",
+    "evidence": [
+      "FactCheck.org consideró la afirmación sin respaldo.",
+      "La deuda pública aumentó durante el primer mandato de Trump."
+    ],
+    "context": "Un plan sin presupuesto detrás es una esperanza."
+  },
+  "2023-08-23-wind-turbines-dont-work-the-grid-disagrees": {
+    "said": "En una entrevista dijo de los aerogeneradores: \"windmills all over the place, which by the way, don't work, and they're all — most of them — made in China\" (molinos por todas partes que, por cierto, no funcionan, y casi todos están hechos en China).",
+    "whenWhere": "Entrevista con Tucker Carlson, publicada en X minutos antes del primer debate republicano el 23 de agosto de 2023.",
+    "evidence": [
+      "La energía eólica aportó el 10,2 % de la generación eléctrica a escala industrial de EE. UU. en 2022, la mayor de las renovables (Administración de Información Energética).",
+      "Texas, Iowa, Oklahoma, Kansas e Illinois produjeron casi el 60 % de la energía eólica del país ese año.",
+      "PolitiFact halló en 2021 que cerca del 16 % de las piezas importadas de turbinas venían de China. Un informe de BloombergNEF de 2021 citado por el Departamento de Energía halló que un proyecto terrestre típico obtiene el 57 % de sus piezas, por valor, en el país.",
+      "La red está diseñada para manejar el viento variable; los hogares no se quedan sin luz cuando cesa."
+    ],
+    "context": "\"No funcionan\" cuadra mal con una décima parte de la electricidad del país."
+  },
+  "2023-05-10-the-georgia-call-remembered-differently": {
+    "said": "En un coloquio de CNN dijo que no pidió al secretario de Estado de Georgia que le encontrara más votos.",
+    "whenWhere": "Coloquio de CNN, mayo de 2023, revisado por FactCheck.org. La llamada tuvo lugar el 2 de enero de 2021.",
+    "evidence": [
+      "Una llamada grabada documenta a Trump pidiendo al secretario de Estado de Georgia, Brad Raffensperger, que encontrara 11.780 votos.",
+      "Raffensperger le dijo en la llamada que sus datos sobre papeletas ausentes enviadas a direcciones vacías eran erróneos.",
+      "Las propias investigaciones de Georgia hallaron cuatro casos de suplantación de votantes fallecidos, y los funcionarios que revisaron las imágenes del episodio de recuento con Ruby Freeman y Shaye Moss vieron solo un manejo rutinario de cajas de papeletas."
+    ],
+    "context": "Cuando hay cinta, no hace falta memoria."
+  },
+  "2022-09-03-the-fbi-staged-the-mar-a-lago-photograph": {
+    "said": "Dijo que los agentes del FBI \"stage a photo shoot, and pretend that I had done it\" (montan una sesión de fotos y fingen que lo hice yo), y llamó a la foto de los documentos incautados \"desinformación\".",
+    "whenWhere": "Mitin de campaña en Wilkes-Barre, Pensilvania, 3 de septiembre de 2022, para los candidatos republicanos a gobernador y senador.",
+    "evidence": [
+      "Un escrito del Departamento de Justicia del 30 de agosto de 2022 incluye la foto como Anexo F y dice que los documentos y las portadas fueron \"recuperados de un contenedor en la oficina del '45\".",
+      "Funcionarios del DOJ dijeron a The New York Times y The Washington Post que los agentes dispusieron los documentos en el suelo para fotografiarlos como prueba.",
+      "Una persona familiarizada con la investigación dijo al Post que disponer pruebas incautadas para una foto es práctica habitual del FBI."
+    ],
+    "context": "Disponer pruebas para fotografiarlas no es fabricarlas. Los documentos eran reales."
+  },
+  "2022-06-13-election-fraud-claims-despite-aides-warnings": {
+    "said": "Siguió afirmando fraude generalizado en las elecciones de 2020 después de que sus propios asesores le dijeran que las acusaciones carecían de fundamento.",
+    "whenWhere": "Audiencia del comité de la Cámara sobre el 6 de enero, 13 de junio de 2022, revisada por FactCheck.org.",
+    "evidence": [
+      "El ex fiscal general Bill Barr, en testimonio grabado, calificó las afirmaciones electorales de Trump de \"desconectadas de la realidad\".",
+      "El ex jefe de campaña Bill Stepien y otros asesores dijeron, en testimonios mostrados en la audiencia, que le habían dicho a Trump que las acusaciones de fraude eran falsas.",
+      "Al Schmidt, ex comisionado republicano de la ciudad de Filadelfia, declaró en la audiencia sobre la falta de pruebas de fraude allí."
+    ],
+    "context": "Quienes le informaban dijeron que era falso. Las declaraciones públicas continuaron."
+  },
+  "2021-11-01-gasoline-wasnt-1-86-nationally-when-trump-left-office": {
+    "said": "Dijo que la gasolina estaba a 1,86 dólares el galón cuando dejó la Casa Blanca: \"It was $1.86 when I left\".",
+    "whenWhere": "Entrevista con Hugh Hewitt, 8 de diciembre de 2021, durante una charla sobre el aumento de los precios de la gasolina bajo Biden.",
+    "evidence": [
+      "La Administración de Información Energética (EIA) fijó la media nacional en 2,38 dólares la semana del 18 de enero de 2021, un 28 % más que su cifra.",
+      "La media nacional estuvo tan baja con Trump solo en marzo de 2020, cuando los confinamientos hundieron la demanda.",
+      "California promedió 3,21 dólares esa semana; Texas, algo menos de 2,10; Houston, 2,06. Patrick De Haan, de GasBuddy, dijo que ninguna ciudad ni estado de EE. UU. promedió 1,86 el 20 de enero de 2021. PolitiFact la calificó de False."
+    ],
+    "context": "Un precio barato en una gasolinera una semana es una anécdota, no un promedio nacional."
+  },
+  "2021-06-12-was-trump-right-about-everything": {
+    "said": "Dijo: \"I was right about everything\" (tenía razón en todo).",
+    "whenWhere": "La verificación de PolitiFact es del 14 de junio de 2021. No pudimos leer el artículo completo, así que no indicamos el lugar ni los ejemplos que cubrió.",
+    "evidence": [
+      "PolitiFact halló algunas afirmaciones exactas, algunas sin respaldo y algunas puramente de opinión: no un historial uniformemente correcto.",
+      "Nadie acierta en todo; la prueba es si las afirmaciones comprobadas se sostienen."
+    ],
+    "context": "Un historial que incluye calificaciones de falso no puede ser también una hoja limpia."
+  },
+  "2021-01-06-georgias-66-000-underage-voters-officials-said-zero": {
+    "said": "Dijo que 66.000 votos en Georgia fueron emitidos por personas por debajo de la edad legal para votar.",
+    "whenWhere": "Mitin \"Save America\" del 6 de enero de 2021, revisado por FactCheck.org.",
+    "evidence": [
+      "Los funcionarios electorales republicanos de Georgia dijeron que el número real de votantes menores de edad era cero."
+    ],
+    "context": "Los propios funcionarios republicanos del estado dijeron cero."
+  },
+  "2020-11-04-declaring-victory-before-votes-were-counted": {
+    "said": "Dijo: \"We already have won\" (ya hemos ganado) las elecciones, y añadió: \"Frankly, we did win this election\" (francamente, ganamos estas elecciones).",
+    "whenWhere": "Salón Este de la Casa Blanca, 4 de noviembre de 2020. Sus palabras empezaron a las 2:21 de la madrugada, hora del Este.",
+    "evidence": [
+      "Faltaban muchos votos por contar, incluidas papeletas por correo y ausentes de zonas urbanas con probable ventaja para Biden; Biden iba ganando terreno en Georgia.",
+      "Ninguna mesa de proyecciones de los grandes medios había dado la victoria a Trump, ni tampoco Fox News, Newsmax u OANN. PolitiFact la calificó de Pants on Fire.",
+      "La ley federal da a los estados más de un mes para finalizar resultados; los electores votan el 14 de diciembre y el Congreso los cuenta el 6 de enero. Los resultados certificados mostraron después que ganó Biden."
+    ],
+    "context": "Declarar la victoria es fácil. Contar es lo difícil."
+  },
+  "2020-07-09-acing-a-cognitive-screen-isnt-acing-an-intelligence-test": {
+    "said": "Dijo: \"I proved I was all there, because I aced it. I aced the test\" (demostré que estaba en plenas facultades, porque lo bordé; bordé la prueba).",
+    "whenWhere": "Entrevista con Sean Hannity en Fox News, 9 de julio de 2020.",
+    "evidence": [
+      "Hablaba de una prueba de cribado cognitivo, no de un test de inteligencia.",
+      "Una puntuación alta en un cribado cognitivo no puede por sí sola establecer una inteligencia excepcional."
+    ],
+    "context": "Superar un cribado y medir la inteligencia no son lo mismo."
+  },
+  "2019-09-06-dorian-alabama-and-the-sharpie-the-forecast-said-no": {
+    "said": "Dijo que el huracán Dorian probablemente golpearía Alabama.",
+    "whenWhere": "Publicaciones y declaraciones en torno al 1 de septiembre de 2019. El 4 de septiembre mostró un mapa de la NOAA marcado a mano en una sesión informativa en la Casa Blanca.",
+    "evidence": [
+      "El Servicio Meteorológico Nacional subrayó que Dorian no tendría efectos en Alabama.",
+      "El mapa que mostró incluía Alabama en la trayectoria de la tormenta solo por una línea negra trazada a mano con rotulador, que la Casa Blanca confirmó que se añadió antes de que entrara la prensa."
+    ],
+    "context": "El cono lo dibujó el Servicio Meteorológico Nacional. La ampliación, un rotulador."
+  },
+  "2019-04-02-wind-turbine-noise-causes-cancer-evidence-says-no": {
+    "said": "Dijo que el ruido de los aerogeneradores causa cáncer, que las turbinas cercanas reducen el valor de las casas un 75 % y que la gente se queda sin electricidad cuando el viento cesa.",
+    "whenWhere": "Discurso ante el Comité Nacional Republicano del Congreso (NRCC), 2 de abril de 2019.",
+    "evidence": [
+      "La Sociedad Americana del Cáncer \"no tiene noticia de ninguna prueba creíble que vincule el ruido de los molinos con el cáncer\". FactCheck.org no halló estudios que lo hagan.",
+      "Un estudio de 2014 de la Universidad de Rhode Island, con más de 48.000 ventas de casas, no halló efecto significativo en los precios; otros estudios hallaron caídas de aproximadamente 1 a 35 % en casas muy cercanas a las turbinas.",
+      "La red está diseñada para manejar el viento variable, así que los hogares no se quedan sin electricidad cuando cesa. FactCheck.org calificó las afirmaciones de False."
+    ],
+    "context": "Las ondas sonoras no son cancerígenas."
+  },
+  "2019-01-10-mexico-is-paying-for-the-wall-through-a-trade-deal": {
+    "said": "Dijo que México estaba pagando el muro \"in a great trade deal\" (con un gran acuerdo comercial).",
+    "whenWhere": "Declaraciones en Texas durante una visita a la frontera, 10 de enero de 2019.",
+    "evidence": [
+      "La Associated Press halló que México se ha negado a pagar nada por el muro.",
+      "El acuerdo comercial actualizado no contiene ningún pago ni reembolso por la construcción; los beneficios económicos alegados no se pueden contar ni cuantificar.",
+      "La promesa original era que México pagaría directamente."
+    ],
+    "context": "La promesa era un cheque de México. Lo entregado fue otro acuerdo comercial."
+  },
+  "2018-04-01-daca-for-new-border-arrivals-thats-not-how-it-works": {
+    "said": "Tuiteó: \"These big flows of people are all trying to take advantage of DACA\" (todos estos grandes flujos de gente intentan aprovecharse de DACA) y dijo a periodistas: \"a lot of people are coming in because they want to take advantage of DACA\".",
+    "whenWhere": "Un tuit el Domingo de Pascua, 1 de abril de 2018, repetido ante periodistas antes de la misa de Pascua.",
+    "evidence": [
+      "Los solicitantes del programa de 2012 debían estar físicamente en EE. UU. el 15 de junio de 2012 y vivir aquí de forma continua desde el 15 de junio de 2007.",
+      "Quienes cruzan ahora la frontera no pueden calificar bajo el programa original ni bajo la versión de la administración.",
+      "La administración empezó a desmantelar DACA el 5 de septiembre de 2017, con excepciones limitadas para renovaciones. Veredicto de FactCheck.org: no son elegibles."
+    ],
+    "context": "No puedes aprovecharte de un programa cuya fecha de corte ya pasó."
+  },
+  "2018-01-06-the-very-stable-genius-declaration": {
+    "said": "Escribió: \"I think that would qualify as not smart, but genius....and a very stable genius at that!\" (creo que eso calificaría como no tonto, sino genio... ¡y además un genio muy estable!).",
+    "whenWhere": "Twitter (ahora X), 6 de enero de 2018, respondiendo a dudas sobre su aptitud mental planteadas en torno a la publicación de un libro sobre su Casa Blanca.",
+    "evidence": [
+      "\"Genio muy estable\" es una autodescripción. Es una opinión, no una afirmación factual medible.",
+      "Esta entrada se queda en lo que dijo y en lo que se puede medir; el archivo no especula sobre la salud de nadie."
+    ],
+    "context": "Un autoelogio no necesita verificación; solo registro."
+  },
+  "2017-12-12-lie-of-the-year-2017-russia-is-a-made-up-story": {
+    "said": "Dijo: \"this Russia thing with Trump and Russia is a made up story\" (esto de Trump y Rusia es una historia inventada). PolitiFact nombró \"la injerencia rusa en las elecciones es una historia inventada\" su Mentira del Año 2017.",
+    "whenWhere": "Entrevista de NBC News con Lester Holt en la Casa Blanca, 11 de mayo de 2017. El premio de PolitiFact es del 12 de diciembre de 2017.",
+    "evidence": [
+      "Las agencias de inteligencia de EE. UU. concluyeron en enero de 2017 que Rusia interfirió en las elecciones de 2016.",
+      "La Mentira del Año de PolitiFact se refería a descartar repetidamente la injerencia como \"inventada\", no a contactos individuales."
+    ],
+    "context": "Si alguien se coludió era otra pregunta. Que hubo injerencia, no."
+  },
+  "2017-03-04-obama-tapped-trump-tower-the-fbi-director-had-no-information-to": {
+    "said": "Afirmó en redes sociales que Obama le había \"pinchado los teléfonos\" en la Torre Trump justo antes de las elecciones.",
+    "whenWhere": "Una serie de mensajes en Twitter (ahora X), 4 de marzo de 2017.",
+    "evidence": [
+      "El director del FBI, James Comey, dijo al Comité de Inteligencia de la Cámara que no tenía información que respaldara los tuits.",
+      "El ex jefe de inteligencia James Clapper dijo que no se montó ninguna actividad de escucha contra el presidente.",
+      "Los informes en que Trump se basó describían una orden FISA legal contra dos bancos rusos."
+    ],
+    "context": "No se halló ninguna prueba. Afirmación de escuchas calificada como sin respaldo."
+  },
+  "2017-02-25-the-first-month-national-debt-drop-true-number-wrong-implication": {
+    "said": "Dijo que la deuda nacional bajó 12.000 millones de dólares en su primer mes en el cargo.",
+    "whenWhere": "Revisado por PolitiFact en su Top 10 de verificaciones sobre Trump. No pudimos leer el artículo completo, así que no indicamos el lugar ni la fecha.",
+    "evidence": [
+      "La caída temporal reflejó flujos de caja federales, no una reducción duradera de la deuda."
+    ],
+    "context": "Los vaivenes de caja de un mes no son pagos de deuda."
+  },
+  "2017-02-16-biggest-electoral-win-since-reagan-obama-and-bush-say-hi": {
+    "said": "Dijo que había logrado \"la mayor victoria en el Colegio Electoral desde Ronald Reagan\".",
+    "whenWhere": "Rueda de prensa en la Casa Blanca, 16 de febrero de 2017.",
+    "evidence": [
+      "Trump obtuvo 304 votos electorales.",
+      "Barack Obama ganó con 365 en 2008 y 332 en 2012; George H. W. Bush con 426 en 1988."
+    ],
+    "context": "Tres ganadores recientes obtuvieron más votos electorales."
+  },
+  "2017-02-07-highest-murder-rate-in-47-years-the-fbi-numbers-say-no": {
+    "said": "Dijo que la tasa de homicidios era la más alta en 47 años.",
+    "whenWhere": "Reunión con la Asociación Nacional de Alguaciles en la Casa Blanca, 7 de febrero de 2017.",
+    "evidence": [
+      "Datos del FBI situaron la tasa de homicidios de 2015 en unos 4,9 por 100.000 habitantes, algo por encima de 2014 (4,4) pero muy por debajo de 1980 (10,2).",
+      "CBS News señaló que la tasa nacional de delitos sigue cerca de mínimos históricos."
+    ],
+    "context": "Subir desde un mínimo no es un máximo de 47 años."
+  },
+  "2017-01-24-3-to-5-million-illegal-votes-still-waiting-for-the-list": {
+    "said": "Dijo a líderes del Congreso que entre 3 y 5 millones de votos ilegales le costaron el voto popular.",
+    "whenWhere": "Recepción para líderes bipartidistas del Congreso en la Casa Blanca, 23 de enero de 2017, según CBS News.",
+    "evidence": [
+      "CBS informó de la afirmación como no probada y señaló que no se citó ninguna prueba de la cifra.",
+      "Al día siguiente el portavoz de la Casa Blanca habló de \"estudios y pruebas\" sin dar detalles."
+    ],
+    "context": "Seguimos esperando la lista."
+  },
+  "2017-01-21-inauguration-crowds-photos-versus-the-claim": {
+    "said": "Dijo que una cadena mostró \"un campo vacío\" y que la multitud \"parecía de millón y medio de personas\" y \"llegaba hasta el Monumento a Washington\".",
+    "whenWhere": "Discurso en la sede de la CIA, 21 de enero de 2017.",
+    "evidence": [
+      "Una foto de Reuters tomada a las 12:01 desde el Monumento a Washington muestra que la multitud no llegaba hasta el monumento.",
+      "El Metro registró unos 193.000 viajes a las 11 h frente a unos 513.000 en 2009, y unos 570.557 en todo el día frente a cerca de 1,1 millones en 2009.",
+      "Expertos en multitudes dijeron que la de 2017 fue claramente menor que la de 2009: uno la estimó en un tercio. El Servicio de Parques Nacionales no emite cifras oficiales."
+    ],
+    "context": "Las fotos y las tarjetas del metro no tienen opiniones."
+  },
+  "2016-10-09-the-sex-tape-tweet-he-said-he-never-sent": {
+    "said": "En el debate dijo que el tuit \"wasn't saying, 'check out a sex tape'\" (no decía «vean una cinta sexual»).",
+    "whenWhere": "Segundo debate presidencial, Universidad Washington en San Luis, 9 de octubre de 2016.",
+    "evidence": [
+      "El 30 de septiembre de 2016 a las 5:30 h (ET) tuiteó un mensaje que incluía el paréntesis \"check out sex tape and past\" sobre Alicia Machado.",
+      "No ha aparecido ninguna cinta. PolitiFact calificó la negación de Pants on Fire."
+    ],
+    "context": "El tuit consta. La negación, también."
+  },
+  "2016-09-16-clinton-started-birtherism-no-evidence-and-he-kept-it-going": {
+    "said": "Dijo: \"Hillary Clinton and her campaign of 2008 started the birther controversy. I finished it\" (Hillary Clinton y su campaña de 2008 iniciaron la polémica birther. Yo la terminé).",
+    "whenWhere": "Declaración en el Trump International Hotel, Washington D. C., 16 de septiembre de 2016.",
+    "evidence": [
+      "FactCheck.org no halló pruebas de que Clinton o su campaña tuvieran algo que ver con las afirmaciones birther.",
+      "Concluyó que, si acaso, Trump siguió perpetuando el asunto mucho después de que quedara zanjado."
+    ],
+    "context": "No puedes apagar un fuego que seguiste alimentando."
+  },
+  "2016-09-07-totally-against-the-iraq-war-the-2002-tape-says-otherwise": {
+    "said": "Dijo: \"I was totally against the war in Iraq\" (estuve totalmente en contra de la guerra de Irak).",
+    "whenWhere": "Foro de NBC News «Commander-in-Chief», Nueva York, 7 de septiembre de 2016.",
+    "evidence": [
+      "En una entrevista de radio de septiembre de 2002, al preguntarle si apoyaba invadir Irak, respondió \"Yeah, I guess so\" (sí, supongo).",
+      "FactCheck.org no halló pruebas de que se opusiera a la guerra antes de la invasión de marzo de 2003; expresó dudas sobre su coste y rumbo unos meses después de comenzar.",
+      "PolitiFact la calificó de False."
+    ],
+    "context": "La cinta de 2002 está ahí para reproducirse."
+  },
+  "2016-02-25-tax-returns-from-certainly-to-audit-excuses": {
+    "said": "En el debate dijo: \"I'm being audited now for two or three years, so I can't do it until the audit is finished, obviously\" (llevo dos o tres años siendo auditado, así que no puedo hacerlo hasta que termine la auditoría, obviamente).",
+    "whenWhere": "Debate republicano, 25 de febrero de 2016. Un año antes, el 25 de febrero de 2015, dijo a Hugh Hewitt que \"ciertamente\" mostraría sus declaraciones si fuera necesario.",
+    "evidence": [
+      "Cualquier contribuyente puede autorizar la divulgación de información fiscal firmando el formulario 8821 del IRS, que no tiene excepción para declaraciones en auditoría.",
+      "FactCheck.org no halló ninguna ley ni regulación que le impidiera publicar sus declaraciones presentadas.",
+      "Tras el debate dijo a CNN que sus abogados no lo permitirían. Lectura de FactCheck.org: «no quiere», no «no puede»."
+    ],
+    "context": "De «ciertamente» a «no hasta la auditoría»: las mismas declaraciones, otra excusa."
+  },
+  "2015-11-21-thousands-cheering-in-new-jersey-on-9-11": {
+    "said": "Dijo: \"I watched in Jersey City, N.J., where thousands and thousands of people were cheering\" (vi en Jersey City, N. J., a miles y miles de personas celebrando) mientras caían las Torres Gemelas.",
+    "whenWhere": "Discurso en Alabama, 21 de noviembre de 2015. Al día siguiente, en «This Week» de ABC, insistió: \"It did happen. I saw it. It was on television\" (Sí pasó. Lo vi. Salió por televisión).",
+    "evidence": [
+      "Un artículo del Washington Post del 18 de septiembre de 2001 informó de que la policía de Jersey City detuvo a \"un número de personas\" que supuestamente celebraban; la acusación no tenía atribución y el periodista dijo que \"nunca pudo verificar ese informe\".",
+      "Eso no salió por televisión y no eran «miles y miles».",
+      "El ex fiscal general de Nueva Jersey John Farmer Jr. dijo que los informes de la policía estatal sobre celebraciones en Jersey City y Paterson fueron investigados y resultaron falsos: «Nunca ocurrió».",
+      "PolitiFact y el Fact Checker del Washington Post le dieron sus peores calificaciones."
+    ],
+    "context": "Una línea sin verificar de un artículo de 2001 se convirtió en «miles y miles»."
+  }
+}

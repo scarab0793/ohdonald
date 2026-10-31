@@ -92,13 +92,17 @@
       "archiveNote": "The archive date is not necessarily the date the statement was made.",
       "finding": "Finding",
       "sourcesTitle": "Sources & further reading",
-      "editorialNote": "Editorial note: this is a concise fact-check summary, not a full investigation. Read the linked reporting for the detailed evidence. Dates and quotation wording may need additional editorial verification.",
+      "editorialNote": "Editorial note: each article reports only details found in the linked sources. Where a source does not give a venue, date or exact wording, we say so instead of guessing. Quotations may need further editorial verification against primary recordings or transcripts.",
       "translationNote": "",
       "asideTitle": "THE RECEIPTS",
       "asideText": "We separate original claims, independent evidence and editorial commentary. The jokes live in the headers. The facts live below them.",
       "asideLink": "How we check claims ↗",
       "moreLabel": "Keep digging",
-      "moreText": "More receipts:"
+      "moreText": "More receipts:",
+      "saidTitle": "WHAT HE SAID (WORD FOR WORD, SADLY)",
+      "whenWhereTitle": "WHEN AND WHERE (THE RECEIPTS HAVE A CALENDAR)",
+      "evidenceTitle": "WHAT THE RECORD SHOWS (BRING SNACKS)",
+      "contextTitle": "WHY THIS MATTERS"
     },
     "methodology": {
       "metaTitle": "Methodology · OhDonald",
@@ -280,13 +284,17 @@
       "archiveNote": "La fecha del archivo no es necesariamente la fecha en que se hizo la declaración.",
       "finding": "Veredicto",
       "sourcesTitle": "Fuentes y lecturas adicionales",
-      "editorialNote": "Nota editorial: esto es un resumen breve de verificación, no una investigación completa. Lee la cobertura enlazada para ver las pruebas en detalle. Las fechas y la redacción de las citas pueden requerir verificación editorial adicional.",
+      "editorialNote": "Nota editorial: cada artículo recoge solo los detalles que figuran en las fuentes enlazadas. Cuando una fuente no da el lugar, la fecha o la redacción exacta, lo decimos en lugar de adivinar. Las citas pueden requerir verificación adicional con grabaciones o transcripciones primarias.",
       "translationNote": "El texto en español es nuestra traducción. La cita original en inglés se muestra debajo.",
       "asideTitle": "LAS PRUEBAS",
       "asideText": "Separamos las afirmaciones originales, la evidencia independiente y el comentario editorial. Los chistes viven en los titulares. Los hechos viven debajo.",
       "asideLink": "Cómo verificamos ↗",
       "moreLabel": "Sigue investigando",
-      "moreText": "Más pruebas:"
+      "moreText": "Más pruebas:",
+      "saidTitle": "LO QUE DIJO (PALABRA POR PALABRA, LAMENTABLEMENTE)",
+      "whenWhereTitle": "CUÁNDO Y DÓNDE (LOS RECIBOS TIENEN CALENDARIO)",
+      "evidenceTitle": "LO QUE MUESTRA EL REGISTRO (TRAIGAN SNACKS)",
+      "contextTitle": "POR QUÉ IMPORTA"
     },
     "methodology": {
       "metaTitle": "Metodología · OhDonald",

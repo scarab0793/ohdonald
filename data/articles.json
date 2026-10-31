@@ -1,0 +1,476 @@
+{
+  "2026-10-25-a-record-number-of-workers-but-what-about-the-rate": {
+    "said": "The archived wording is that more Americans are working today than at any time in the history of the country. A near-identical line, \"More Americans are working today by far than ever before,\" is on PolitiFact's record of the same period.",
+    "whenWhere": "PolitiFact places the line in Trump's speech to the UN General Assembly on Sept. 22, 2026. FactCheck.org examined the claim in its October 2026 roundup of his midterm rally speeches; that roundup does not pin the wording to one rally in the text we could read.",
+    "evidence": [
+      "Employment did hit a record: more than 159 million workers in August 2026, according to PolitiFact. Most of that is because the population grew.",
+      "Participation and the employment-to-population ratio for ages 25 to 54 are high by historical standards, but both slipped slightly during Trump's term and were higher in the latter part of Biden's term.",
+      "FactCheck.org notes the overall employment-to-population ratio was below its January 2025 level. PolitiFact rated the UN version Half True."
+    ],
+    "context": "A bigger country has more workers. The honest question is what share of people are working, and that number did not set a record."
+  },
+  "2026-10-24-zero-illegal-entries-that-is-not-what-the-data-show": {
+    "said": "The archived wording is that in the past 17 months, zero illegal aliens have been admitted to the United States. At a separate appearance he put it as \"zero people came in.\"",
+    "whenWhere": "The \"zero people came in\" line was delivered in an address in Ireland on Sept. 12, 2026, per PolitiFact. The 17-month wording comes from FactCheck.org's October 2026 roundup of his midterm rallies.",
+    "evidence": [
+      "Illegal border crossings are at historic lows, but people still attempt to cross.",
+      "Customs and Border Protection recorded 8,870 apprehensions on the southwest border in August 2026.",
+      "The administration says it no longer releases apprehended people into the U.S. That is a statement about releases, not about attempted or successful unauthorized entries. PolitiFact called the line accurate but in need of context; FactCheck.org's rally roundup rated the wording misleading."
+    ],
+    "context": "'Zero released at the border' is a defensible sentence. 'Zero came in' is a different sentence, and the data do not back it."
+  },
+  "2026-10-22-a-97-drop-in-ocean-drug-trafficking-show-the-data": {
+    "said": "He said his administration was \"destroying 97 percent of the drugs coming into the ocean and sea.\" The archive's wording is that the flow of deadly drugs coming in by ocean was brought down by 97%.",
+    "whenWhere": "Address to the UN General Assembly, Sept. 22, 2026, per PolitiFact. FactCheck.org examined the same claim in its October 2026 rally roundup.",
+    "evidence": [
+      "Seizures fell after the military boat strikes began in September 2025, but the administration has not shown a clear link between the strikes and the drop.",
+      "The Coast Guard recorded a 200% increase in seizures in fiscal 2025 compared with other annual averages.",
+      "Seizures measure what was stopped, not what was shipped or delivered. Because the trade is illegal, the true volume is unknowable, so a precise percentage cannot be supported. PolitiFact rated the claim False."
+    ],
+    "context": "You cannot report a 97% drop in something nobody can measure. The percentage is the unsupported part."
+  },
+  "2026-10-20-no-tax-on-tips-overtime-or-social-security-terms-apply": {
+    "said": "He said there would be \"no tax\" on tips, overtime and Social Security. The archived wording is: no tax on tips, no tax on overtime, no tax on Social Security.",
+    "whenWhere": "A press gaggle at the Irish Open on Sept. 13, 2026, according to PolitiFact. FactCheck.org's October 2026 roundup of his midterm rallies also addressed the claim.",
+    "evidence": [
+      "The tipped-income break phases out above $150,000 for single filers and $300,000 for joint filers.",
+      "The overtime break covers only overtime required under the Fair Labor Standards Act, and only the 'half' portion of time-and-a-half pay.",
+      "The Social Security provision is a $6,000 deduction for people 65 and older, not a repeal of tax on benefits.",
+      "All three breaks expire in 2028 unless Congress extends them."
+    ],
+    "context": "These are real tax breaks with caps, income limits and expiry dates. 'No tax' is the slogan; the fine print is the law."
+  },
+  "2026-10-19-five-thousand-dollar-checks-and-tariff-arithmetic": {
+    "said": "At a rally he said, \"We're gonna get you $5,000, so that's it. Very simple.\" The archived claim ties the money to tariff revenue, and in the same speech he said tariffs \"have made us rich.\"",
+    "whenWhere": "Rally in Gastonia, North Carolina, Sept. 16, 2026, per PolitiFact. Trump had said in August that every adult citizen would receive the payment if Republicans keep control of Congress.",
+    "evidence": [
+      "Paying every adult citizen $5,000 would cost about $1.2 trillion, more than the U.S. spends on Medicare, interest on the debt or defense in a year.",
+      "The Tax Foundation estimates the government collected about $363 billion in tariffs from January 2025 through April 2026 — and much of that is being refunded to companies after the Supreme Court struck the tariffs down.",
+      "The payment would need congressional approval. PolitiFact notes an earlier tariff-payout promise went unfulfilled."
+    ],
+    "context": "$363 billion collected (and partly refunded) does not pay a $1.2 trillion bill. This is arithmetic, not politics."
+  },
+  "2026-10-12-greatest-economy-in-history-gdp-tells-a-different-story": {
+    "said": "He said the country had \"the greatest economy in the history of our country.\"",
+    "whenWhere": "FactCheck.org examined the claim in its October 2026 roundup of his midterm rally speeches. The source does not give the exact venue or time, and we do not guess.",
+    "evidence": [
+      "FactCheck.org found that real GDP growth during Trump's first term was exceeded in many earlier years.",
+      "'Greatest' is a superlative, so the check is the record: it is a comparison, and the comparison fails on the growth numbers FactCheck.org cites."
+    ],
+    "context": "Superlatives are opinions until someone puts them next to a historical series. Then they are claims, and this one lost the comparison."
+  },
+  "2026-10-10-the-21-trillion-investment-claim": {
+    "said": "He said \"we have $21 trillion being invested in our country.\" The figure moves between speeches: PolitiFact's cheat sheet records \"$22 trillion coming into this country.\"",
+    "whenWhere": "The $21 trillion wording is from FactCheck.org's October 2026 roundup of his midterm rallies. PolitiFact records the $22 trillion version at the midterm convention speech in Dallas on Sept. 10, 2026.",
+    "evidence": [
+      "The White House's own website lists $11.2 trillion, about half the figure Trump cites.",
+      "That tally includes aspirational multi-year goals and some future purchases or sales rather than capital investment.",
+      "Some Middle East pledges are implausible relative to those economies; a UAE pledge equals roughly three years of its entire economic output. PolitiFact rated the $22 trillion version False; FactCheck.org found no accounting that supports $21 trillion."
+    ],
+    "context": "An announced pledge is not money in the ground. And the number grows by a trillion depending on the room."
+  },
+  "2026-10-09-worst-inflation-in-u-s-history-no": {
+    "said": "He said he inherited \"the worst inflation in American history.\"",
+    "whenWhere": "FactCheck.org examined the claim in its October 2026 roundup of his midterm rallies. The source does not give the exact venue or time, and we do not guess.",
+    "evidence": [
+      "Inflation was 3.0% when Trump took office in January 2025, according to FactCheck.org.",
+      "U.S. inflation was far higher in earlier eras: the consumer price index rose roughly 14.8% year over year at its March 1980 peak (Bureau of Labor Statistics data).",
+      "Even the most recent peak, 9.1% in June 2022, was well above 3.0%."
+    ],
+    "context": "'Worst in history' invites one test — compare the number to the rest of history. The number he inherited does not come close."
+  },
+  "2026-10-07-record-low-poverty-which-measure": {
+    "said": "He said the poverty rate has just reached its lowest level. In the Gastonia speech he put it as \"We lifted 1.5 million people out of poverty last year.\"",
+    "whenWhere": "The 1.5 million version was said at the Gastonia, North Carolina rally on Sept. 16, 2026, per PolitiFact. FactCheck.org examined the 'lowest level' wording in its October 2026 rally roundup.",
+    "evidence": [
+      "Census data show 1.5 million fewer people were below the official poverty threshold in 2025 than in 2024.",
+      "The supplemental poverty measure, which accounts for regional cost of living and benefits, showed no significant drop over the same period.",
+      "PolitiFact rated the 1.5 million line accurate but needing context; FactCheck.org found the official rate reached a low while the supplemental measure did not."
+    ],
+    "context": "Which ruler you pick decides the answer. He quoted the one that flatters."
+  },
+  "2026-09-10-the-20-trillion-foreign-investment-assertion": {
+    "said": "He said \"an unprecedented $20 trillion has been invested in the U.S. from outside countries and companies.\"",
+    "whenWhere": "FactCheck.org reviewed his midterm convention speech in September 2026. PolitiFact places that speech in Dallas on Sept. 10, 2026, and quotes the figure there as $22 trillion.",
+    "evidence": [
+      "FactCheck.org found no evidence substantiating the $20 trillion total.",
+      "The White House's own list adds up to $11.2 trillion, per PolitiFact, and includes aspirational and multi-year commitments."
+    ],
+    "context": "Same speech, two outlets, two quoted numbers: both are far above the White House's own list."
+  },
+  "2026-07-16-election-security-speech-insinuation-is-not-evidence": {
+    "said": "He gave a speech on election security that referred to a 'stolen election' and supposed hidden vulnerabilities in the voting system.",
+    "whenWhere": "FactCheck.org published its review in July 2026. The source does not give the exact venue or time, and we do not guess.",
+    "evidence": [
+      "FactCheck.org found the speech provided no evidence of widespread fraud.",
+      "It also found the speech offered little new information about real election vulnerabilities."
+    ],
+    "context": "Hinting that something is wrong is not the same as showing it. The archive's rule: show the receipt."
+  },
+  "2026-05-31-a-perfect-cognitive-screening-score-is-not-an-iq-score": {
+    "said": "He said he scored \"a perfect 30 out of 30,\" which he called \"extreme intelligence.\" He described it as his fourth perfect test.",
+    "whenWhere": "Reported at the end of May 2026; PolitiFact's rating is dated June 3, 2026. The source does not give the exact venue or time, and we do not guess.",
+    "evidence": [
+      "The Montreal Cognitive Assessment (MoCA) is a screening tool for cognitive impairment. Its creator and medical experts say it does not measure IQ.",
+      "A top score means no impairment was detected on that screen. It does not establish 'extreme intelligence'.",
+      "Trump called it his fourth perfect test, so it is inaccurate to say he had taken only one.",
+      "The archive takes no position on anyone's health. The claim checked is about what the test measures."
+    ],
+    "context": "A thermometer reading of 98.6 does not prove you can run a marathon. Same logic, with a test about memory."
+  },
+  "2025-12-17-inflation-had-stopped-prices-kept-rising": {
+    "said": "In a prime-time address he said inflation had been the worst in history when he took office, and that it had now stopped.",
+    "whenWhere": "Prime-time address, Dec. 17, 2025. FactCheck.org reviewed it in a piece on the 'rapid-fire' address.",
+    "evidence": [
+      "FactCheck.org found the historical comparison inaccurate: inflation was 3.0% in January 2025, far below earlier peaks.",
+      "It also found the suggestion that inflation had stopped inaccurate. Prices were still rising."
+    ],
+    "context": "Slower is not stopped. Prices do not go back down just because the rate of increase does."
+  },
+  "2025-09-22-tylenol-and-autism-causation-was-not-established": {
+    "said": "He suggested that taking acetaminophen (Tylenol) during pregnancy is linked to autism. He said pregnant women should \"tough it out,\" repeated \"don't take Tylenol\" about a dozen times, and said not to give Tylenol to the baby after birth.",
+    "whenWhere": "A roughly hour-long press conference on autism on Sept. 22, 2025. FactCheck.org's text points to a White House event but does not name the room.",
+    "evidence": [
+      "The FDA's notice to physicians that accompanied the announcement says a causal link has not been established and acknowledges contrary studies.",
+      "A large JAMA study found the associations disappeared when siblings were compared; a late-2024 review concluded acetaminophen in pregnancy is unlikely to pose a clinically important risk of ADHD or autism.",
+      "An Aug. 14 Harvard review called causation 'plausible' and urged more research; it presented no new research.",
+      "The American College of Obstetricians and Gynecologists said the announcement 'is not backed by the full body of scientific evidence.' Maternal-fetal medicine specialists warned that untreated fever raises the risk of miscarriage, birth defects and premature birth."
+    ],
+    "context": "'Possible' and 'established' are different words. The press conference used the second tone for the first status."
+  },
+  "2025-08-01-were-u-s-jobs-numbers-rigged": {
+    "said": "After a weak jobs report he accused the Bureau of Labor Statistics of producing manipulated numbers and fired its commissioner.",
+    "whenWhere": "Aug. 1, 2025, the day of the July jobs report, announced on his social media account. The commissioner, Erika McEntarfer, had been nominated by Biden and took office in January 2024; the deputy, William Wiatrowski, became acting director.",
+    "evidence": [
+      "The report showed 73,000 jobs added in July and unemployment up to 4.2% from 4.1%.",
+      "It also revised May from 125,000 to 19,000 jobs and June from 147,000 to 14,000. Revisions of this kind are routine as more survey responses come in.",
+      "Economists and investors have long treated U.S. economic statistics as free of partisan interference; FactCheck.org found no evidence of political manipulation. U.S. stock indexes fell about 1.5% that day."
+    ],
+    "context": "When data disappoint, you can improve the economy or fire the thermometer. Only one is a documented option here."
+  },
+  "2025-04-02-the-reciprocal-tariffs-chart-wasnt-showing-foreign-tariff-rates": {
+    "said": "He unveiled a chart of 'reciprocal' tariffs, headed \"Tariffs Charged to the U.S.A.,\" and said it showed what other countries charge the United States.",
+    "whenWhere": "Rose Garden, April 2, 2025, in the announcement of the 'reciprocal' tariffs.",
+    "evidence": [
+      "According to the U.S. Trade Representative, each rate was calculated by dividing a country's goods trade deficit with the U.S. by U.S. goods imports from it; the 'discounted' U.S. rate is half that.",
+      "For the EU, the chart lists 39% (about $235.6 billion divided by $605.8 billion in 2024). The World Trade Organization puts the EU's trade-weighted average tariff at 2.7%.",
+      "Countries with which the U.S. runs a surplus, such as the U.K. and Singapore, still got a 10% rate.",
+      "Economists said the formula ignores services trade and non-tariff factors, so it does not measure trade barriers."
+    ],
+    "context": "A trade deficit is not a tariff. Calling one by the other's name is a labelling problem, not a policy."
+  },
+  "2025-03-04-doge-found-hundreds-of-billions-in-fraud": {
+    "said": "He said DOGE has found hundreds of billions of dollars of fraud.",
+    "whenWhere": "His address to Congress, March 4, 2025, reviewed by FactCheck.org.",
+    "evidence": [
+      "FactCheck.org found DOGE itself claimed much less in savings than the figure implied, and documented only a fraction of that.",
+      "Savings are not fraud: cutting a contract or a program is a spending decision, not proof that anything was stolen."
+    ],
+    "context": "Cutting costs and catching crooks are different jobs. Only the second one is 'fraud'."
+  },
+  "2025-01-20-panama-not-china-controls-the-canal": {
+    "said": "In his inaugural address he said, \"And, above all, China is operating the Panama Canal.\"",
+    "whenWhere": "Inaugural address, Jan. 20, 2025, as fact-checked by the Associated Press.",
+    "evidence": [
+      "Canal administrator Ricaurte Vásquez told AP there is no discrimination in the fees.",
+      "Chinese-linked companies run ports at each end of the canal through a Hong Kong consortium that won a 1997 bidding process; U.S. and Taiwanese firms run other ports.",
+      "A neutrality treaty bars special treatment for U.S.-flagged ships; the only exception is expedited passage for American warships."
+    ],
+    "context": "Running a nearby port is not operating the canal. Panama operates the canal."
+  },
+  "2025-01-20-did-pelosi-reject-10-000-national-guard-troops": {
+    "said": "He said Nancy Pelosi had \"turned down the offer of 10,000 soldiers\" before Jan. 6.",
+    "whenWhere": "Remarks in the Capitol's Emancipation Hall on Jan. 20, 2025, fact-checked by the AP.",
+    "evidence": [
+      "Trump issued no order or formal request for the Guard before or during the riot; its arrival was delayed for hours while the Pentagon deliberated.",
+      "Acting defense secretary Christopher Miller told the House committee in 2022 there was no order from the president.",
+      "The Capitol Police Board decides whether to call the Guard. Pelosi's then-spokesperson said she was never informed of such a request. The AP found no evidence she or Mitch McConnell told security officials not to call the Guard."
+    ],
+    "context": "The person who could order troops was Trump. Pelosi never held that button."
+  },
+  "2025-01-20-a-pardon-and-a-commutation-are-not-the-same": {
+    "said": "He said Biden pardoned \"what is it, 33 murderers, absolute murderers, the worst murderers.\"",
+    "whenWhere": "Remarks in the Capitol's Emancipation Hall on Jan. 20, 2025, fact-checked by the AP.",
+    "evidence": [
+      "On Dec. 23, 2024, Biden commuted the sentences of 37 of the 40 people on federal death row to life imprisonment.",
+      "A commutation changes a sentence; it does not exonerate anyone. Pardons and commutations are different acts.",
+      "Three federal inmates still face execution: Dylann Roof, Dzhokhar Tsarnaev and Robert Bowers."
+    ],
+    "context": "He called it 'what is it, 33'. The count was 37, and the word was wrong."
+  },
+  "2024-09-10-claims-at-the-harris-trump-debate": {
+    "said": "At the debate he repeated disputed claims about the 2020 election and Jan. 6. This entry is a topic overview, not a single quote.",
+    "whenWhere": "Harris–Trump presidential debate, Sept. 10, 2024, reviewed by FactCheck.org.",
+    "evidence": [
+      "FactCheck.org examined multiple disputed claims about the Capitol attack and the election results.",
+      "We link its full review rather than re-ruling each line here."
+    ],
+    "context": "A debate moves fast. The receipts take longer."
+  },
+  "2024-06-27-abortions-after-birth-that-would-be-homicide": {
+    "said": "He said some states allow abortions after birth.",
+    "whenWhere": "Biden–Trump presidential debate, June 27, 2024, reviewed by FactCheck.org.",
+    "evidence": [
+      "FactCheck.org notes that killing a baby after birth is homicide and illegal in every state.",
+      "The claim misrepresents abortion law."
+    ],
+    "context": "'After birth' is not abortion. It has another name, and it is a crime."
+  },
+  "2024-01-10-the-debt-payoff-that-never-had-a-budget": {
+    "said": "He said that by selling energy abroad his administration would have started paying down the national debt.",
+    "whenWhere": "Iowa town hall, January 2024, reviewed by FactCheck.org.",
+    "evidence": [
+      "FactCheck.org found the claim unsupported.",
+      "Public debt rose during Trump's first term."
+    ],
+    "context": "A plan with no budget behind it is a hope."
+  },
+  "2023-08-23-wind-turbines-dont-work-the-grid-disagrees": {
+    "said": "In an interview he said of wind turbines: \"windmills all over the place, which by the way, don't work, and they're all — most of them — made in China.\"",
+    "whenWhere": "Interview with Tucker Carlson, posted to X minutes before the first Republican primary debate on Aug. 23, 2023.",
+    "evidence": [
+      "Wind provided 10.2% of U.S. utility-scale electricity generation in 2022, the most of any renewable source (Energy Information Administration).",
+      "Texas, Iowa, Oklahoma, Kansas and Illinois produced nearly 60% of U.S. wind energy that year.",
+      "PolitiFact found in 2021 that about 16% of imported wind turbine parts came from China. A 2021 BloombergNEF report cited by the Department of Energy found a typical onshore project sources 57% of its parts by value domestically.",
+      "The grid is built to handle variable wind; homes do not lose power when it stops."
+    ],
+    "context": "'Don't work' is hard to square with a tenth of the nation's electricity."
+  },
+  "2023-05-10-the-georgia-call-remembered-differently": {
+    "said": "At a CNN town hall he said he did not ask Georgia's secretary of state to find him more votes.",
+    "whenWhere": "CNN town hall, May 2023, reviewed by FactCheck.org. The call itself took place on Jan. 2, 2021.",
+    "evidence": [
+      "A recorded phone call documents Trump asking Georgia Secretary of State Brad Raffensperger to find 11,780 votes.",
+      "Raffensperger told Trump on the call that his data about absentee ballots sent to vacant addresses was wrong.",
+      "Georgia's own investigations found four cases of dead-voter impersonation, and officials reviewing footage of the counting episode involving Ruby Freeman and Shaye Moss found only routine handling of ballot bins."
+    ],
+    "context": "When there is a tape, memory is not required."
+  },
+  "2022-09-03-the-fbi-staged-the-mar-a-lago-photograph": {
+    "said": "He said the FBI agents \"stage a photo shoot, and pretend that I had done it,\" calling the photo of seized documents \"disinformation.\"",
+    "whenWhere": "Campaign rally in Wilkes-Barre, Pennsylvania, Sept. 3, 2022, for the state's Republican candidates for governor and U.S. Senate.",
+    "evidence": [
+      "A Justice Department court filing dated Aug. 30, 2022 includes the photo as Attachment F and says the documents and cover sheets were 'recovered from a container in the '45 office.'",
+      "DOJ officials told The New York Times and The Washington Post that agents arranged the documents on the floor to photograph them as evidence.",
+      "A person familiar with the investigation told the Post that arranging seized evidence for a photo is standard FBI practice."
+    ],
+    "context": "Arranging evidence for a photograph is not fabricating the evidence. The documents were real."
+  },
+  "2022-06-13-election-fraud-claims-despite-aides-warnings": {
+    "said": "He continued asserting widespread fraud in the 2020 election after his own aides told him the claims were baseless.",
+    "whenWhere": "House Jan. 6 committee hearing, June 13, 2022, reviewed by FactCheck.org.",
+    "evidence": [
+      "Former attorney general Bill Barr, in recorded testimony, called Trump's election claims 'detached from reality'.",
+      "Former campaign manager Bill Stepien and other advisers said in testimony shown at the hearing that they told Trump the fraud claims were false.",
+      "Al Schmidt, a Republican former city commissioner in Philadelphia, testified at the hearing about the lack of evidence of fraud there."
+    ],
+    "context": "The people briefing him said it was false. The public statements continued."
+  },
+  "2021-11-01-gasoline-wasnt-1-86-nationally-when-trump-left-office": {
+    "said": "He said that gasoline was $1.86 a gallon when he left the White House: \"It was $1.86 when I left.\"",
+    "whenWhere": "Interview with Hugh Hewitt, Dec. 8, 2021, during a discussion of rising gas prices under Biden.",
+    "evidence": [
+      "The Energy Information Administration put the national average at $2.38 for the week of Jan. 18, 2021, about 28% higher than his figure.",
+      "The national average was that low under Trump only in March 2020, when pandemic lockdowns collapsed demand.",
+      "California averaged $3.21 that week; Texas just under $2.10; Houston $2.06. GasBuddy's Patrick De Haan said no U.S. city or state averaged $1.86 on Jan. 20, 2021. PolitiFact rated the claim False."
+    ],
+    "context": "A cheap price at one station in one week is an anecdote, not a national average."
+  },
+  "2021-06-12-was-trump-right-about-everything": {
+    "said": "He said, \"I was right about everything.\"",
+    "whenWhere": "PolitiFact's fact-check is dated June 14, 2021. We could not read the full article, so we do not state the venue or the examples it covered.",
+    "evidence": [
+      "PolitiFact found some accurate claims, some unsupported assertions and some pure opinion — not a uniformly correct record.",
+      "No one is right about everything; the test is whether the claims checked hold up."
+    ],
+    "context": "A record that includes false ratings cannot also be a clean sheet."
+  },
+  "2021-01-06-georgias-66-000-underage-voters-officials-said-zero": {
+    "said": "He said 66,000 votes in Georgia were cast by individuals under the legal voting age.",
+    "whenWhere": "The 'Save America' rally on Jan. 6, 2021, reviewed by FactCheck.org.",
+    "evidence": [
+      "Georgia's Republican election officials said the actual number of underage voters was zero."
+    ],
+    "context": "The state's own Republican officials said zero."
+  },
+  "2020-11-04-declaring-victory-before-votes-were-counted": {
+    "said": "He said, \"We already have won\" the election, and added, \"Frankly, we did win this election.\"",
+    "whenWhere": "East Room of the White House, Nov. 4, 2020. His remarks began at 2:21 a.m. Eastern time.",
+    "evidence": [
+      "Many votes were still uncounted, including mail and absentee ballots from urban areas likely to favor Biden; Biden was gaining in Georgia.",
+      "No mainstream media decision desk had called the race for Trump, nor had Fox News, Newsmax or OANN. PolitiFact rated it Pants on Fire.",
+      "Federal law gives states more than a month to finalize results; electors vote on Dec. 14 and Congress counts them Jan. 6. Later certified results showed Biden won."
+    ],
+    "context": "Declaring victory is easy. Counting is the hard part."
+  },
+  "2020-07-09-acing-a-cognitive-screen-isnt-acing-an-intelligence-test": {
+    "said": "He said, \"I proved I was all there, because I aced it. I aced the test.\"",
+    "whenWhere": "Interview with Sean Hannity on Fox News, July 9, 2020.",
+    "evidence": [
+      "He was describing a cognitive screening test, not an intelligence test.",
+      "A high score on a cognitive screen cannot by itself establish exceptional intelligence."
+    ],
+    "context": "Passing a screening and a measure of intelligence are not the same thing."
+  },
+  "2019-09-06-dorian-alabama-and-the-sharpie-the-forecast-said-no": {
+    "said": "He said Hurricane Dorian was likely to hit Alabama.",
+    "whenWhere": "Posts and remarks on and around Sept. 1, 2019. On Sept. 4 he showed a marked-up NOAA map at a White House briefing.",
+    "evidence": [
+      "The National Weather Service stressed that no impacts from Dorian would be felt across Alabama.",
+      "The map he showed included Alabama in the storm's path only because of a hand-drawn black Sharpie line, which the White House confirmed was added before the press entered."
+    ],
+    "context": "The forecast cone was drawn by the National Weather Service. The extension was drawn with a Sharpie."
+  },
+  "2019-04-02-wind-turbine-noise-causes-cancer-evidence-says-no": {
+    "said": "He said wind turbine noise causes cancer, that nearby turbines cut home values by 75 percent, and that people lose electricity when the wind stops.",
+    "whenWhere": "Speech to the National Republican Congressional Committee, April 2, 2019.",
+    "evidence": [
+      "The American Cancer Society is 'unaware of any credible evidence linking the noise from windmills to cancer'. FactCheck.org found no studies linking turbine noise to cancer.",
+      "A 2014 University of Rhode Island study of over 48,000 home sales found no significant effect on prices; the other studies found drops of roughly 1 to 35 percent in homes very close to turbines.",
+      "The grid is designed to handle variable wind, so homes do not lose electricity when the wind stops. FactCheck.org rated the claims False."
+    ],
+    "context": "Sound waves are not carcinogens."
+  },
+  "2019-01-10-mexico-is-paying-for-the-wall-through-a-trade-deal": {
+    "said": "He said Mexico was paying for the wall \"in a great trade deal.\"",
+    "whenWhere": "Remarks in Texas during a border visit, Jan. 10, 2019.",
+    "evidence": [
+      "The Associated Press found that Mexico has refused to pay anything toward the wall.",
+      "The updated trade deal contains no payment or refund for construction; the claimed economic benefits cannot be counted on or quantified.",
+      "The original promise was that Mexico would pay directly."
+    ],
+    "context": "The promise was a check from Mexico. The delivery was a different trade deal."
+  },
+  "2018-04-01-daca-for-new-border-arrivals-thats-not-how-it-works": {
+    "said": "He tweeted, \"These big flows of people are all trying to take advantage of DACA,\" and told reporters, \"a lot of people are coming in because they want to take advantage of DACA.\"",
+    "whenWhere": "A tweet on Easter Sunday, April 1, 2018, repeated to reporters before Easter mass.",
+    "evidence": [
+      "Applicants for the 2012 program had to be physically present in the U.S. on June 15, 2012 and have lived here continuously since June 15, 2007.",
+      "People now crossing the border cannot qualify under the original program or the administration's version.",
+      "The administration began winding down DACA on Sept. 5, 2017, with limited exceptions for renewals. FactCheck.org's verdict: they are not eligible."
+    ],
+    "context": "You cannot take advantage of a program whose cutoff date has passed."
+  },
+  "2018-01-06-the-very-stable-genius-declaration": {
+    "said": "He wrote, \"I think that would qualify as not smart, but genius....and a very stable genius at that!\"",
+    "whenWhere": "Twitter (now X), Jan. 6, 2018, responding to questions about his mental fitness raised around the publication of a book about his White House.",
+    "evidence": [
+      "'Very stable genius' is a self-description. It is an opinion, not a measurable factual claim.",
+      "This entry stays on what he said and what can be measured; the archive does not speculate about anyone's health."
+    ],
+    "context": "No fact-check needed for a self-compliment; just a record."
+  },
+  "2017-12-12-lie-of-the-year-2017-russia-is-a-made-up-story": {
+    "said": "He said, \"this Russia thing with Trump and Russia is a made up story.\" PolitiFact named 'Russian election interference is a made-up story' its 2017 Lie of the Year.",
+    "whenWhere": "NBC News interview with Lester Holt at the White House, May 11, 2017. PolitiFact's award is dated Dec. 12, 2017.",
+    "evidence": [
+      "U.S. intelligence agencies concluded in January 2017 that Russia interfered in the 2016 election.",
+      "PolitiFact's Lie of the Year concerned the repeated dismissal of the interference as 'made up', not individual contacts."
+    ],
+    "context": "Whether anyone colluded was a separate question. That interference happened was not."
+  },
+  "2017-03-04-obama-tapped-trump-tower-the-fbi-director-had-no-information-to": {
+    "said": "He claimed on social media that Obama had his 'wires tapped' in Trump Tower just before the election.",
+    "whenWhere": "A series of posts on Twitter (now X), March 4, 2017.",
+    "evidence": [
+      "FBI Director James Comey told the House Intelligence Committee he had no information supporting the tweets.",
+      "Former intelligence chief James Clapper said no such wiretap activity was mounted against the president.",
+      "The reports Trump relied on described a lawful FISA warrant targeting two Russian banks."
+    ],
+    "context": "No evidence found. Wiretap claim rated Unsupported."
+  },
+  "2017-02-25-the-first-month-national-debt-drop-true-number-wrong-implication": {
+    "said": "He said the national debt went down by $12 billion in his first month in office.",
+    "whenWhere": "Reviewed by PolitiFact in its Top 10 fact-checks of Trump. We could not read the full article, so we do not state the venue or the date.",
+    "evidence": [
+      "The temporary drop reflected federal cash flows, not a lasting reduction of the debt."
+    ],
+    "context": "Month-to-month cash swings are not debt payoffs."
+  },
+  "2017-02-16-biggest-electoral-win-since-reagan-obama-and-bush-say-hi": {
+    "said": "He said he had won \"the biggest electoral college win since Ronald Reagan.\"",
+    "whenWhere": "White House press conference, Feb. 16, 2017.",
+    "evidence": [
+      "Trump received 304 electoral votes.",
+      "Barack Obama won 365 in 2008 and 332 in 2012; George H.W. Bush won 426 in 1988."
+    ],
+    "context": "Three recent winners got more electoral votes."
+  },
+  "2017-02-07-highest-murder-rate-in-47-years-the-fbi-numbers-say-no": {
+    "said": "He said the murder rate was the highest in 47 years.",
+    "whenWhere": "Meeting with the National Sheriffs' Association at the White House, Feb. 7, 2017.",
+    "evidence": [
+      "FBI data put the 2015 murder rate at an estimated 4.9 homicides per 100,000 residents, slightly above 2014 (4.4) but far below 1980 (10.2).",
+      "CBS News noted the national crime rate remains near historic lows."
+    ],
+    "context": "Up from a low point is not a 47-year high."
+  },
+  "2017-01-24-3-to-5-million-illegal-votes-still-waiting-for-the-list": {
+    "said": "He told congressional leaders that 3 to 5 million illegal ballots cost him the popular vote.",
+    "whenWhere": "Reception for bipartisan congressional leaders at the White House, Jan. 23, 2017, as reported by CBS News.",
+    "evidence": [
+      "CBS reported the claim as unproven and noted that no evidence for the figure was cited.",
+      "The next day the White House press secretary pointed to unspecified 'studies and evidence' without giving specifics."
+    ],
+    "context": "Still waiting for the list."
+  },
+  "2017-01-21-inauguration-crowds-photos-versus-the-claim": {
+    "said": "He said one network showed \"an empty field\" and that the crowd \"looked like a million-and-a-half people\" and \"went all the way back to the Washington Monument.\"",
+    "whenWhere": "Speech at CIA headquarters, Jan. 21, 2017.",
+    "evidence": [
+      "A Reuters photo taken at 12:01 p.m. from the Washington Monument shows the crowd did not reach the monument.",
+      "Metro recorded about 193,000 trips as of 11 a.m. versus about 513,000 in 2009, and about 570,557 for the full day versus about 1.1 million in 2009.",
+      "Crowd experts said the 2017 crowd was clearly smaller than 2009: one estimated about a third. The National Park Service does not issue official counts."
+    ],
+    "context": "Photos and fare cards do not have opinions."
+  },
+  "2016-10-09-the-sex-tape-tweet-he-said-he-never-sent": {
+    "said": "In the debate he said the tweet \"wasn't saying, 'check out a sex tape.'\"",
+    "whenWhere": "Second presidential debate, Washington University in St. Louis, Oct. 9, 2016.",
+    "evidence": [
+      "On Sept. 30, 2016 at 5:30 a.m. ET he tweeted a message that included the parenthetical 'check out sex tape and past' about Alicia Machado.",
+      "No such tape has surfaced. PolitiFact rated the denial Pants on Fire."
+    ],
+    "context": "The tweet is on the record. So is the denial."
+  },
+  "2016-09-16-clinton-started-birtherism-no-evidence-and-he-kept-it-going": {
+    "said": "He said, \"Hillary Clinton and her campaign of 2008 started the birther controversy. I finished it.\"",
+    "whenWhere": "Statement at the Trump International Hotel, Washington, D.C., Sept. 16, 2016.",
+    "evidence": [
+      "FactCheck.org found no evidence that Clinton or her campaign had anything to do with the birther claims.",
+      "It concluded that, if anything, Trump kept perpetuating the issue long after it was settled."
+    ],
+    "context": "You cannot finish a fire you kept feeding."
+  },
+  "2016-09-07-totally-against-the-iraq-war-the-2002-tape-says-otherwise": {
+    "said": "He said, \"I was totally against the war in Iraq.\"",
+    "whenWhere": "NBC News Commander-in-Chief Forum, New York, Sept. 7, 2016.",
+    "evidence": [
+      "In a September 2002 radio interview, asked whether he supported invading Iraq, he answered 'Yeah, I guess so.'",
+      "FactCheck.org found no evidence he opposed the war before the March 2003 invasion; he voiced concerns about cost and direction a few months after it began.",
+      "PolitiFact rated the claim False."
+    ],
+    "context": "The 2002 tape is there to be played."
+  },
+  "2016-02-25-tax-returns-from-certainly-to-audit-excuses": {
+    "said": "At the debate he said, \"I'm being audited now for two or three years, so I can't do it until the audit is finished, obviously.\"",
+    "whenWhere": "Republican debate, Feb. 25, 2016. A year earlier, on Feb. 25, 2015, he told Hugh Hewitt he would 'certainly' show his returns if necessary.",
+    "evidence": [
+      "Any taxpayer can authorize release of tax information by signing IRS Form 8821, which has no exception for returns under audit.",
+      "FactCheck.org found no law or regulation preventing him from releasing his filed returns.",
+      "After the debate he told CNN his lawyers would not allow release. FactCheck.org's reading: 'won't', not 'can't'."
+    ],
+    "context": "From 'certainly' to 'not until the audit': the same returns, a different excuse."
+  },
+  "2015-11-21-thousands-cheering-in-new-jersey-on-9-11": {
+    "said": "He said, \"I watched in Jersey City, N.J., where thousands and thousands of people were cheering\" as the Twin Towers came down.",
+    "whenWhere": "Speech in Alabama, Nov. 21, 2015. The next day on ABC's 'This Week' he insisted, 'It did happen. I saw it. It was on television.'",
+    "evidence": [
+      "A Sept. 18, 2001 Washington Post story reported Jersey City police detained 'a number of people' allegedly celebrating; the allegation was unattributed and the Post reporter said he 'could never verify that report'.",
+      "That is not televised and not 'thousands and thousands'.",
+      "Former New Jersey Attorney General John Farmer Jr. said State Police reports of celebrations in Jersey City and Paterson were investigated and found false: 'Never happened.'",
+      "PolitiFact and the Washington Post Fact Checker gave their worst ratings."
+    ],
+    "context": "One unverified line in a 2001 article became 'thousands and thousands'."
+  }
+}

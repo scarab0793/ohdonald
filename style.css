@@ -236,3 +236,9 @@ footer a { color: var(--orange); }
   .tabs button { font-size: 12px; padding: 9px; }
   .logo { font-size: 72px; }
 }
+
+.long-article { margin: 8px 0 24px; }
+.long-article p, .long-evidence li { font-size: 18px; line-height: 1.75; }
+.long-evidence { padding-left: 22px; }
+.long-evidence li { margin-bottom: 10px; }
+.long-h { font: 700 13px/1.4 var(--ui); letter-spacing: .08em; margin: 26px 0 8px; }

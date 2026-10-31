@@ -15,6 +15,7 @@ python3 scripts/build.py
 |---|---|
 | `data/claims.json` | Fact checks (English originals). Only entries with `reviewed: true` and at least one source are published. |
 | `data/claims.es.json` | Spanish translations, keyed by the claim's `slug`. Missing translation = the English text is shown, marked `lang="en"`. |
+| `data/articles.json` / `data/articles.es.json` | Long-form article per fact check, keyed by `slug`: `said`, `whenWhere`, `evidence[]`, `context`. The build warns when one is missing. Only write details found in the linked sources. |
 | `data/contradictions.json` / `data/contradictions.es.json` | "He Said WHAT Yesterday?" pairs and their translations, keyed by `id`. |
 | `data/ui.json` | Every piece of interface text in both languages, including the satirical copy and the methodology page. |
 

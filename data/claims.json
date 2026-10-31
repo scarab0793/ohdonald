@@ -12,6 +12,10 @@
       {
         "label": "FactCheck.org — full analysis",
         "url": "https://www.factcheck.org/2026/10/factchecking-claims-from-trumps-midterm-rallies/"
+      },
+      {
+        "label": "PolitiFact: cheat sheet to Trump's 2026 talking points",
+        "url": "https://www.politifact.com/article/2026/sep/29/a-cheat-sheet-to-trumps-2026-talking-points/"
       }
     ],
     "statementDate": null,
@@ -31,6 +35,10 @@
       {
         "label": "FactCheck.org — full analysis",
         "url": "https://www.factcheck.org/2026/10/factchecking-claims-from-trumps-midterm-rallies/"
+      },
+      {
+        "label": "PolitiFact: cheat sheet to Trump's 2026 talking points",
+        "url": "https://www.politifact.com/article/2026/sep/29/a-cheat-sheet-to-trumps-2026-talking-points/"
       }
     ],
     "statementDate": null,
@@ -50,11 +58,15 @@
       {
         "label": "FactCheck.org — full analysis",
         "url": "https://www.factcheck.org/2026/10/factchecking-claims-from-trumps-midterm-rallies/"
+      },
+      {
+        "label": "PolitiFact: cheat sheet to Trump's 2026 talking points",
+        "url": "https://www.politifact.com/article/2026/sep/29/a-cheat-sheet-to-trumps-2026-talking-points/"
       }
     ],
-    "statementDate": null,
-    "statementVenue": null,
-    "statementSource": null
+    "statementDate": "2026-09-22",
+    "statementVenue": "Address to the UN General Assembly",
+    "statementSource": "https://www.politifact.com/article/2026/sep/29/a-cheat-sheet-to-trumps-2026-talking-points/"
   },
   {
     "slug": "2026-10-20-no-tax-on-tips-overtime-or-social-security-terms-apply",
@@ -69,11 +81,15 @@
       {
         "label": "FactCheck.org — full analysis",
         "url": "https://www.factcheck.org/2026/10/factchecking-claims-from-trumps-midterm-rallies/"
+      },
+      {
+        "label": "PolitiFact: cheat sheet to Trump's 2026 talking points",
+        "url": "https://www.politifact.com/article/2026/sep/29/a-cheat-sheet-to-trumps-2026-talking-points/"
       }
     ],
-    "statementDate": null,
-    "statementVenue": null,
-    "statementSource": null
+    "statementDate": "2026-09-13",
+    "statementVenue": "Press gaggle at the Irish Open, Ireland",
+    "statementSource": "https://www.politifact.com/article/2026/sep/29/a-cheat-sheet-to-trumps-2026-talking-points/"
   },
   {
     "slug": "2026-10-19-five-thousand-dollar-checks-and-tariff-arithmetic",
@@ -88,11 +104,15 @@
       {
         "label": "FactCheck.org — full analysis",
         "url": "https://www.factcheck.org/2026/10/factchecking-claims-from-trumps-midterm-rallies/"
+      },
+      {
+        "label": "PolitiFact: cheat sheet to Trump's 2026 talking points",
+        "url": "https://www.politifact.com/article/2026/sep/29/a-cheat-sheet-to-trumps-2026-talking-points/"
       }
     ],
-    "statementDate": null,
-    "statementVenue": null,
-    "statementSource": null
+    "statementDate": "2026-09-16",
+    "statementVenue": "Rally in Gastonia, North Carolina",
+    "statementSource": "https://www.politifact.com/article/2026/sep/29/a-cheat-sheet-to-trumps-2026-talking-points/"
   },
   {
     "slug": "2026-10-12-greatest-economy-in-history-gdp-tells-a-different-story",
@@ -126,6 +146,10 @@
       {
         "label": "FactCheck.org — full analysis",
         "url": "https://www.factcheck.org/2026/10/factchecking-claims-from-trumps-midterm-rallies/"
+      },
+      {
+        "label": "PolitiFact: cheat sheet to Trump's 2026 talking points",
+        "url": "https://www.politifact.com/article/2026/sep/29/a-cheat-sheet-to-trumps-2026-talking-points/"
       }
     ],
     "statementDate": null,
@@ -164,6 +188,10 @@
       {
         "label": "FactCheck.org — full analysis",
         "url": "https://www.factcheck.org/2026/10/factchecking-claims-from-trumps-midterm-rallies/"
+      },
+      {
+        "label": "PolitiFact: cheat sheet to Trump's 2026 talking points",
+        "url": "https://www.politifact.com/article/2026/sep/29/a-cheat-sheet-to-trumps-2026-talking-points/"
       }
     ],
     "statementDate": null,
@@ -183,6 +211,10 @@
       {
         "label": "FactCheck.org — full analysis",
         "url": "https://www.factcheck.org/2026/09/factchecking-trumps-midterm-convention-speech/"
+      },
+      {
+        "label": "PolitiFact: cheat sheet to Trump's 2026 talking points",
+        "url": "https://www.politifact.com/article/2026/sep/29/a-cheat-sheet-to-trumps-2026-talking-points/"
       }
     ],
     "statementDate": null,
@@ -246,8 +278,8 @@
         "url": "https://www.factcheck.org/2025/12/factchecking-trumps-rapid-fire-prime-time-address/"
       }
     ],
-    "statementDate": null,
-    "statementVenue": null,
+    "statementDate": "2025-12-17",
+    "statementVenue": "Prime-time address",
     "statementSource": null
   },
   {
@@ -263,11 +295,15 @@
       {
         "label": "Independent fact-check analysis",
         "url": "https://www.factcheck.org/2025/12/the-whoppers-of-2025/"
+      },
+      {
+        "label": "FactCheck.org: Tylenol and autism claims",
+        "url": "https://www.factcheck.org/2025/09/trump-administrations-problematic-claims-on-tylenol-and-autism"
       }
     ],
-    "statementDate": null,
-    "statementVenue": null,
-    "statementSource": null
+    "statementDate": "2025-09-22",
+    "statementVenue": "Press conference on autism (White House event)",
+    "statementSource": "https://www.factcheck.org/2025/09/trump-administrations-problematic-claims-on-tylenol-and-autism"
   },
   {
     "slug": "2025-08-01-were-u-s-jobs-numbers-rigged",
@@ -282,11 +318,15 @@
       {
         "label": "Independent fact-check analysis",
         "url": "https://www.factcheck.org/2025/12/the-whoppers-of-2025/"
+      },
+      {
+        "label": "PBS NewsHour: BLS commissioner fired after jobs report",
+        "url": "https://www.pbs.org/newshour/politics/trump-seeks-to-fire-bureau-of-labor-statistics-director-after-release-of-weak-jobs-report"
       }
     ],
-    "statementDate": null,
-    "statementVenue": null,
-    "statementSource": null
+    "statementDate": "2025-08-01",
+    "statementVenue": "Post on Truth Social",
+    "statementSource": "https://www.pbs.org/newshour/politics/trump-seeks-to-fire-bureau-of-labor-statistics-director-after-release-of-weak-jobs-report"
   },
   {
     "slug": "2025-04-02-the-reciprocal-tariffs-chart-wasnt-showing-foreign-tariff-rates",
@@ -301,11 +341,15 @@
       {
         "label": "Independent fact-check analysis",
         "url": "https://www.factcheck.org/2025/12/the-whoppers-of-2025/"
+      },
+      {
+        "label": "FactCheck.org: Trump's misleading tariff chart",
+        "url": "https://www.factcheck.org/2025/04/trumps-misleading-tariff-chart/"
       }
     ],
-    "statementDate": null,
-    "statementVenue": null,
-    "statementSource": null
+    "statementDate": "2025-04-02",
+    "statementVenue": "Rose Garden, White House",
+    "statementSource": "https://www.factcheck.org/2025/04/trumps-misleading-tariff-chart/"
   },
   {
     "slug": "2025-03-04-doge-found-hundreds-of-billions-in-fraud",
@@ -322,8 +366,8 @@
         "url": "https://www.factcheck.org/2025/03/factchecking-trumps-address-to-congress-2/"
       }
     ],
-    "statementDate": null,
-    "statementVenue": null,
+    "statementDate": "2025-03-04",
+    "statementVenue": "Address to Congress",
     "statementSource": null
   },
   {
@@ -341,9 +385,9 @@
         "url": "https://apnews.com/article/b920161868e192d0430df534a42ea5ce"
       }
     ],
-    "statementDate": null,
-    "statementVenue": null,
-    "statementSource": null
+    "statementDate": "2025-01-20",
+    "statementVenue": "Inaugural address",
+    "statementSource": "https://apnews.com/article/b920161868e192d0430df534a42ea5ce"
   },
   {
     "slug": "2025-01-20-did-pelosi-reject-10-000-national-guard-troops",
@@ -360,9 +404,9 @@
         "url": "https://apnews.com/article/b920161868e192d0430df534a42ea5ce"
       }
     ],
-    "statementDate": null,
-    "statementVenue": null,
-    "statementSource": null
+    "statementDate": "2025-01-20",
+    "statementVenue": "Remarks in Emancipation Hall, U.S. Capitol",
+    "statementSource": "https://apnews.com/article/b920161868e192d0430df534a42ea5ce"
   },
   {
     "slug": "2025-01-20-a-pardon-and-a-commutation-are-not-the-same",
@@ -379,9 +423,9 @@
         "url": "https://apnews.com/article/b920161868e192d0430df534a42ea5ce"
       }
     ],
-    "statementDate": null,
-    "statementVenue": null,
-    "statementSource": null
+    "statementDate": "2025-01-20",
+    "statementVenue": "Remarks in Emancipation Hall, U.S. Capitol",
+    "statementSource": "https://apnews.com/article/b920161868e192d0430df534a42ea5ce"
   },
   {
     "slug": "2024-09-10-claims-at-the-harris-trump-debate",
@@ -398,8 +442,8 @@
         "url": "https://www.factcheck.org/2024/09/factchecking-the-harris-trump-debate/"
       }
     ],
-    "statementDate": null,
-    "statementVenue": null,
+    "statementDate": "2024-09-10",
+    "statementVenue": "Presidential debate with Kamala Harris",
     "statementSource": null
   },
   {
@@ -417,8 +461,8 @@
         "url": "https://www.factcheck.org/2024/06/factchecking-the-biden-trump-debate/"
       }
     ],
-    "statementDate": null,
-    "statementVenue": null,
+    "statementDate": "2024-06-27",
+    "statementVenue": "Presidential debate with Joe Biden",
     "statementSource": null
   },
   {
@@ -455,9 +499,9 @@
         "url": "https://www.factcheck.org/2023/08/factchecking-trumps-interview-with-carlson/"
       }
     ],
-    "statementDate": null,
-    "statementVenue": null,
-    "statementSource": null
+    "statementDate": "2023-08-23",
+    "statementVenue": "Interview with Tucker Carlson, posted on X",
+    "statementSource": "https://www.factcheck.org/2023/08/factchecking-trumps-interview-with-carlson"
   },
   {
     "slug": "2023-05-10-the-georgia-call-remembered-differently",
@@ -474,8 +518,8 @@
         "url": "https://www.factcheck.org/2023/05/factchecking-trumps-cnn-town-hall/"
       }
     ],
-    "statementDate": null,
-    "statementVenue": null,
+    "statementDate": "2023-05-10",
+    "statementVenue": "CNN town hall",
     "statementSource": null
   },
   {
@@ -493,9 +537,9 @@
         "url": "https://www.factcheck.org/2022/09/trump-distorts-facts-in-pennsylvania-rally/"
       }
     ],
-    "statementDate": null,
-    "statementVenue": null,
-    "statementSource": null
+    "statementDate": "2022-09-03",
+    "statementVenue": "Campaign rally, Wilkes-Barre, Pennsylvania",
+    "statementSource": "https://www.factcheck.org/2022/09/trump-distorts-facts-in-pennsylvania-rally/"
   },
   {
     "slug": "2022-06-13-election-fraud-claims-despite-aides-warnings",
@@ -518,7 +562,7 @@
   },
   {
     "slug": "2021-11-01-gasoline-wasnt-1-86-nationally-when-trump-left-office",
-    "date": "2021-11-01",
+    "date": "2021-12-08",
     "title": "Gasoline wasn't $1.86 nationally when Trump left office",
     "claim": "Gas prices were $1.86 when I left the White House",
     "topic": "Economy",
@@ -529,11 +573,15 @@
       {
         "label": "Independent fact-check analysis",
         "url": "https://api.politifact.com/article/2024/feb/01/politifact-top-10-fact-checks-of-donald-trump/"
+      },
+      {
+        "label": "PolitiFact: gas did not cost $1.86 when Trump left office",
+        "url": "https://www.politifact.com/factchecks/2021/dec/08/donald-trump/no-gas-did-not-cost-186-gallon-when-donald-trump-l"
       }
     ],
-    "statementDate": null,
-    "statementVenue": null,
-    "statementSource": null
+    "statementDate": "2021-12-08",
+    "statementVenue": "Interview with Hugh Hewitt",
+    "statementSource": "https://www.politifact.com/factchecks/2021/dec/08/donald-trump/no-gas-did-not-cost-186-gallon-when-donald-trump-l"
   },
   {
     "slug": "2021-06-12-was-trump-right-about-everything",
@@ -569,9 +617,9 @@
         "url": "https://www.factcheck.org/2021/01/trumps-falsehood-filled-save-america-rally/"
       }
     ],
-    "statementDate": null,
-    "statementVenue": null,
-    "statementSource": null
+    "statementDate": "2021-01-06",
+    "statementVenue": "'Save America' rally, Washington, D.C.",
+    "statementSource": "https://www.factcheck.org/2021/01/trumps-falsehood-filled-save-america-rally/"
   },
   {
     "slug": "2020-11-04-declaring-victory-before-votes-were-counted",
@@ -586,11 +634,15 @@
       {
         "label": "FactCheck.org — full analysis",
         "url": "https://www.factcheck.org/2021/01/road-to-a-second-impeachment/"
+      },
+      {
+        "label": "PolitiFact: Trump falsely and prematurely claims victory",
+        "url": "https://politifact.com/factchecks/2020/nov/04/donald-trump/trump-falsely-and-prematurely-claims-2020-presiden/"
       }
     ],
-    "statementDate": null,
-    "statementVenue": null,
-    "statementSource": null
+    "statementDate": "2020-11-04",
+    "statementVenue": "East Room of the White House, about 2:21 a.m. ET",
+    "statementSource": "https://politifact.com/factchecks/2020/nov/04/donald-trump/trump-falsely-and-prematurely-claims-2020-presiden/"
   },
   {
     "slug": "2020-07-09-acing-a-cognitive-screen-isnt-acing-an-intelligence-test",
@@ -649,9 +701,9 @@
         "url": "https://www.factcheck.org/2019/04/trumps-faulty-wind-power-claims/"
       }
     ],
-    "statementDate": null,
-    "statementVenue": null,
-    "statementSource": null
+    "statementDate": "2019-04-02",
+    "statementVenue": "Speech to the National Republican Congressional Committee",
+    "statementSource": "https://www.factcheck.org/2019/04/trumps-faulty-wind-power-claims/"
   },
   {
     "slug": "2019-01-10-mexico-is-paying-for-the-wall-through-a-trade-deal",
@@ -687,9 +739,9 @@
         "url": "https://www.factcheck.org/2018/04/factchecking-trumps-immigration-tweets/"
       }
     ],
-    "statementDate": null,
-    "statementVenue": null,
-    "statementSource": null
+    "statementDate": "2018-04-01",
+    "statementVenue": "Tweet and remarks to reporters on Easter Sunday",
+    "statementSource": "https://www.factcheck.org/2018/04/factchecking-trumps-immigration-tweets/"
   },
   {
     "slug": "2018-01-06-the-very-stable-genius-declaration",
@@ -841,11 +893,15 @@
       {
         "label": "FactCheck.org — full analysis",
         "url": "https://www.factcheck.org/2017/01/the-facts-on-crowd-size/"
+      },
+      {
+        "label": "FactCheck.org: The facts on crowd size (via Inquirer)",
+        "url": "https://www.inquirer.com/philly/news/politics/presidential/FactCheck-The-Facts-on-crowd-size.html"
       }
     ],
-    "statementDate": null,
-    "statementVenue": null,
-    "statementSource": null
+    "statementDate": "2017-01-21",
+    "statementVenue": "Speech at CIA headquarters, Langley, Virginia",
+    "statementSource": "https://www.factcheck.org/2017/01/the-facts-on-crowd-size/"
   },
   {
     "slug": "2016-10-09-the-sex-tape-tweet-he-said-he-never-sent",
@@ -860,6 +916,10 @@
       {
         "label": "FactCheck.org — full analysis",
         "url": "https://www.factcheck.org/2016/10/factchecking-the-second-presidential-debate/"
+      },
+      {
+        "label": "PolitiFact: Trump's early-morning sex tape tweet",
+        "url": "https://www.politifact.com/factchecks/2016/oct/10/donald-trump/trump-early-morning-sex-tape-tweet/"
       }
     ],
     "statementDate": "2016-10-09",
@@ -923,9 +983,9 @@
         "url": "https://www.factcheck.org/2016/02/factchecking-the-10th-gop-debate/"
       }
     ],
-    "statementDate": null,
-    "statementVenue": null,
-    "statementSource": null
+    "statementDate": "2016-02-25",
+    "statementVenue": "Republican primary debate",
+    "statementSource": "https://www.factcheck.org/2016/02/factchecking-the-10th-gop-debate/"
   },
   {
     "slug": "2015-11-21-thousands-cheering-in-new-jersey-on-9-11",

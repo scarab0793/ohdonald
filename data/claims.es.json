@@ -4,7 +4,8 @@
     "claim": "Hoy trabajan más estadounidenses que en cualquier otro momento de la historia de nuestro país",
     "summary": "El número de empleados alcanzó un récord porque la población creció; la proporción de empleo respecto a la población estaba por debajo de su nivel de enero de 2025.",
     "sourceLabels": [
-      "FactCheck.org — análisis completo"
+      "FactCheck.org — análisis completo",
+      "PolitiFact: hoja de referencia de los argumentos de Trump en 2026"
     ]
   },
   "2026-10-24-zero-illegal-entries-that-is-not-what-the-data-show": {
@@ -12,7 +13,8 @@
     "claim": "En los últimos 17 meses, cero extranjeros ilegales han sido admitidos en Estados Unidos",
     "summary": "La administración informó de cero liberaciones en la frontera sur, no de cero intentos ni de cero cruces no autorizados exitosos.",
     "sourceLabels": [
-      "FactCheck.org — análisis completo"
+      "FactCheck.org — análisis completo",
+      "PolitiFact: hoja de referencia de los argumentos de Trump en 2026"
     ]
   },
   "2026-10-22-a-97-drop-in-ocean-drug-trafficking-show-the-data": {
@@ -20,24 +22,30 @@
     "claim": "Redujimos en un 97 % el flujo de drogas mortales que llegan por el océano",
     "summary": "No existe una medición completa de todas las drogas traficadas por mar, incluidos los cargamentos que no fueron incautados.",
     "sourceLabels": [
-      "FactCheck.org — análisis completo"
-    ]
+      "FactCheck.org — análisis completo",
+      "PolitiFact: hoja de referencia de los argumentos de Trump en 2026"
+    ],
+    "statementVenue": "Discurso ante la Asamblea General de la ONU"
   },
   "2026-10-20-no-tax-on-tips-overtime-or-social-security-terms-apply": {
     "title": "¿Sin impuestos a propinas, horas extra o Seguro Social? Aplican condiciones.",
     "claim": "Sin impuestos a las propinas, sin impuestos a las horas extra, sin impuestos al Seguro Social",
     "summary": "Las deducciones tienen topes y restricciones de ingresos; la disposición sobre el Seguro Social no elimina todos los impuestos sobre las prestaciones.",
     "sourceLabels": [
-      "FactCheck.org — análisis completo"
-    ]
+      "FactCheck.org — análisis completo",
+      "PolitiFact: hoja de referencia de los argumentos de Trump en 2026"
+    ],
+    "statementVenue": "Rueda de prensa en el Irish Open, Irlanda"
   },
   "2026-10-19-five-thousand-dollar-checks-and-tariff-arithmetic": {
     "title": "Cheques de cinco mil dólares y la aritmética de los aranceles",
     "claim": "Los ingresos por aranceles ayudarían a pagar 5.000 dólares a cada ciudadano adulto",
     "summary": "Pagar a los adultos elegibles costaría alrededor de 1,2 billones de dólares, muy por encima de lo que recauda un año de aranceles.",
     "sourceLabels": [
-      "FactCheck.org — análisis completo"
-    ]
+      "FactCheck.org — análisis completo",
+      "PolitiFact: hoja de referencia de los argumentos de Trump en 2026"
+    ],
+    "statementVenue": "Mitin en Gastonia, Carolina del Norte"
   },
   "2026-10-12-greatest-economy-in-history-gdp-tells-a-different-story": {
     "title": "¿La mejor economía de la historia? El PIB cuenta otra historia.",
@@ -52,7 +60,8 @@
     "claim": "Tenemos 21 billones de dólares siendo invertidos en nuestro país",
     "summary": "Ningún recuento completo respalda la cifra, y los compromisos anunciados no equivalen a inversión realizada.",
     "sourceLabels": [
-      "FactCheck.org — análisis completo"
+      "FactCheck.org — análisis completo",
+      "PolitiFact: hoja de referencia de los argumentos de Trump en 2026"
     ]
   },
   "2026-10-09-worst-inflation-in-u-s-history-no": {
@@ -68,7 +77,8 @@
     "claim": "La tasa de pobreza acaba de alcanzar su nivel más bajo",
     "summary": "La tasa oficial de pobreza llegó a un mínimo en 2025, pero la medida suplementaria de pobreza no.",
     "sourceLabels": [
-      "FactCheck.org — análisis completo"
+      "FactCheck.org — análisis completo",
+      "PolitiFact: hoja de referencia de los argumentos de Trump en 2026"
     ]
   },
   "2026-09-10-the-20-trillion-foreign-investment-assertion": {
@@ -76,7 +86,8 @@
     "claim": "Se han invertido en EE. UU. sin precedentes 20 billones de dólares provenientes de países y empresas del exterior",
     "summary": "FactCheck.org no encontró ninguna prueba que respalde esa cifra total.",
     "sourceLabels": [
-      "FactCheck.org — análisis completo"
+      "FactCheck.org — análisis completo",
+      "PolitiFact: hoja de referencia de los argumentos de Trump en 2026"
     ]
   },
   "2026-07-16-election-security-speech-insinuation-is-not-evidence": {
@@ -102,31 +113,38 @@
     "summary": "FactCheck.org consideró inexactas tanto la comparación histórica como la sugerencia de que la inflación se había detenido.",
     "sourceLabels": [
       "FactCheck.org — análisis completo"
-    ]
+    ],
+    "statementVenue": "Discurso en horario estelar"
   },
   "2025-09-22-tylenol-and-autism-causation-was-not-established": {
     "title": "Tylenol y autismo: no se estableció causalidad",
     "claim": "Trump sugirió un vínculo entre el uso de paracetamol durante el embarazo y el autismo",
     "summary": "No se ha establecido un vínculo causal.",
     "sourceLabels": [
-      "Análisis independiente de verificación"
-    ]
+      "Análisis independiente de verificación",
+      "FactCheck.org: afirmaciones sobre Tylenol y autismo"
+    ],
+    "statementVenue": "Rueda de prensa sobre el autismo (acto en la Casa Blanca)"
   },
   "2025-08-01-were-u-s-jobs-numbers-rigged": {
     "title": "¿Estaban «amañadas» las cifras de empleo de EE. UU.?",
     "claim": "Las cifras de empleo de la Oficina de Estadísticas Laborales eran falsas o estaban amañadas",
     "summary": "No se encontró ninguna prueba de manipulación política; las revisiones rutinarias son normales.",
     "sourceLabels": [
-      "Análisis independiente de verificación"
-    ]
+      "Análisis independiente de verificación",
+      "PBS NewsHour: despiden a la comisionada de la BLS tras el informe de empleo"
+    ],
+    "statementVenue": "Publicación en Truth Social"
   },
   "2025-04-02-the-reciprocal-tariffs-chart-wasnt-showing-foreign-tariff-rates": {
     "title": "El gráfico de los «aranceles recíprocos» no mostraba aranceles extranjeros",
     "claim": "El gráfico mostraba los aranceles que otros países cobran a Estados Unidos",
     "summary": "Las cifras mostradas se basaban en déficits comerciales, no en las tasas arancelarias reales de otros países.",
     "sourceLabels": [
-      "Análisis independiente de verificación"
-    ]
+      "Análisis independiente de verificación",
+      "FactCheck.org: el gráfico arancelario engañoso de Trump"
+    ],
+    "statementVenue": "Jardín de las Rosas, Casa Blanca"
   },
   "2025-03-04-doge-found-hundreds-of-billions-in-fraud": {
     "title": "¿DOGE encontró cientos de miles de millones en fraude?",
@@ -134,7 +152,8 @@
     "summary": "DOGE reclamó ahorros mucho menores y documentó solo una fracción; ahorrar no es lo mismo que demostrar fraude.",
     "sourceLabels": [
       "Análisis independiente de verificación"
-    ]
+    ],
+    "statementVenue": "Discurso ante el Congreso"
   },
   "2025-01-20-panama-not-china-controls-the-canal": {
     "title": "Panamá, no China, controla el canal",
@@ -142,7 +161,8 @@
     "summary": "Panamá opera el canal; empresas con sede en Hong Kong gestionaban algunos puertos cercanos.",
     "sourceLabels": [
       "Análisis independiente de verificación"
-    ]
+    ],
+    "statementVenue": "Discurso de investidura"
   },
   "2025-01-20-did-pelosi-reject-10-000-national-guard-troops": {
     "title": "¿Rechazó Pelosi 10.000 soldados de la Guardia Nacional?",
@@ -150,7 +170,8 @@
     "summary": "Pelosi no controlaba la Guardia y nunca se emitió una orden presidencial para 10.000 soldados.",
     "sourceLabels": [
       "Análisis independiente de verificación"
-    ]
+    ],
+    "statementVenue": "Declaraciones en el Salón de la Emancipación, Capitolio"
   },
   "2025-01-20-a-pardon-and-a-commutation-are-not-the-same": {
     "title": "Un indulto y una conmutación no son lo mismo",
@@ -158,7 +179,8 @@
     "summary": "Biden conmutó 37 condenas a muerte; no indultó a 33 personas.",
     "sourceLabels": [
       "Análisis independiente de verificación"
-    ]
+    ],
+    "statementVenue": "Declaraciones en el Salón de la Emancipación, Capitolio"
   },
   "2024-09-10-claims-at-the-harris-trump-debate": {
     "title": "Afirmaciones en el debate Harris–Trump",
@@ -166,7 +188,8 @@
     "summary": "FactCheck.org examinó varias afirmaciones disputadas sobre el ataque al Capitolio y los resultados electorales en el debate. Esta entrada es un resumen temático.",
     "sourceLabels": [
       "FactCheck.org — análisis completo"
-    ]
+    ],
+    "statementVenue": "Debate presidencial con Kamala Harris"
   },
   "2024-06-27-abortions-after-birth-that-would-be-homicide": {
     "title": "¿Abortos «después del nacimiento»? Eso sería homicidio.",
@@ -174,7 +197,8 @@
     "summary": "FactCheck.org señala que matar a un bebé tras el nacimiento es homicidio e ilegal; la afirmación tergiversa la ley sobre el aborto.",
     "sourceLabels": [
       "FactCheck.org — análisis completo"
-    ]
+    ],
+    "statementVenue": "Debate presidencial con Joe Biden"
   },
   "2024-01-10-the-debt-payoff-that-never-had-a-budget": {
     "title": "El pago de la deuda que nunca tuvo presupuesto",
@@ -190,7 +214,8 @@
     "summary": "FactCheck.org consideró falsa la afirmación sobre la energía eólica y también examinó las afirmaciones de Trump sobre el origen de su fabricación.",
     "sourceLabels": [
       "FactCheck.org — análisis completo"
-    ]
+    ],
+    "statementVenue": "Entrevista con Tucker Carlson, publicada en X"
   },
   "2023-05-10-the-georgia-call-remembered-differently": {
     "title": "La llamada de Georgia, recordada de otra manera",
@@ -198,7 +223,8 @@
     "summary": "Una llamada grabada en 2021 documenta que Trump le pidió a Brad Raffensperger que encontrara 11.780 votos.",
     "sourceLabels": [
       "FactCheck.org — análisis completo"
-    ]
+    ],
+    "statementVenue": "Coloquio de CNN"
   },
   "2022-09-03-the-fbi-staged-the-mar-a-lago-photograph": {
     "title": "¿El FBI «montó» la foto de Mar-a-Lago?",
@@ -206,7 +232,8 @@
     "summary": "Los agentes ordenaron el material incautado para una fotografía probatoria; eso no significa que los documentos fueran fabricados.",
     "sourceLabels": [
       "FactCheck.org — análisis completo"
-    ]
+    ],
+    "statementVenue": "Mitin de campaña, Wilkes-Barre, Pensilvania"
   },
   "2022-06-13-election-fraud-claims-despite-aides-warnings": {
     "title": "Acusaciones de fraude electoral pese a las advertencias de sus asesores",
@@ -221,8 +248,10 @@
     "claim": "Los precios de la gasolina eran de 1,86 dólares cuando dejé la Casa Blanca",
     "summary": "PolitiFact informó de un promedio nacional de aproximadamente 2,38 dólares por galón.",
     "sourceLabels": [
-      "Análisis independiente de verificación"
-    ]
+      "Análisis independiente de verificación",
+      "PolitiFact: la gasolina no costaba 1,86 dólares cuando Trump dejó el cargo"
+    ],
+    "statementVenue": "Entrevista con Hugh Hewitt"
   },
   "2021-06-12-was-trump-right-about-everything": {
     "title": "¿Tenía Trump «razón en todo»?",
@@ -238,15 +267,18 @@
     "summary": "Los funcionarios electorales republicanos de Georgia dijeron que la cifra real era cero.",
     "sourceLabels": [
       "FactCheck.org — análisis completo"
-    ]
+    ],
+    "statementVenue": "Mitin «Save America», Washington D. C."
   },
   "2020-11-04-declaring-victory-before-votes-were-counted": {
     "title": "Declarar la victoria antes de contar los votos",
     "claim": "Francamente, ganamos estas elecciones",
     "summary": "Trump declaró la victoria antes de que se contaran todas las papeletas; los resultados certificados mostraron después que ganó Biden.",
     "sourceLabels": [
-      "FactCheck.org — análisis completo"
-    ]
+      "FactCheck.org — análisis completo",
+      "PolitiFact: Trump reclama falsa y prematuramente la victoria"
+    ],
+    "statementVenue": "Salón Este de la Casa Blanca, hacia las 2:21 h (ET)"
   },
   "2020-07-09-acing-a-cognitive-screen-isnt-acing-an-intelligence-test": {
     "title": "Sacar un diez en un test de cribado cognitivo no es sacarlo en un test de inteligencia",
@@ -264,7 +296,8 @@
     "summary": "FactCheck.org y la Sociedad Estadounidense del Cáncer no encontraron pruebas creíbles de que el ruido de los aerogeneradores cause cáncer.",
     "sourceLabels": [
       "FactCheck.org — análisis completo"
-    ]
+    ],
+    "statementVenue": "Discurso ante el Comité Nacional Republicano del Congreso"
   },
   "2018-04-01-daca-for-new-border-arrivals-thats-not-how-it-works": {
     "title": "¿DACA para los recién llegados a la frontera? Así no funciona.",
@@ -272,7 +305,8 @@
     "summary": "La elegibilidad para DACA no se extiende a quienes acaban de cruzar la frontera.",
     "sourceLabels": [
       "FactCheck.org — análisis completo"
-    ]
+    ],
+    "statementVenue": "Tuit y declaraciones a periodistas el Domingo de Pascua"
   },
   "2018-01-06-the-very-stable-genius-declaration": {
     "title": "La declaración del «genio muy estable»",
@@ -297,8 +331,10 @@
     "claim": "La multitud parecía de millón y medio de personas",
     "summary": "Las fotografías de la época y las cifras del transporte público contradicen las afirmaciones de que la multitud llegó hasta el Monumento a Washington o superó la investidura de 2009.",
     "sourceLabels": [
-      "FactCheck.org — análisis completo"
-    ]
+      "FactCheck.org — análisis completo",
+      "FactCheck.org: los hechos sobre el tamaño de la multitud (vía Inquirer)"
+    ],
+    "statementVenue": "Discurso en la sede de la CIA, Langley, Virginia"
   },
   "2016-10-09-the-sex-tape-tweet-he-said-he-never-sent": {
     "title": "El tuit de la «cinta sexual» que dijo no haber enviado",
@@ -306,7 +342,8 @@
     "summary": "FactCheck.org documentó el tuit de Trump del 30 de septiembre con la misma frase que negó en el debate del 9 de octubre.",
     "statementVenue": "Segundo debate presidencial, Universidad Washington, San Luis, Misuri",
     "sourceLabels": [
-      "FactCheck.org — análisis completo"
+      "FactCheck.org — análisis completo",
+      "PolitiFact: el tuit de madrugada de Trump sobre la cinta sexual"
     ]
   },
   "2016-02-25-tax-returns-from-certainly-to-audit-excuses": {
@@ -315,7 +352,8 @@
     "summary": "FactCheck.org documentó el giro de Trump sobre la publicación de sus declaraciones y explicó que una auditoría no impide publicarlas.",
     "sourceLabels": [
       "FactCheck.org — análisis completo"
-    ]
+    ],
+    "statementVenue": "Debate de las primarias republicanas"
   },
   "2015-11-21-thousands-cheering-in-new-jersey-on-9-11": {
     "title": "¿Miles de personas celebrando en Nueva Jersey el 11-S?",
