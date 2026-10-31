@@ -616,6 +616,25 @@
     "statementSource": "https://www.cbsnews.com/news/trump-cognitive-test-joe-biden/"
   },
   {
+    "slug": "2019-09-06-dorian-alabama-and-the-sharpie-the-forecast-said-no",
+    "date": "2019-09-06",
+    "title": "Dorian, Alabama and the Sharpie: the forecast said no.",
+    "claim": "Hurricane Dorian was likely to hit Alabama",
+    "topic": "Weather",
+    "verdict": "False",
+    "summary": "The National Weather Service stressed that no impacts from Dorian would be felt across Alabama. On Sept. 4 a marked-up NOAA map shown at a White House briefing included Alabama in the storm's path only because of a hand-drawn black Sharpie line, which the White House confirmed was added before the press entered.",
+    "reviewed": true,
+    "sources": [
+      {
+        "label": "CNN — Sept. 6, 2019",
+        "url": "https://amp.cnn.com/cnn/2019/09/06/politics/trump-sharpie-hurricane-dorian-alabama"
+      }
+    ],
+    "statementDate": null,
+    "statementVenue": null,
+    "statementSource": null
+  },
+  {
     "slug": "2019-04-02-wind-turbine-noise-causes-cancer-evidence-says-no",
     "date": "2019-04-02",
     "title": "Wind turbine noise causes cancer? Evidence says no.",
@@ -633,6 +652,25 @@
     "statementDate": null,
     "statementVenue": null,
     "statementSource": null
+  },
+  {
+    "slug": "2019-01-10-mexico-is-paying-for-the-wall-through-a-trade-deal",
+    "date": "2019-01-10",
+    "title": "Mexico is 'paying' for the wall — through a trade deal?",
+    "claim": "They're paying for the wall in a great trade deal",
+    "topic": "Immigration",
+    "verdict": "Misleading",
+    "summary": "The Associated Press found that Mexico has refused to pay anything toward the wall and that the updated trade deal contains no payment or refund for construction; the claimed economic benefits cannot be counted on or quantified. The original promise was that Mexico would pay directly.",
+    "reviewed": true,
+    "sources": [
+      {
+        "label": "AP Fact Check — Jan. 2019",
+        "url": "https://www.ksl.com/article/news/business/ap-fact-check-trump-goes-wall-to-wall-on-the-wall/46466893"
+      }
+    ],
+    "statementDate": "2019-01-10",
+    "statementVenue": "Remarks in Texas during a border visit",
+    "statementSource": "https://www.ksl.com/article/news/business/ap-fact-check-trump-goes-wall-to-wall-on-the-wall/46466893"
   },
   {
     "slug": "2018-04-01-daca-for-new-border-arrivals-thats-not-how-it-works",
@@ -677,6 +715,44 @@
     "statementSource": "https://www.politifact.com/article/2018/jan/06/trump-says-hes-very-stable-genius/"
   },
   {
+    "slug": "2017-12-12-lie-of-the-year-2017-russia-is-a-made-up-story",
+    "date": "2017-12-12",
+    "title": "Lie of the Year 2017: Russia is a 'made-up story'",
+    "claim": "this Russia thing with Trump and Russia is a made up story",
+    "topic": "Foreign policy",
+    "verdict": "False",
+    "summary": "PolitiFact named 'Russian election interference is a made-up story' its 2017 Lie of the Year.",
+    "reviewed": true,
+    "sources": [
+      {
+        "label": "PolitiFact — 2017 Lie of the Year",
+        "url": "https://www.politifact.com/truth-o-meter/article/2017/dec/12/2017-lie-year-russian-election-interference-made-s/"
+      }
+    ],
+    "statementDate": "2017-05-11",
+    "statementVenue": "NBC News interview with Lester Holt, White House",
+    "statementSource": "https://amp.cnn.com/cnn/2018/05/31/politics/donald-trump-russia"
+  },
+  {
+    "slug": "2017-03-04-obama-tapped-trump-tower-the-fbi-director-had-no-information-to",
+    "date": "2017-03-04",
+    "title": "Obama tapped Trump Tower? The FBI director had no information to support it.",
+    "claim": "Obama had my 'wires tapped' in Trump Tower just before the victory",
+    "topic": "Government",
+    "verdict": "Unsupported",
+    "summary": "FactCheck.org rated the claim unsupported. FBI Director James Comey told the House Intelligence Committee he had no information supporting the tweets, and former intelligence chief James Clapper said no such wiretap activity was mounted against the president. The reports Trump relied on described a lawful FISA warrant targeting two Russian banks.",
+    "reviewed": true,
+    "sources": [
+      {
+        "label": "FactCheck.org — full analysis",
+        "url": "https://www.factcheck.org/2017/03/examining-trumps-wiretap-claim"
+      }
+    ],
+    "statementDate": "2017-03-04",
+    "statementVenue": "Series of posts on Twitter (now X)",
+    "statementSource": "https://www.factcheck.org/2017/03/examining-trumps-wiretap-claim"
+  },
+  {
     "slug": "2017-02-25-the-first-month-national-debt-drop-true-number-wrong-implication",
     "date": "2017-02-25",
     "title": "The first-month national-debt drop: true number, wrong implication",
@@ -694,6 +770,63 @@
     "statementDate": null,
     "statementVenue": null,
     "statementSource": null
+  },
+  {
+    "slug": "2017-02-16-biggest-electoral-win-since-reagan-obama-and-bush-say-hi",
+    "date": "2017-02-16",
+    "title": "'Biggest electoral win since Reagan'? Obama and Bush say hi.",
+    "claim": "the biggest electoral college win since Ronald Reagan",
+    "topic": "Elections",
+    "verdict": "False",
+    "summary": "Trump received 304 electoral votes. Barack Obama won 365 in 2008 and 332 in 2012, and George H.W. Bush won 426 in 1988.",
+    "reviewed": true,
+    "sources": [
+      {
+        "label": "NBC News fact check",
+        "url": "https://www.nbcnews.com/politics/donald-trump/trump-s-electoral-college-win-was-not-biggest-reagan-n722016"
+      }
+    ],
+    "statementDate": "2017-02-16",
+    "statementVenue": "White House press conference",
+    "statementSource": "https://www.nbcnews.com/politics/donald-trump/trump-s-electoral-college-win-was-not-biggest-reagan-n722016"
+  },
+  {
+    "slug": "2017-02-07-highest-murder-rate-in-47-years-the-fbi-numbers-say-no",
+    "date": "2017-02-07",
+    "title": "Highest murder rate in 47 years? The FBI numbers say no.",
+    "claim": "the murder rate in our country is the highest it's been in 47 years",
+    "topic": "Public safety",
+    "verdict": "False",
+    "summary": "FBI data put the 2015 murder rate at an estimated 4.9 homicides per 100,000 residents, slightly above 2014 (4.4) but far below 1980 (10.2). CBS News noted the national crime rate remains near historic lows.",
+    "reviewed": true,
+    "sources": [
+      {
+        "label": "CBS News fact check",
+        "url": "https://www.cbsnews.com/amp/news/fact-check-trump-makes-false-claim-about-murder-rate/"
+      }
+    ],
+    "statementDate": "2017-02-07",
+    "statementVenue": "Meeting with the National Sheriffs' Association, White House",
+    "statementSource": "https://www.cbsnews.com/amp/news/fact-check-trump-makes-false-claim-about-murder-rate/"
+  },
+  {
+    "slug": "2017-01-24-3-to-5-million-illegal-votes-still-waiting-for-the-list",
+    "date": "2017-01-24",
+    "title": "3 to 5 million illegal votes? Still waiting for the list.",
+    "claim": "Trump told congressional leaders that 3 to 5 million illegal ballots cost him the popular vote",
+    "topic": "Elections",
+    "verdict": "Unsupported",
+    "summary": "CBS News reported the claim as unproven and noted that no evidence for the 3 to 5 million figure was cited. The next day the White House press secretary pointed to unspecified 'studies and evidence' without giving specifics.",
+    "reviewed": true,
+    "sources": [
+      {
+        "label": "CBS News — Jan. 24, 2017",
+        "url": "https://www.cbsnews.com/news/trump-claims-3-5-million-illegal-ballots-cost-him-popular-vote-cites-no-evidence"
+      }
+    ],
+    "statementDate": "2017-01-23",
+    "statementVenue": "Reception for bipartisan congressional leaders, White House (as reported)",
+    "statementSource": "https://www.cbsnews.com/news/trump-claims-3-5-million-illegal-ballots-cost-him-popular-vote-cites-no-evidence"
   },
   {
     "slug": "2017-01-21-inauguration-crowds-photos-versus-the-claim",
@@ -732,6 +865,48 @@
     "statementDate": "2016-10-09",
     "statementVenue": "Second presidential debate, Washington University, St. Louis, Missouri",
     "statementSource": "https://www.factcheck.org/2016/10/factchecking-the-second-presidential-debate/"
+  },
+  {
+    "slug": "2016-09-16-clinton-started-birtherism-no-evidence-and-he-kept-it-going",
+    "date": "2016-09-16",
+    "title": "Clinton 'started' birtherism? No evidence — and he kept it going.",
+    "claim": "Hillary Clinton and her campaign of 2008 started the birther controversy. I finished it.",
+    "topic": "Campaign",
+    "verdict": "False",
+    "summary": "FactCheck.org found no evidence that Clinton or her campaign had anything to do with the birther claims, and concluded that if anything Trump kept perpetuating the issue long after it was settled.",
+    "reviewed": true,
+    "sources": [
+      {
+        "label": "FactCheck.org — full analysis",
+        "url": "https://www.factcheck.org/2016/09/trump-on-birtherism-wrong-and-wrong/"
+      }
+    ],
+    "statementDate": "2016-09-16",
+    "statementVenue": "Statement at the Trump International Hotel, Washington, D.C.",
+    "statementSource": "https://www.nbcnews.com/politics/2016-election/donald-trump-obama-was-born-united-states-n649501"
+  },
+  {
+    "slug": "2016-09-07-totally-against-the-iraq-war-the-2002-tape-says-otherwise",
+    "date": "2016-09-07",
+    "title": "'Totally against' the Iraq war? The 2002 tape says otherwise.",
+    "claim": "I was totally against the war in Iraq",
+    "topic": "Foreign policy",
+    "verdict": "False",
+    "summary": "PolitiFact rated the claim False. In a September 2002 radio interview, asked whether he supported invading Iraq, Trump answered 'Yeah, I guess so.' FactCheck.org found no evidence he opposed the war before the March 2003 invasion; he voiced concerns about its cost and direction a few months after it began.",
+    "reviewed": true,
+    "sources": [
+      {
+        "label": "PolitiFact — rated False",
+        "url": "https://www.politifact.com/factchecks/2016/sep/07/donald-trump/trump-repeats-wrong-claim-he-opposed-iraq-war/"
+      },
+      {
+        "label": "FactCheck.org — Trump and the Iraq war",
+        "url": "https://www.factcheck.org/2016/02/donald-trump-and-the-iraq-war"
+      }
+    ],
+    "statementDate": "2016-09-07",
+    "statementVenue": "NBC News Commander-in-Chief Forum, New York",
+    "statementSource": "https://www.politifact.com/factchecks/2016/sep/07/donald-trump/trump-repeats-wrong-claim-he-opposed-iraq-war/"
   },
   {
     "slug": "2016-02-25-tax-returns-from-certainly-to-audit-excuses",

@@ -260,5 +260,113 @@
       "url": "https://www.washingtonpost.com/news/the-fix/wp/2015/10/06/donald-trumps-many-campaign-180s-in-his-own-words/"
     },
     "context": "Trump first called for defunding Planned Parenthood, then discussed preserving support for its non-abortion health services. His position changed again in September. The precise distinction between funding the organization and specific services matters."
+  },
+  {
+    "id": "2016-09-16-birtherism-birth-certificate-is-a-fraud-vs-born-in-the-united",
+    "title": "Birtherism: 'birth certificate is a fraud' vs 'born in the United States'",
+    "reviewed": true,
+    "before": {
+      "date": "2012-08-06",
+      "quote": "An 'extremely credible source' has called my office and told me that @BarackObama's birth certificate is a fraud.",
+      "where": "Twitter post",
+      "url": "https://www.factcheck.org/2016/09/trump-surrogates-spin-birther-narrative/"
+    },
+    "after": {
+      "date": "2016-09-16",
+      "quote": "President Barack Obama was born in the United States, period.",
+      "where": "Statement at the Trump International Hotel, Washington, D.C.",
+      "url": "https://www.nbcnews.com/politics/2016-election/donald-trump-obama-was-born-united-states-n649501"
+    },
+    "context": "Trump questioned President Obama's birthplace for years, including a 2012 tweet calling the birth certificate a fraud, then acknowledged in September 2016 that Obama was born in the United States. In the same statement he blamed Hillary Clinton's 2008 campaign for starting the controversy; FactCheck.org found no evidence of that (see the separate entry)."
+  },
+  {
+    "id": "2016-09-07-iraq-war-yeah-i-guess-so-vs-totally-against",
+    "title": "Iraq war: 'Yeah, I guess so' vs 'totally against'",
+    "reviewed": true,
+    "before": {
+      "date": "2002-09-11",
+      "quote": "Yeah, I guess so.",
+      "where": "Howard Stern radio interview, answering whether he supported invading Iraq",
+      "url": "https://www.factcheck.org/2016/02/donald-trump-and-the-iraq-war"
+    },
+    "after": {
+      "date": "2016-09-07",
+      "quote": "I was totally against the war in Iraq.",
+      "where": "NBC News Commander-in-Chief Forum, New York",
+      "url": "https://www.politifact.com/factchecks/2016/sep/07/donald-trump/trump-repeats-wrong-claim-he-opposed-iraq-war/"
+    },
+    "context": "FactCheck.org found no evidence that Trump opposed the war before the March 19, 2003 invasion; he voiced concerns about its cost and direction a few months after it began. PolitiFact rated his 2016 claim False. The 2002 answer responded to a question about a not-yet-launched invasion, which is why the sourced timeline matters."
+  },
+  {
+    "id": "2018-05-03-stormy-daniels-payment-no-no-then-through-reimbursement",
+    "title": "Stormy Daniels payment: 'No. No.' then 'through reimbursement'",
+    "reviewed": true,
+    "before": {
+      "date": "2018-04-05",
+      "quote": "No. No. What else?",
+      "where": "Air Force One, answering whether he knew about the $130,000 payment",
+      "url": "https://www.factcheck.org/?p=139857"
+    },
+    "after": {
+      "date": "2018-05-03",
+      "quote": "…received a monthly retainer, not from the campaign… through reimbursement…",
+      "where": "Tweets acknowledging that Michael Cohen was reimbursed (excerpt)",
+      "url": "https://www.vpm.org/npr-news/2018-05-02/trump-admits-to-authorizing-stormy-daniels-payoff-denies-sexual-encounter"
+    },
+    "context": "On April 5, 2018 Trump said no when asked whether he knew about the $130,000 payment to Stormy Daniels, and said to ask his attorney Michael Cohen. On May 3 he acknowledged that Cohen had been reimbursed, while saying campaign money played no role in the transaction. On whether the April 5 denial misled the public, FactCheck.org wrote 'It would appear so.'"
+  },
+  {
+    "id": "2018-05-31-comey-firing-this-russia-thing-vs-never-fired-because-of-russia",
+    "title": "Comey firing: 'this Russia thing' vs 'never fired … because of Russia'",
+    "reviewed": true,
+    "before": {
+      "date": "2017-05-11",
+      "quote": "this Russia thing with Trump and Russia is a made up story",
+      "where": "NBC News interview with Lester Holt, White House, explaining his decision to fire James Comey",
+      "url": "https://amp.cnn.com/cnn/2018/05/31/politics/donald-trump-russia"
+    },
+    "after": {
+      "date": "2018-05-31",
+      "quote": "Not that it matters but I never fired James Comey because of Russia!",
+      "where": "Twitter post",
+      "url": "https://www.nbcnews.com/politics/donald-trump/trump-says-he-didn-t-fire-comey-because-russia-contradicting-n878836"
+    },
+    "context": "In May 2017 Trump told NBC News that when he decided to fire Comey he regarded the Russia matter as a made-up story, even though a memo by Deputy Attorney General Rod Rosenstein, which did not mention the Russia inquiry, had been presented as the rationale. In May 2018 he tweeted that Russia was not the reason. Whether Russia was a motive is a separate legal question; this entry only documents that his two public accounts differ."
+  },
+  {
+    "id": "2020-09-10-covid-19-i-wanted-to-always-play-it-down-vs-i-didnt-lie",
+    "title": "COVID-19: 'I wanted to always play it down' vs 'I didn't lie'",
+    "reviewed": true,
+    "before": {
+      "date": "2020-03-19",
+      "quote": "I wanted to always play it down.",
+      "where": "Recorded call with journalist Bob Woodward (made public in September 2020)",
+      "url": "https://nbcnews.com/politics/donald-trump/trump-says-he-didn-t-lie-americans-about-coronavirus-risks-n1239809"
+    },
+    "after": {
+      "date": "2020-09-10",
+      "quote": "I didn't lie.",
+      "where": "Remarks reported by NBC News",
+      "url": "https://nbcnews.com/politics/donald-trump/trump-says-he-didn-t-lie-americans-about-coronavirus-risks-n1239809"
+    },
+    "context": "In recorded calls with Woodward, Trump said in February 2020 the virus was more deadly than a strenuous flu and in March that he wanted to always play it down. In public he continued to say the virus was like a flu. After the recordings emerged he said he had not lied and that the message was to stay calm. Playing something down is not by itself proof of lying; this entry documents the gap between his private remarks and public messaging."
+  },
+  {
+    "id": "2019-01-10-the-wall-i-will-have-mexico-pay-vs-i-didnt-say-theyre-going-to",
+    "title": "The wall: 'I will have Mexico pay' vs 'I didn't say they're going to write me a check'",
+    "reviewed": true,
+    "before": {
+      "date": "2015-06-16",
+      "quote": "And I will have Mexico pay for that wall. Mark my words.",
+      "where": "Presidential campaign announcement speech",
+      "url": "https://www.politifact.com/factchecks/2019/jan/10/donald-trump/trump-claims-he-never-meant-mexico-would-write-che"
+    },
+    "after": {
+      "date": "2019-01-10",
+      "quote": "I didn't say they're going to write me a check for $20 billion or $10 billion.",
+      "where": "Border roundtable, McAllen, Texas",
+      "url": "https://www.politifact.com/factchecks/2019/jan/10/donald-trump/trump-claims-he-never-meant-mexico-would-write-che"
+    },
+    "context": "PolitiFact rated the 2019 claim False: Trump's own campaign memo called a one-time payment of $5 billion to $10 billion 'an easy decision for Mexico,' contradicting the claim that he never meant a check. Trump later argued Mexico pays indirectly through a trade deal; the Associated Press found that deal contains no such payment (see the separate entry)."
   }
 ]

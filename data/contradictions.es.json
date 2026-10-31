@@ -10,7 +10,10 @@
       "where": "Publicación en Truth Social después de que los aliados de la OTAN se negaran a unirse a la operación"
     },
     "context": "Durante la guerra de Irán de marzo de 2026, Trump pidió públicamente a otros países que ayudaran a proteger el transporte marítimo por el estrecho de Ormuz. Después de que los aliados de la OTAN rechazaran participar, afirmó que Estados Unidos nunca había necesitado su ayuda. El 17 de marzo también dijo en el Despacho Oval: «no los necesitamos, pero deberían haber estado ahí». Es una inversión documentada en cómo describe públicamente si hacía falta la ayuda aliada; pedir ayuda y decir después que no era estrictamente necesaria no son, por sí mismos, lógicamente incompatibles.",
-    "moreSourceLabels": ["Reuters — la negativa de la OTAN, un «error muy necio»", "ABC News — Trump arremete contra la OTAN"]
+    "moreSourceLabels": [
+      "Reuters — la negativa de la OTAN, un «error muy necio»",
+      "ABC News — Trump arremete contra la OTAN"
+    ]
   },
   "2019-04-11-wikileaks-from-i-love-to-i-know-nothing": {
     "title": "WikiLeaks: de «me encanta» a «no sé nada»",
@@ -167,5 +170,77 @@
       "where": "Entrevista en CNN"
     },
     "context": "Trump primero pidió retirar la financiación de Planned Parenthood y luego habló de conservar el apoyo a sus servicios de salud que no son abortos. Su postura volvió a cambiar en septiembre. Importa la distinción precisa entre financiar a la organización y financiar servicios concretos."
+  },
+  "2016-09-16-birtherism-birth-certificate-is-a-fraud-vs-born-in-the-united": {
+    "title": "Birtherismo: «el certificado de nacimiento es un fraude» frente a «nació en Estados Unidos»",
+    "before": {
+      "quote": "Una «fuente extremadamente creíble» ha llamado a mi oficina y me ha dicho que el certificado de nacimiento de @BarackObama es un fraude.",
+      "where": "Publicación en Twitter"
+    },
+    "after": {
+      "quote": "El presidente Barack Obama nació en Estados Unidos, punto.",
+      "where": "Declaración en el Trump International Hotel, Washington, D. C."
+    },
+    "context": "Trump puso en duda durante años el lugar de nacimiento del presidente Obama, incluido un tuit de 2012 que calificaba el certificado de fraude, y en septiembre de 2016 reconoció que Obama nació en Estados Unidos. En esa misma declaración culpó a la campaña de Hillary Clinton de 2008 de haber iniciado la polémica; FactCheck.org no encontró ninguna prueba de ello (véase la entrada aparte)."
+  },
+  "2016-09-07-iraq-war-yeah-i-guess-so-vs-totally-against": {
+    "title": "Guerra de Irak: «Sí, supongo» frente a «totalmente en contra»",
+    "before": {
+      "quote": "Sí, supongo.",
+      "where": "Entrevista de radio con Howard Stern, al preguntarle si apoyaba invadir Irak"
+    },
+    "after": {
+      "quote": "Yo estaba totalmente en contra de la guerra de Irak.",
+      "where": "Foro Commander-in-Chief de NBC News, Nueva York"
+    },
+    "context": "FactCheck.org no encontró pruebas de que Trump se opusiera a la guerra antes de la invasión del 19 de marzo de 2003; expresó dudas sobre su coste y rumbo unos meses después de que empezara. PolitiFact calificó como Falsa su afirmación de 2016. La respuesta de 2002 era a una pregunta sobre una invasión aún no lanzada, de ahí que importe la cronología documentada."
+  },
+  "2018-05-03-stormy-daniels-payment-no-no-then-through-reimbursement": {
+    "title": "Pago a Stormy Daniels: «No. No.» y luego «mediante reembolso»",
+    "before": {
+      "quote": "No. No. ¿Qué más?",
+      "where": "Air Force One, al preguntarle si sabía del pago de 130.000 dólares"
+    },
+    "after": {
+      "quote": "…recibió un anticipo mensual, no de la campaña… mediante reembolso…",
+      "where": "Tuits en los que reconoce que Michael Cohen fue reembolsado (extracto)"
+    },
+    "context": "El 5 de abril de 2018 Trump respondió que no cuando le preguntaron si sabía del pago de 130.000 dólares a Stormy Daniels, y dijo que se lo preguntaran a su abogado Michael Cohen. El 3 de mayo reconoció que a Cohen se le había reembolsado, aunque aseguró que el dinero de la campaña no intervino en la operación. Sobre si la negativa del 5 de abril engañó al público, FactCheck.org escribió: «Parece que sí»."
+  },
+  "2018-05-31-comey-firing-this-russia-thing-vs-never-fired-because-of-russia": {
+    "title": "Cese de Comey: «esa cosa de Rusia» frente a «nunca despedí a Comey … por Rusia»",
+    "before": {
+      "quote": "esa cosa de Rusia con Trump y Rusia es una historia inventada",
+      "where": "Entrevista de NBC News con Lester Holt, Casa Blanca, al explicar su decisión de despedir a James Comey"
+    },
+    "after": {
+      "quote": "Aunque no importe, ¡yo nunca despedí a James Comey por Rusia!",
+      "where": "Publicación en Twitter"
+    },
+    "context": "En mayo de 2017 Trump dijo a NBC News que, cuando decidió despedir a Comey, consideraba el asunto ruso una historia inventada, aunque como justificación se había presentado un memorando del fiscal general adjunto Rod Rosenstein que no mencionaba la investigación rusa. En mayo de 2018 tuiteó que Rusia no fue el motivo. Si Rusia fue un motivo es una cuestión legal aparte; esta entrada solo documenta que sus dos versiones públicas difieren."
+  },
+  "2020-09-10-covid-19-i-wanted-to-always-play-it-down-vs-i-didnt-lie": {
+    "title": "COVID-19: «Siempre quise restarle importancia» frente a «no mentí»",
+    "before": {
+      "quote": "Siempre quise restarle importancia.",
+      "where": "Llamada grabada con el periodista Bob Woodward (hecha pública en septiembre de 2020)"
+    },
+    "after": {
+      "quote": "No mentí.",
+      "where": "Declaraciones recogidas por NBC News"
+    },
+    "context": "En llamadas grabadas con Woodward, Trump dijo en febrero de 2020 que el virus era más mortal que una gripe fuerte y en marzo que siempre quiso restarle importancia. En público siguió diciendo que era como una gripe. Cuando salieron las grabaciones dijo que no había mentido y que el mensaje era mantener la calma. Restar importancia a algo no prueba por sí solo que se mienta; esta entrada documenta la distancia entre lo que dijo en privado y su mensaje público."
+  },
+  "2019-01-10-the-wall-i-will-have-mexico-pay-vs-i-didnt-say-theyre-going-to": {
+    "title": "El muro: «Haré que México pague» frente a «no dije que me fueran a hacer un cheque»",
+    "before": {
+      "quote": "Y haré que México pague por ese muro. Tomen nota de mis palabras.",
+      "where": "Discurso de anuncio de su candidatura presidencial"
+    },
+    "after": {
+      "quote": "No dije que fueran a hacerme un cheque de 20.000 millones o de 10.000 millones de dólares.",
+      "where": "Mesa redonda en la frontera, McAllen, Texas"
+    },
+    "context": "PolitiFact calificó como Falsa la afirmación de 2019: el propio memorando de campaña de Trump calificaba un pago único de 5.000 a 10.000 millones de dólares de «una decisión fácil para México», lo que contradice que nunca hubiera hablado de un cheque. Más tarde Trump sostuvo que México paga de forma indirecta con un acuerdo comercial; la Associated Press comprobó que ese acuerdo no contiene tal pago (véase la entrada aparte)."
   }
 }
