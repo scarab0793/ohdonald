@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-10-21-iran-talks-productive-discussions-vs-not-negotiating",
+    "title": "Iran talks: 'productive discussions' vs 'we're not negotiating'",
+    "reviewed": true,
+    "before": {
+      "date": "2026-10-08",
+      "quote": "We are having productive discussions with the Islamic Republic of Iran.",
+      "where": "Truth Social post, 12:17 p.m. EDT",
+      "url": "https://www.presidency.ucsb.edu/documents/truth-social-posts-october-8-2026"
+    },
+    "after": {
+      "date": "2026-10-21",
+      "quote": "No, I think we're not negotiating with them.",
+      "where": "Press gaggle at Joint Base Andrews, Maryland, after travel to South Carolina",
+      "url": "https://rollcall.com/factbase/trump/transcript/donald-trump-press-gaggle-after-air-force-one-arrival-october-21-2026/"
+    },
+    "context": "On October 8, Trump stated that the United States was having productive discussions with Iran, while announcing that he would not attack Iran before the November 3 midterm elections. On October 21, asked whether negotiations were ongoing, he first answered 'A little bit, but we'll see what happens,' then said 'No, I think we're not negotiating with them.' These are contrasting public descriptions of whether discussions were taking place, 13 days apart. They are not necessarily logically incompatible: talks may have stalled or ended during that interval. Both original statements and dates were independently checked against the American Presidency Project and the Roll Call Factba.se transcript.",
+    "moreSources": [
+      {
+        "label": "Original Truth Social post archived by Trump's Truth, October 8",
+        "url": "https://www.trumpstruth.org/statuses/42202"
+      },
+      {
+        "label": "American Presidency Project — White House press pool reports, October 21",
+        "url": "https://www.presidency.ucsb.edu/documents/pool-reports-october-21-2026"
+      },
+      {
+        "label": "Reuters — Trump announces productive Iran talks, October 8",
+        "url": "https://www.investing.com/news/commodities-news/trump-us-having-productive-talks-with-iran-will-not-attack-before-us-elections-in-november-4939501"
+      }
+    ]
+  },
+  {
     "id": "2026-10-31-iran-war-i-might-have-gone-too-far-vs-we-can-do-that-in-10",
     "title": "Iran war: 'I might have gone too far' vs 'we can do that in 10 minutes'",
     "reviewed": true,
