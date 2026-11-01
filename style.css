@@ -242,3 +242,12 @@ footer a { color: var(--orange); }
 .long-evidence { padding-left: 22px; }
 .long-evidence li { margin-bottom: 10px; }
 .long-h { font: 700 13px/1.4 var(--ui); letter-spacing: .08em; margin: 26px 0 8px; }
+
+
+/* Shareable, source-linked contradiction cards */
+.pair { scroll-margin-top: 24px; }
+.pair:target { outline: 2px solid var(--yellow); outline-offset: 8px; }
+.pair-permalink { display: inline-block; margin-top: 8px; color: var(--yellow); font: 700 13px var(--ui); }
+.pair-share-actions { display: flex; flex-wrap: wrap; align-items: center; gap: 9px; margin: 12px 0 6px; }
+.pair-share-actions a, .pair-share-actions button { display: inline-flex; align-items: center; min-height: 36px; padding: 8px 12px; border: 1px solid var(--line); border-radius: 4px; background: var(--panel); color: var(--text); font: 700 12px var(--ui); text-decoration: none; cursor: pointer; }
+.pair-share-actions a:hover, .pair-share-actions button:hover { border-color: var(--yellow); color: var(--yellow); }
