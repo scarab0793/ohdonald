@@ -263,6 +263,28 @@
         share.href = '/#' + encodeURIComponent(p.id);
         share.setAttribute('aria-label', 'Share direct link to ' + p.title);
         article.append(share);
+        const shareRow = el('div', 'pair-share-actions');
+        const directUrl = new URL('/#' + encodeURIComponent(p.id), location.origin).href;
+        const copyButton = el('button', '', 'Copy link');
+        copyButton.type = 'button';
+        copyButton.addEventListener('click', async () => {
+          try {
+            await navigator.clipboard.writeText(directUrl);
+            copyButton.textContent = 'Copied!';
+          } catch (_) {
+            window.prompt('Copy this link:', directUrl);
+          }
+        });
+        const reddit = el('a', '', 'Share on Reddit ↗');
+        reddit.href = 'https://www.reddit.com/submit?url=' + encodeURIComponent(directUrl) + '&title=' + encodeURIComponent(p.title + ' | OhDonald');
+        reddit.target = '_blank';
+        reddit.rel = 'noopener noreferrer';
+        const bluesky = el('a', '', 'Share on Bluesky ↗');
+        bluesky.href = 'https://bsky.app/intent/compose?text=' + encodeURIComponent(p.title + ' — ' + directUrl);
+        bluesky.target = '_blank';
+        bluesky.rel = 'noopener noreferrer';
+        shareRow.append(copyButton, reddit, bluesky);
+        article.append(shareRow);
       }
 
       if (Array.isArray(p.moreSources) && p.moreSources.length) {
