@@ -1,5 +1,33 @@
 [
   {
+    "id": "2026-10-31-iran-war-i-might-have-gone-too-far-vs-we-can-do-that-in-10",
+    "title": "Iran war: 'I might have gone too far' vs 'we can do that in 10 minutes'",
+    "reviewed": true,
+    "before": {
+      "date": "2026-10-14",
+      "quote": "I might have gone too far.",
+      "where": "Campaign rally, Bullhead City, Arizona",
+      "url": "https://nationalsecurityjournal.org/?p=58259"
+    },
+    "after": {
+      "date": "2026-10-31",
+      "quote": "But we can do that in, in 10 minutes. 10 minutes.",
+      "where": "Press gaggle at a Halloween party, Mar-a-Lago, Palm Beach, Florida",
+      "url": "https://rollcall.com/factbase/trump/transcript/donald-trump-press-gaggle-mar-a-lago-halloween-party-october-31-2026/"
+    },
+    "context": "At a rally in Bullhead City, Arizona, Trump said he might have gone too far in the Iran war because, with so many Iranian leaders killed, he no longer knew whom to negotiate with. Seventeen days later, at a press gaggle at Mar-a-Lago, he said talks with Iran were going fine but that the other side was not very reliable, and that one or two remaining nuclear sites could be dealt with in 10 minutes, adding that a plan for it exists (the transcript's strike passage follows a question about the Qatari-mediated talks). Also on October 31, Secretary of State Marco Rubio said Trump had not decided whether to resume strikes and prefers a diplomatic resolution. The two statements are not strictly incompatible: doubts about how far a campaign went and readiness to resume targeted strikes can coexist. The pair is listed because the same speaker described the scale of the war as possibly excessive and, two weeks later, presented further strikes as quick and already planned. The rally article places the speech on a Wednesday, which gives October 14; the exact date is inferred from that.",
+    "moreSources": [
+      {
+        "label": "Fox News — Iran live updates, Oct 31 (Rubio: no decision on resuming strikes)",
+        "url": "https://www.foxnews.com/live-news/us-iran-war-trump-israel-strait-hormuz-10-31-26"
+      },
+      {
+        "label": "Global News — 'Trump says he \"might have gone too far\" in war on Iran' (Oct 14 listing)",
+        "url": "https://globalnews.ca/video/11799568/trump-lashes-out-at-pope/"
+      }
+    ]
+  },
+  {
     "id": "2026-03-17-iran-war-trump-sought-allied-help-then-said-we-never-did-need-it",
     "title": "Iran war: Trump sought allied help, then said 'WE NEVER DID' need it",
     "reviewed": true,
