@@ -258,6 +258,13 @@
       if (LANG === 'es' && !tr.context) context.lang = 'en';
       article.append(context);
 
+      if (p.id) {
+        const share = el('a', 'pair-permalink', '↗ Share this comparison');
+        share.href = '/#' + encodeURIComponent(p.id);
+        share.setAttribute('aria-label', 'Share direct link to ' + p.title);
+        article.append(share);
+      }
+
       if (Array.isArray(p.moreSources) && p.moreSources.length) {
         const more = el('div', 'source-links');
         more.append(el('span', 'statement-location', ui.moreSources + ':'));
@@ -300,7 +307,8 @@
         switchSection(next.dataset.section, true);
       });
     });
-    switchSection(location.hash === '#pairs' ? 'pairs' : 'checks', false);
+    const hash = decodeURIComponent(location.hash.slice(1));
+    switchSection(hash === 'pairs' || hash.startsWith('pair-') || hash.match(/^20\\d{2}-/) ? 'pairs' : 'checks', false);
   }
 
   /* ---------- Boot ---------- */
@@ -343,6 +351,13 @@
     renderCoverage();
     renderFeed();
     renderPairs();
+    const anchor = decodeURIComponent(location.hash.slice(1));
+    if (anchor && anchor !== 'pairs') {
+      const target = document.getElementById(anchor);
+      if (target && target.classList.contains('pair')) {
+        target.scrollIntoView({ block: 'start' });
+      }
+    }
   }
 
   init();
