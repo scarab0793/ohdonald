@@ -1,26 +1,43 @@
 #!/usr/bin/env python3
 """Collect public Truth Social post candidates. No verdicts are generated.
 
+Source: the public RSS archive at trumpstruth.org (a project of Defending Democracy
+Together, not affiliated with Truth Social). The original Truth Social API started
+answering HTTP 403 to GitHub-hosted runners on 2026-11-01, so it is no longer used.
+Each item keeps a link to the original post (originalUrl) so it can be checked at source.
+
 The output is a research lead list only. It is never published automatically.
 Exits non-zero when nothing could be collected, so a broken collector turns the
 workflow run red (and GitHub emails the repository owner) instead of failing silently.
 """
 import datetime as dt
+import email.utils
 import json
 import os
 import sys
 import urllib.request
+import xml.etree.ElementTree as ET
 from pathlib import Path
 
 ACCOUNT = os.environ.get("TRUTH_SOCIAL_ACCOUNT", "realDonaldTrump")
-BASE = "https://truthsocial.com/api/v1"
-HEADERS = {"User-Agent": "OhDonaldResearchBot/0.2 (public-source research)", "Accept": "application/json"}
+FEED = os.environ.get("TRUTH_FEED_URL", "https://www.trumpstruth.org/feed")
+LIMIT = 40
+HEADERS = {"User-Agent": "OhDonaldResearchBot/0.3 (public-source research)", "Accept": "application/rss+xml, application/xml"}
+ARCHIVE = "{https://www.trumpstruth.org/rss-extensions}"
+TRUTH = "{https://truthsocial.com/ns}"
 
 
-def get_json(url):
-    request = urllib.request.Request(url, headers=HEADERS)
+def get_feed(url):
+    request = urllib.request.Request(f"{url}?limit={LIMIT}", headers=HEADERS)
     with urllib.request.urlopen(request, timeout=25) as response:
-        return json.load(response)
+        return ET.fromstring(response.read())
+
+
+def iso(pub_date):
+    try:
+        return email.utils.parsedate_to_datetime(pub_date).astimezone(dt.timezone.utc).isoformat()
+    except (TypeError, ValueError):
+        return pub_date
 
 
 def main():
@@ -29,25 +46,27 @@ def main():
     results = []
     errors = []
     try:
-        acct = get_json(f"{BASE}/accounts/lookup?acct={ACCOUNT}")
-        posts = get_json(f"{BASE}/accounts/{acct['id']}/statuses?limit=40&exclude_replies=true")
-        for post in posts:
-            if post.get("reblog"):
-                continue
+        root = get_feed(FEED)
+        for item in root.findall("channel/item"):
+            if item.findtext(ARCHIVE + "postType") != "original" or item.findtext(ARCHIVE + "removed") == "true":
+                continue  # reposts are not his words; removed posts are not citable
+            original_id = item.findtext(TRUTH + "originalId") or ""
             results.append({
-                "id": str(post.get("id", "")),
-                "published_at": post.get("created_at"),
-                "url": post.get("url") or f"https://truthsocial.com/@{ACCOUNT}/posts/{post.get('id')}",
-                "content_html": post.get("content", ""),
+                "id": original_id or item.findtext("guid", ""),
+                "published_at": iso(item.findtext("pubDate")),
+                "url": item.findtext(TRUTH + "originalUrl") or f"https://truthsocial.com/@{ACCOUNT}/posts/{original_id}",
+                "archive_url": item.findtext("link"),
+                "content_html": item.findtext("description", ""),
                 "status": "UNREVIEWED",
-                "note": "Not independently fact-checked. Do not publish as a verdict.",
+                "note": "Not independently fact-checked. Do not publish as a verdict. Verify against the original post.",
             })
-    except Exception as exc:  # network errors, HTTP 4xx/5xx, bad JSON
-        errors.append(f"Public API unavailable: {type(exc).__name__}: {exc}")
+    except Exception as exc:  # network errors, HTTP 4xx/5xx, bad XML
+        errors.append(f"Archive feed unavailable: {type(exc).__name__}: {exc}")
 
     out.write_text(json.dumps({
         "collected_at": dt.datetime.now(dt.timezone.utc).isoformat(),
         "account": ACCOUNT,
+        "source": FEED,
         "posts": results,
         "errors": errors,
         "editorial_status": "RESEARCH ONLY — NOT APPROVED FOR PUBLICATION",
